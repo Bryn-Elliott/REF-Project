@@ -1,0 +1,1889 @@
+institution_id,institution_name,uoa_id,uoa_name,submission_fte,output_count,aggregate_ref_score
+10007783,University of Aberdeen,1,Clinical Medicine,139.02,100,2.92
+10007783,University of Aberdeen,2,"Public Health, Health Services and Primary Care",30.15,100,3.53
+10007783,University of Aberdeen,4,"Psychology, Psychiatry and Neuroscience",25,100,3.28
+10007783,University of Aberdeen,5,Biological Sciences,16.5,100,2.97
+10007783,University of Aberdeen,7,Earth Systems and Environmental Sciences,83.2,100,3.13
+10007783,University of Aberdeen,8,Chemistry,19,100,3.16
+10007783,University of Aberdeen,10,Mathematical Sciences,24,100,3.1
+10007783,University of Aberdeen,11,Computer Science and Informatics,15.5,100,3.2
+10007783,University of Aberdeen,12,Engineering,69.4,100,2.92
+10007783,University of Aberdeen,15,Archaeology,10,100,3.19
+10007783,University of Aberdeen,17,Business and Management Studies,62.85,100,2.96
+10007783,University of Aberdeen,18,Law,41,100,3.08
+10007783,University of Aberdeen,19,Politics and International Studies,19.8,100,2.68
+10007783,University of Aberdeen,21,Sociology,9.3,100,2.86
+10007783,University of Aberdeen,22,Anthropology and Development Studies,11.5,100,3.09
+10007783,University of Aberdeen,23,Education,15.8,100,2.59
+10007783,University of Aberdeen,26,Modern Languages and Linguistics,18,100,2.89
+10007783,University of Aberdeen,27,English Language and Literature,22.66,100,3.23
+10007783,University of Aberdeen,28,History,26.5,100,2.87
+10007783,University of Aberdeen,30,Philosophy,8.8,100,2.69
+10007783,University of Aberdeen,31,Theology and Religious Studies,19.4,100,3.6
+10007783,University of Aberdeen,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",10.75,100,2.74
+10007849,Abertay University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",10,70,2.55
+10007849,Abertay University,4,"Psychology, Psychiatry and Neuroscience",14.55,100,2.68
+10007849,Abertay University,6,"Agriculture, Food and Veterinary Sciences",11.72,100,2.81
+10007849,Abertay University,12,Engineering,26,75,2.74
+10007849,Abertay University,18,Law,7,95,1.83
+10007849,Abertay University,21,Sociology,10,70,2.33
+10007849,Abertay University,24,"Sport and Exercise Sciences, Leisure and Tourism",11.6,80,2.51
+10007849,Abertay University,32,"Art and Design: History, Practice and Theory",19.9,75,3.08
+10007856,Aberystwyth University / Prifysgol Aberystwyth,4,"Psychology, Psychiatry and Neuroscience",18,100,2.17
+10007856,Aberystwyth University / Prifysgol Aberystwyth,6,"Agriculture, Food and Veterinary Sciences",81.75,100,3.21
+10007856,Aberystwyth University / Prifysgol Aberystwyth,9,Physics,18.17,100,2.7
+10007856,Aberystwyth University / Prifysgol Aberystwyth,10,Mathematical Sciences,12,100,2.86
+10007856,Aberystwyth University / Prifysgol Aberystwyth,11,Computer Science and Informatics,27.82,100,3.17
+10007856,Aberystwyth University / Prifysgol Aberystwyth,14,Geography and Environmental Studies,34.91,100,3.26
+10007856,Aberystwyth University / Prifysgol Aberystwyth,17,Business and Management Studies,18.67,100,2.61
+10007856,Aberystwyth University / Prifysgol Aberystwyth,18,Law,12.6,100,2.62
+10007856,Aberystwyth University / Prifysgol Aberystwyth,19,Politics and International Studies,22.7,100,3.15
+10007856,Aberystwyth University / Prifysgol Aberystwyth,26,Modern Languages and Linguistics,14.5,100,3.03
+10007856,Aberystwyth University / Prifysgol Aberystwyth,27,English Language and Literature,10.7,100,2.76
+10007856,Aberystwyth University / Prifysgol Aberystwyth,28,History,12.25,100,2.89
+10007856,Aberystwyth University / Prifysgol Aberystwyth,32,"Art and Design: History, Practice and Theory",7,100,3.08
+10007856,Aberystwyth University / Prifysgol Aberystwyth,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",16.7,100,3.08
+10000163,AECC University College,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",7.7,20,2.07
+10000291,Anglia Ruskin University Higher Education Corporation,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",50.9,25,3
+10000291,Anglia Ruskin University Higher Education Corporation,4,"Psychology, Psychiatry and Neuroscience",28.8,90,2.68
+10000291,Anglia Ruskin University Higher Education Corporation,12,Engineering,15.6,50,2.31
+10000291,Anglia Ruskin University Higher Education Corporation,13,"Architecture, Built Environment and Planning",19,55,2.65
+10000291,Anglia Ruskin University Higher Education Corporation,14,Geography and Environmental Studies,20.7,75,2.54
+10000291,Anglia Ruskin University Higher Education Corporation,17,Business and Management Studies,17.3,30,3.15
+10000291,Anglia Ruskin University Higher Education Corporation,18,Law,8,50,2.27
+10000291,Anglia Ruskin University Higher Education Corporation,20,Social Work and Social Policy,15.51,55,2.84
+10000291,Anglia Ruskin University Higher Education Corporation,21,Sociology,13,50,2.73
+10000291,Anglia Ruskin University Higher Education Corporation,23,Education,7.5,25,2.45
+10000291,Anglia Ruskin University Higher Education Corporation,24,"Sport and Exercise Sciences, Leisure and Tourism",12,75,2.58
+10000291,Anglia Ruskin University Higher Education Corporation,27,English Language and Literature,16.2,80,3.16
+10000291,Anglia Ruskin University Higher Education Corporation,28,History,5,70,3.16
+10000291,Anglia Ruskin University Higher Education Corporation,32,"Art and Design: History, Practice and Theory",16.7,45,2.84
+10000291,Anglia Ruskin University Higher Education Corporation,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",8.01,50,3.35
+10000291,Anglia Ruskin University Higher Education Corporation,34,"Communication, Cultural and Media Studies, Library and Information Management",5,85,3.31
+10000385,"Arts University Bournemouth, the",32,"Art and Design: History, Practice and Theory",29.83,45,2.67
+10000385,"Arts University Bournemouth, the",33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15.5,25,2.54
+10007162,"University of the Arts, London",32,"Art and Design: History, Practice and Theory",191.5,30,3.18
+10007759,Aston University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",107.26,100,3.18
+10007759,Aston University,11,Computer Science and Informatics,34,100,2.84
+10007759,Aston University,12,Engineering,103.45,100,2.97
+10007759,Aston University,17,Business and Management Studies,109.05,100,3.09
+10007759,Aston University,21,Sociology,17.8,100,2.99
+10007759,Aston University,25,Area Studies,27.6,100,3.2
+10007759,Aston University,26,Modern Languages and Linguistics,36.2,100,2.96
+10007857,Bangor University / Prifysgol Bangor,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",22.16,100,3.4
+10007857,Bangor University / Prifysgol Bangor,4,"Psychology, Psychiatry and Neuroscience",28.76,100,3.17
+10007857,Bangor University / Prifysgol Bangor,7,Earth Systems and Environmental Sciences,75.3,100,3.54
+10007857,Bangor University / Prifysgol Bangor,12,Engineering,25.55,100,3.02
+10007857,Bangor University / Prifysgol Bangor,17,Business and Management Studies,21.7,100,2.92
+10007857,Bangor University / Prifysgol Bangor,21,Sociology,28.7,100,2.81
+10007857,Bangor University / Prifysgol Bangor,24,"Sport and Exercise Sciences, Leisure and Tourism",16.8,100,3.65
+10007857,Bangor University / Prifysgol Bangor,26,Modern Languages and Linguistics,32.8,100,3.08
+10007857,Bangor University / Prifysgol Bangor,27,English Language and Literature,18.8,100,3.07
+10007850,The University of Bath,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",34.5,100,3.51
+10007850,The University of Bath,4,"Psychology, Psychiatry and Neuroscience",61.45,100,3.03
+10007850,The University of Bath,5,Biological Sciences,46.2,100,3.2
+10007850,The University of Bath,8,Chemistry,41.6,100,3.52
+10007850,The University of Bath,9,Physics,38.8,100,3.38
+10007850,The University of Bath,10,Mathematical Sciences,64.9,100,3.46
+10007850,The University of Bath,11,Computer Science and Informatics,29,100,3.35
+10007850,The University of Bath,12,Engineering,157.1,100,3.3
+10007850,The University of Bath,16,Economics and Econometrics,40.2,100,2.89
+10007850,The University of Bath,17,Business and Management Studies,94.7,100,3.49
+10007850,The University of Bath,19,Politics and International Studies,34.9,100,2.97
+10007850,The University of Bath,20,Social Work and Social Policy,46.82,100,3.39
+10007850,The University of Bath,23,Education,34.8,100,3.14
+10007850,The University of Bath,24,"Sport and Exercise Sciences, Leisure and Tourism",37.7,100,3.63
+10000571,Bath Spa University,4,"Psychology, Psychiatry and Neuroscience",18.5,75,2.06
+10000571,Bath Spa University,14,Geography and Environmental Studies,9.15,80,2.55
+10000571,Bath Spa University,17,Business and Management Studies,12,35,2.57
+10000571,Bath Spa University,23,Education,26.6,30,2.72
+10000571,Bath Spa University,27,English Language and Literature,32.35,90,3.23
+10000571,Bath Spa University,28,History,11,100,2.7
+10000571,Bath Spa University,32,"Art and Design: History, Practice and Theory",25.4,70,2.51
+10000571,Bath Spa University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",23.3,40,2.61
+10000571,Bath Spa University,34,"Communication, Cultural and Media Studies, Library and Information Management",14.3,50,3.06
+10007152,University of Bedfordshire,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",27.7,30,2.58
+10007152,University of Bedfordshire,11,Computer Science and Informatics,10,45,2.2
+10007152,University of Bedfordshire,12,Engineering,8.8,75,2.1
+10007152,University of Bedfordshire,17,Business and Management Studies,8,15,2.64
+10007152,University of Bedfordshire,20,Social Work and Social Policy,23.8,35,3.16
+10007152,University of Bedfordshire,23,Education,9.1,20,2.38
+10007152,University of Bedfordshire,24,"Sport and Exercise Sciences, Leisure and Tourism",10.6,35,2.8
+10007152,University of Bedfordshire,27,English Language and Literature,7.2,80,3.65
+10007152,University of Bedfordshire,34,"Communication, Cultural and Media Studies, Library and Information Management",14.6,45,2.63
+10007760,Birkbeck College,4,"Psychology, Psychiatry and Neuroscience",30.8,100,3.52
+10007760,Birkbeck College,5,Biological Sciences,26,100,3.44
+10007760,Birkbeck College,7,Earth Systems and Environmental Sciences,9.8,100,3.47
+10007760,Birkbeck College,11,Computer Science and Informatics,25.6,100,3.41
+10007760,Birkbeck College,14,Geography and Environmental Studies,19.8,100,2.48
+10007760,Birkbeck College,16,Economics and Econometrics,26.15,100,3.01
+10007760,Birkbeck College,17,Business and Management Studies,55.1,100,2.99
+10007760,Birkbeck College,18,Law,44.1,100,2.91
+10007760,Birkbeck College,19,Politics and International Studies,16,100,3.08
+10007760,Birkbeck College,21,Sociology,15.15,100,3.03
+10007760,Birkbeck College,26,Modern Languages and Linguistics,21.7,100,2.97
+10007760,Birkbeck College,27,English Language and Literature,40.3,100,3.66
+10007760,Birkbeck College,28,History,41.63,100,3.43
+10007760,Birkbeck College,30,Philosophy,13.33,100,2.81
+10007760,Birkbeck College,32,"Art and Design: History, Practice and Theory",32.55,100,3.62
+10006840,The University of Birmingham,1,Clinical Medicine,224,90,3.39
+10006840,The University of Birmingham,2,"Public Health, Health Services and Primary Care",46,95,3.6
+10006840,The University of Birmingham,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",45.3,90,3.36
+10006840,The University of Birmingham,4,"Psychology, Psychiatry and Neuroscience",55.4,100,3.48
+10006840,The University of Birmingham,5,Biological Sciences,60.8,100,3.38
+10006840,The University of Birmingham,7,Earth Systems and Environmental Sciences,30.8,100,3.63
+10006840,The University of Birmingham,8,Chemistry,30.8,100,3.32
+10006840,The University of Birmingham,9,Physics,55.2,100,3.61
+10006840,The University of Birmingham,10,Mathematical Sciences,57.2,100,3.45
+10006840,The University of Birmingham,11,Computer Science and Informatics,42.7,100,3.77
+10006840,The University of Birmingham,12,Engineering,143.25,100,3.49
+10006840,The University of Birmingham,14,Geography and Environmental Studies,40.2,100,3.27
+10006840,The University of Birmingham,17,Business and Management Studies,141.15,100,3.3
+10006840,The University of Birmingham,18,Law,45.2,100,3.4
+10006840,The University of Birmingham,19,Politics and International Studies,49,95,3.23
+10006840,The University of Birmingham,20,Social Work and Social Policy,46.4,100,3.42
+10006840,The University of Birmingham,22,Anthropology and Development Studies,16,100,3.3
+10006840,The University of Birmingham,23,Education,34.44,100,3.55
+10006840,The University of Birmingham,24,"Sport and Exercise Sciences, Leisure and Tourism",45.2,100,3.63
+10006840,The University of Birmingham,25,Area Studies,7,100,3.56
+10006840,The University of Birmingham,26,Modern Languages and Linguistics,34.5,100,3.29
+10006840,The University of Birmingham,27,English Language and Literature,74.7,100,3.55
+10006840,The University of Birmingham,28,History,43.2,100,3.43
+10006840,The University of Birmingham,29,Classics,18.7,100,3.24
+10006840,The University of Birmingham,30,Philosophy,17,100,3.5
+10006840,The University of Birmingham,31,Theology and Religious Studies,19.9,100,3.49
+10006840,The University of Birmingham,32,"Art and Design: History, Practice and Theory",10,100,3.57
+10006840,The University of Birmingham,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",26.6,100,3.21
+10007140,Birmingham City University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",16.45,5,2.95
+10007140,Birmingham City University,4,"Psychology, Psychiatry and Neuroscience",31.7,60,2.19
+10007140,Birmingham City University,11,Computer Science and Informatics,30,35,2.51
+10007140,Birmingham City University,12,Engineering,16,50,2.61
+10007140,Birmingham City University,13,"Architecture, Built Environment and Planning",11.4,35,2.97
+10007140,Birmingham City University,17,Business and Management Studies,23,20,2.36
+10007140,Birmingham City University,18,Law,11,25,2.28
+10007140,Birmingham City University,20,Social Work and Social Policy,13.2,40,2.59
+10007140,Birmingham City University,21,Sociology,14,70,2.41
+10007140,Birmingham City University,23,Education,14.7,15,2.3
+10007140,Birmingham City University,27,English Language and Literature,15.2,65,3.5
+10007140,Birmingham City University,32,"Art and Design: History, Practice and Theory",32.61,15,2.87
+10007140,Birmingham City University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",29.7,40,3.14
+10007140,Birmingham City University,34,"Communication, Cultural and Media Studies, Library and Information Management",31.21,60,2.99
+10007811,Bishop Grosseteste University,4,"Psychology, Psychiatry and Neuroscience",9,85,1.82
+10007811,Bishop Grosseteste University,23,Education,20.5,30,1.77
+10007811,Bishop Grosseteste University,27,English Language and Literature,5,100,2.49
+10007811,Bishop Grosseteste University,28,History,6,90,2.03
+10007811,Bishop Grosseteste University,31,Theology and Religious Studies,4.7,80,1.98
+10006841,The University of Bolton,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",12.3,10,1.03
+10006841,The University of Bolton,4,"Psychology, Psychiatry and Neuroscience",7,40,1.63
+10006841,The University of Bolton,12,Engineering,14.8,50,2.59
+10006841,The University of Bolton,17,Business and Management Studies,8,20,1.51
+10006841,The University of Bolton,23,Education,9.35,30,1.47
+10006841,The University of Bolton,27,English Language and Literature,6.4,65,2.6
+10006841,The University of Bolton,32,"Art and Design: History, Practice and Theory",8.5,35,2.43
+10000824,Bournemouth University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",77.33,65,2.72
+10000824,Bournemouth University,4,"Psychology, Psychiatry and Neuroscience",43.7,95,2.73
+10000824,Bournemouth University,11,Computer Science and Informatics,45.75,80,2.51
+10000824,Bournemouth University,12,Engineering,19.3,90,2.38
+10000824,Bournemouth University,14,Geography and Environmental Studies,28.7,100,2.87
+10000824,Bournemouth University,15,Archaeology,23.61,95,3.24
+10000824,Bournemouth University,17,Business and Management Studies,61.9,80,2.6
+10000824,Bournemouth University,18,Law,14.95,75,2.59
+10000824,Bournemouth University,20,Social Work and Social Policy,31.81,85,2.18
+10000824,Bournemouth University,24,"Sport and Exercise Sciences, Leisure and Tourism",46.6,80,3.09
+10000824,Bournemouth University,27,English Language and Literature,13,80,2.8
+10000824,Bournemouth University,32,"Art and Design: History, Practice and Theory",32.5,75,2.97
+10000824,Bournemouth University,34,"Communication, Cultural and Media Studies, Library and Information Management",73.86,70,3.09
+10007785,The University of Bradford,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",63.5,35,2.99
+10007785,The University of Bradford,4,"Psychology, Psychiatry and Neuroscience",13.2,85,2.09
+10007785,The University of Bradford,8,Chemistry,19,95,2.82
+10007785,The University of Bradford,11,Computer Science and Informatics,19,65,2.69
+10007785,The University of Bradford,12,Engineering,42.6,90,2.81
+10007785,The University of Bradford,15,Archaeology,14.3,95,3
+10007785,The University of Bradford,17,Business and Management Studies,34.6,65,3.03
+10007785,The University of Bradford,19,Politics and International Studies,15.36,80,2.75
+10000886,University of Brighton,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",56.1,50,3.22
+10000886,University of Brighton,11,Computer Science and Informatics,15,40,2.92
+10000886,University of Brighton,12,Engineering,29,55,3.02
+10000886,University of Brighton,14,Geography and Environmental Studies,38.6,85,2.94
+10000886,University of Brighton,17,Business and Management Studies,30.45,35,2.73
+10000886,University of Brighton,20,Social Work and Social Policy,45.9,65,2.83
+10000886,University of Brighton,23,Education,13.5,15,3
+10000886,University of Brighton,24,"Sport and Exercise Sciences, Leisure and Tourism",30.6,55,3.1
+10000886,University of Brighton,32,"Art and Design: History, Practice and Theory",54.11,45,3.27
+10000886,University of Brighton,34,"Communication, Cultural and Media Studies, Library and Information Management",63.85,65,3.1
+10007786,University of Bristol,1,Clinical Medicine,94.63,100,3.39
+10007786,University of Bristol,2,"Public Health, Health Services and Primary Care",152.55,100,3.68
+10007786,University of Bristol,4,"Psychology, Psychiatry and Neuroscience",77.34,100,3.33
+10007786,University of Bristol,5,Biological Sciences,70.5,100,3.53
+10007786,University of Bristol,6,"Agriculture, Food and Veterinary Sciences",31.23,100,3.43
+10007786,University of Bristol,7,Earth Systems and Environmental Sciences,44.5,100,3.67
+10007786,University of Bristol,8,Chemistry,64.2,100,3.74
+10007786,University of Bristol,9,Physics,54.1,100,3.6
+10007786,University of Bristol,10,Mathematical Sciences,85.9,100,3.68
+10007786,University of Bristol,11,Computer Science and Informatics,59.15,100,3.68
+10007786,University of Bristol,12,Engineering,157.3,100,3.56
+10007786,University of Bristol,14,Geography and Environmental Studies,49.85,100,3.55
+10007786,University of Bristol,16,Economics and Econometrics,39,100,3.45
+10007786,University of Bristol,17,Business and Management Studies,76.55,100,3.18
+10007786,University of Bristol,18,Law,63.5,100,3.51
+10007786,University of Bristol,19,Politics and International Studies,32.8,100,3.29
+10007786,University of Bristol,20,Social Work and Social Policy,47.1,100,3.69
+10007786,University of Bristol,21,Sociology,24.4,100,3.22
+10007786,University of Bristol,22,Anthropology and Development Studies,12.8,100,3.39
+10007786,University of Bristol,23,Education,42.3,100,3.48
+10007786,University of Bristol,24,"Sport and Exercise Sciences, Leisure and Tourism",9.4,100,3.71
+10007786,University of Bristol,26,Modern Languages and Linguistics,45.6,100,3.45
+10007786,University of Bristol,27,English Language and Literature,40.7,100,3.32
+10007786,University of Bristol,28,History,44.9,100,3.36
+10007786,University of Bristol,29,Classics,15,100,3.31
+10007786,University of Bristol,30,Philosophy,23,100,3.29
+10007786,University of Bristol,31,Theology and Religious Studies,7.45,100,3.15
+10007786,University of Bristol,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",28.1,100,3.41
+10000961,Brunel University London,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",72.8,100,3.17
+10000961,Brunel University London,4,"Psychology, Psychiatry and Neuroscience",34,100,2.52
+10000961,Brunel University London,7,Earth Systems and Environmental Sciences,16.4,100,2.96
+10000961,Brunel University London,10,Mathematical Sciences,26.4,100,2.89
+10000961,Brunel University London,11,Computer Science and Informatics,37.3,100,2.82
+10000961,Brunel University London,12,Engineering,152.8,100,2.92
+10000961,Brunel University London,16,Economics and Econometrics,37.6,100,2.51
+10000961,Brunel University London,17,Business and Management Studies,72,100,2.72
+10000961,Brunel University London,18,Law,38.5,100,2.83
+10000961,Brunel University London,19,Politics and International Studies,27,100,3
+10000961,Brunel University London,21,Sociology,19.6,100,2.86
+10000961,Brunel University London,22,Anthropology and Development Studies,11,100,3.05
+10000961,Brunel University London,23,Education,18.2,100,2.59
+10000961,Brunel University London,24,"Sport and Exercise Sciences, Leisure and Tourism",26,100,3.3
+10000961,Brunel University London,27,English Language and Literature,22.5,100,3.07
+10000961,Brunel University London,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",26,100,2.85
+10000975,Buckinghamshire New University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",4,5,2.51
+10000975,Buckinghamshire New University,7,Earth Systems and Environmental Sciences,2.2,100,2.4
+10000975,Buckinghamshire New University,20,Social Work and Social Policy,4.6,30,2.38
+10000975,Buckinghamshire New University,23,Education,8.5,35,1.48
+10000975,Buckinghamshire New University,24,"Sport and Exercise Sciences, Leisure and Tourism",6.5,50,2.5
+10000975,Buckinghamshire New University,32,"Art and Design: History, Practice and Theory",4.2,20,2.93
+10007788,University of Cambridge,1,Clinical Medicine,363.43,100,3.63
+10007788,University of Cambridge,2,"Public Health, Health Services and Primary Care",99.76,100,3.69
+10007788,University of Cambridge,4,"Psychology, Psychiatry and Neuroscience",150.65,105,3.61
+10007788,University of Cambridge,5,Biological Sciences,246.13,100,3.61
+10007788,University of Cambridge,6,"Agriculture, Food and Veterinary Sciences",51.9,100,3.4
+10007788,University of Cambridge,7,Earth Systems and Environmental Sciences,46,105,3.72
+10007788,University of Cambridge,8,Chemistry,77.23,110,3.72
+10007788,University of Cambridge,9,Physics,148.2,110,3.63
+10007788,University of Cambridge,10,Mathematical Sciences,152.85,130,3.7
+10007788,University of Cambridge,11,Computer Science and Informatics,80.8,105,3.59
+10007788,University of Cambridge,12,Engineering,255.51,105,3.69
+10007788,University of Cambridge,13,"Architecture, Built Environment and Planning",46.3,100,3.63
+10007788,University of Cambridge,14,Geography and Environmental Studies,48,110,3.43
+10007788,University of Cambridge,15,Archaeology,47.13,105,3.56
+10007788,University of Cambridge,16,Economics and Econometrics,48,115,3.54
+10007788,University of Cambridge,17,Business and Management Studies,61.2,100,3.67
+10007788,University of Cambridge,18,Law,112.95,120,3.36
+10007788,University of Cambridge,19,Politics and International Studies,48.49,110,3.24
+10007788,University of Cambridge,21,Sociology,31,120,3.54
+10007788,University of Cambridge,22,Anthropology and Development Studies,39.6,125,3.02
+10007788,University of Cambridge,23,Education,59.3,100,3.44
+10007788,University of Cambridge,25,Area Studies,43.6,115,3.14
+10007788,University of Cambridge,26,Modern Languages and Linguistics,115.35,125,3.31
+10007788,University of Cambridge,27,English Language and Literature,104,190,3.43
+10007788,University of Cambridge,28,History,135.5,170,3.24
+10007788,University of Cambridge,29,Classics,58.12,135,3.17
+10007788,University of Cambridge,30,Philosophy,72.6,115,3.31
+10007788,University of Cambridge,31,Theology and Religious Studies,42.9,140,3.35
+10007788,University of Cambridge,32,"Art and Design: History, Practice and Theory",34.37,115,3.48
+10007788,University of Cambridge,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",26,150,3.58
+10001143,Canterbury Christ Church University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",18.5,10,2.86
+10001143,Canterbury Christ Church University,4,"Psychology, Psychiatry and Neuroscience",26.8,65,2.63
+10001143,Canterbury Christ Church University,5,Biological Sciences,19.5,85,2.33
+10001143,Canterbury Christ Church University,18,Law,27.7,60,2.4
+10001143,Canterbury Christ Church University,19,Politics and International Studies,14.8,100,2.51
+10001143,Canterbury Christ Church University,23,Education,19.8,15,2.79
+10001143,Canterbury Christ Church University,24,"Sport and Exercise Sciences, Leisure and Tourism",19,50,3.08
+10001143,Canterbury Christ Church University,27,English Language and Literature,8.5,100,3.27
+10001143,Canterbury Christ Church University,28,History,16.3,100,2.65
+10001143,Canterbury Christ Church University,31,Theology and Religious Studies,5.6,85,2.66
+10001143,Canterbury Christ Church University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12.1,80,2.96
+10001143,Canterbury Christ Church University,34,"Communication, Cultural and Media Studies, Library and Information Management",16,60,2.99
+10007854,Cardiff Metropolitan University / Prifysgol Metropolitan Caerdydd,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",31,35,2.66
+10007854,Cardiff Metropolitan University / Prifysgol Metropolitan Caerdydd,17,Business and Management Studies,27.8,25,2.43
+10007854,Cardiff Metropolitan University / Prifysgol Metropolitan Caerdydd,23,Education,15.6,20,2.29
+10007854,Cardiff Metropolitan University / Prifysgol Metropolitan Caerdydd,24,"Sport and Exercise Sciences, Leisure and Tourism",42.2,45,3.16
+10007854,Cardiff Metropolitan University / Prifysgol Metropolitan Caerdydd,32,"Art and Design: History, Practice and Theory",24,40,3.3
+10007814,Cardiff University / Prifysgol Caerdydd,1,Clinical Medicine,86.93,100,3.18
+10007814,Cardiff University / Prifysgol Caerdydd,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",138.95,100,3.39
+10007814,Cardiff University / Prifysgol Caerdydd,4,"Psychology, Psychiatry and Neuroscience",116.07,100,3.55
+10007814,Cardiff University / Prifysgol Caerdydd,5,Biological Sciences,94.87,100,3.3
+10007814,Cardiff University / Prifysgol Caerdydd,7,Earth Systems and Environmental Sciences,38.4,100,3.57
+10007814,Cardiff University / Prifysgol Caerdydd,8,Chemistry,39.35,100,3.43
+10007814,Cardiff University / Prifysgol Caerdydd,9,Physics,52.2,100,3.45
+10007814,Cardiff University / Prifysgol Caerdydd,10,Mathematical Sciences,44.2,100,3.26
+10007814,Cardiff University / Prifysgol Caerdydd,11,Computer Science and Informatics,45.55,100,3.41
+10007814,Cardiff University / Prifysgol Caerdydd,12,Engineering,108.88,100,3.35
+10007814,Cardiff University / Prifysgol Caerdydd,13,"Architecture, Built Environment and Planning",32.3,100,3.53
+10007814,Cardiff University / Prifysgol Caerdydd,14,Geography and Environmental Studies,56.57,100,3.03
+10007814,Cardiff University / Prifysgol Caerdydd,15,Archaeology,16.5,100,3.4
+10007814,Cardiff University / Prifysgol Caerdydd,17,Business and Management Studies,172.35,100,3.33
+10007814,Cardiff University / Prifysgol Caerdydd,18,Law,49.2,100,3.34
+10007814,Cardiff University / Prifysgol Caerdydd,19,Politics and International Studies,34.8,100,3.19
+10007814,Cardiff University / Prifysgol Caerdydd,21,Sociology,49.74,100,3.29
+10007814,Cardiff University / Prifysgol Caerdydd,23,Education,33.61,100,3.55
+10007814,Cardiff University / Prifysgol Caerdydd,26,Modern Languages and Linguistics,34.5,100,3.3
+10007814,Cardiff University / Prifysgol Caerdydd,27,English Language and Literature,64.6,100,3.51
+10007814,Cardiff University / Prifysgol Caerdydd,28,History,48.5,100,3.04
+10007814,Cardiff University / Prifysgol Caerdydd,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",17.2,100,3.15
+10007814,Cardiff University / Prifysgol Caerdydd,34,"Communication, Cultural and Media Studies, Library and Information Management",31,100,3.66
+10007141,University of Central Lancashire,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",83.25,20,3
+10007141,University of Central Lancashire,4,"Psychology, Psychiatry and Neuroscience",30,60,2.79
+10007141,University of Central Lancashire,9,Physics,19.32,80,3.14
+10007141,University of Central Lancashire,10,Mathematical Sciences,4,60,2.06
+10007141,University of Central Lancashire,11,Computer Science and Informatics,14,55,2.5
+10007141,University of Central Lancashire,12,Engineering,48.6,45,2.78
+10007141,University of Central Lancashire,15,Archaeology,7,75,2.85
+10007141,University of Central Lancashire,17,Business and Management Studies,17,15,2.67
+10007141,University of Central Lancashire,18,Law,12.8,20,2.34
+10007141,University of Central Lancashire,20,Social Work and Social Policy,27.2,45,3.23
+10007141,University of Central Lancashire,24,"Sport and Exercise Sciences, Leisure and Tourism",41.4,55,2.53
+10007141,University of Central Lancashire,25,Area Studies,13,85,2.82
+10007141,University of Central Lancashire,26,Modern Languages and Linguistics,19,25,2.92
+10007141,University of Central Lancashire,27,English Language and Literature,12.75,100,2.95
+10007141,University of Central Lancashire,28,History,13.6,100,2.63
+10007141,University of Central Lancashire,30,Philosophy,7.8,100,2.54
+10007141,University of Central Lancashire,32,"Art and Design: History, Practice and Theory",22.9,40,2.89
+10007141,University of Central Lancashire,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12.6,90,2.29
+10007141,University of Central Lancashire,34,"Communication, Cultural and Media Studies, Library and Information Management",11.75,20,2.73
+10007848,University of Chester,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",34.11,95,2.81
+10007848,University of Chester,4,"Psychology, Psychiatry and Neuroscience",19.8,55,2.35
+10007848,University of Chester,5,Biological Sciences,15.3,70,2.05
+10007848,University of Chester,8,Chemistry,12,100,2.24
+10007848,University of Chester,10,Mathematical Sciences,6.5,100,2.35
+10007848,University of Chester,11,Computer Science and Informatics,7.6,50,2.23
+10007848,University of Chester,12,Engineering,14,80,2.25
+10007848,University of Chester,14,Geography and Environmental Studies,11.6,85,2.03
+10007848,University of Chester,15,Archaeology,6,100,2.46
+10007848,University of Chester,17,Business and Management Studies,18.5,30,2.54
+10007848,University of Chester,20,Social Work and Social Policy,19,85,2.25
+10007848,University of Chester,23,Education,7.48,10,2.09
+10007848,University of Chester,24,"Sport and Exercise Sciences, Leisure and Tourism",12.6,85,2.51
+10007848,University of Chester,25,Area Studies,7,100,2.76
+10007848,University of Chester,27,English Language and Literature,19.6,85,2.78
+10007848,University of Chester,28,History,11,90,2.77
+10007848,University of Chester,31,Theology and Religious Studies,14.5,95,3.18
+10007848,University of Chester,32,"Art and Design: History, Practice and Theory",9.1,45,2.73
+10007848,University of Chester,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",10,70,2.46
+10007137,The University of Chichester,4,"Psychology, Psychiatry and Neuroscience",7,95,2.08
+10007137,The University of Chichester,12,Engineering,6,65,2.27
+10007137,The University of Chichester,17,Business and Management Studies,7,45,1.75
+10007137,The University of Chichester,20,Social Work and Social Policy,2,20,1.81
+10007137,The University of Chichester,23,Education,10.4,30,1.62
+10007137,The University of Chichester,24,"Sport and Exercise Sciences, Leisure and Tourism",24.15,45,2.93
+10007137,The University of Chichester,27,English Language and Literature,8.67,75,2.89
+10007137,The University of Chichester,28,History,8.15,100,2.85
+10007137,The University of Chichester,31,Theology and Religious Studies,3,100,2.2
+10007137,The University of Chichester,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15.9,45,2.25
+10001478,"City, University of London",3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",76.79,55,3.37
+10001478,"City, University of London",4,"Psychology, Psychiatry and Neuroscience",34.9,90,2.89
+10001478,"City, University of London",10,Mathematical Sciences,15.6,95,3.3
+10001478,"City, University of London",11,Computer Science and Informatics,36.2,100,3.26
+10001478,"City, University of London",12,Engineering,48.5,95,2.89
+10001478,"City, University of London",16,Economics and Econometrics,27.2,90,3
+10001478,"City, University of London",17,Business and Management Studies,124.55,85,3.51
+10001478,"City, University of London",18,Law,30.65,50,2.89
+10001478,"City, University of London",19,Politics and International Studies,27.2,100,3.11
+10001478,"City, University of London",21,Sociology,37.8,85,3.43
+10001478,"City, University of London",27,English Language and Literature,7,90,3.13
+10001478,"City, University of London",33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",11.8,100,3.52
+10001478,"City, University of London",34,"Communication, Cultural and Media Studies, Library and Information Management",17.5,75,3.14
+10007761,Courtauld Institute of Art,32,"Art and Design: History, Practice and Theory",35.85,100,3.43
+10001726,Coventry University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",34,15,3.25
+10001726,Coventry University,4,"Psychology, Psychiatry and Neuroscience",10.2,10,3.12
+10001726,Coventry University,10,Mathematical Sciences,17,75,3.07
+10001726,Coventry University,12,Engineering,120.41,40,2.74
+10001726,Coventry University,14,Geography and Environmental Studies,54.2,75,2.55
+10001726,Coventry University,17,Business and Management Studies,77,15,2.88
+10001726,Coventry University,19,Politics and International Studies,49.81,65,2.94
+10001726,Coventry University,24,"Sport and Exercise Sciences, Leisure and Tourism",19.5,95,2.77
+10001726,Coventry University,32,"Art and Design: History, Practice and Theory",46.21,50,3.27
+10001726,Coventry University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",23.6,60,3.16
+10007822,Cranfield University,6,"Agriculture, Food and Veterinary Sciences",38.21,100,3.19
+10007822,Cranfield University,12,Engineering,269.74,100,3.17
+10007822,Cranfield University,17,Business and Management Studies,40.1,100,3.23
+10007842,The University of Cumbria,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",11.1,15,2.6
+10007842,The University of Cumbria,14,Geography and Environmental Studies,10.6,100,2.42
+10007842,The University of Cumbria,17,Business and Management Studies,7.95,25,2.1
+10007842,The University of Cumbria,20,Social Work and Social Policy,11.1,70,2
+10007842,The University of Cumbria,23,Education,9.8,15,2.14
+10007842,The University of Cumbria,32,"Art and Design: History, Practice and Theory",7.3,55,2.58
+10001883,De Montfort University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",60.1,30,2.64
+10001883,De Montfort University,4,"Psychology, Psychiatry and Neuroscience",42.4,60,2.43
+10001883,De Montfort University,11,Computer Science and Informatics,53.3,65,2.57
+10001883,De Montfort University,12,Engineering,27,65,2.72
+10001883,De Montfort University,13,"Architecture, Built Environment and Planning",31.2,70,3.03
+10001883,De Montfort University,17,Business and Management Studies,109.5,50,2.45
+10001883,De Montfort University,18,Law,23.4,45,2.12
+10001883,De Montfort University,20,Social Work and Social Policy,33.59,45,3.18
+10001883,De Montfort University,27,English Language and Literature,17.5,60,3.29
+10001883,De Montfort University,28,History,15.3,90,2.98
+10001883,De Montfort University,32,"Art and Design: History, Practice and Theory",21.4,20,2.9
+10001883,De Montfort University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",34.85,50,3.05
+10001883,De Montfort University,34,"Communication, Cultural and Media Studies, Library and Information Management",16,65,2.66
+10007851,University of Derby,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",45.11,20,2.59
+10007851,University of Derby,4,"Psychology, Psychiatry and Neuroscience",30.7,55,2.31
+10007851,University of Derby,7,Earth Systems and Environmental Sciences,19.6,55,2.82
+10007851,University of Derby,11,Computer Science and Informatics,17,50,2.48
+10007851,University of Derby,12,Engineering,19.8,25,2.38
+10007851,University of Derby,17,Business and Management Studies,33.9,30,2.37
+10007851,University of Derby,20,Social Work and Social Policy,32.8,50,2.59
+10007851,University of Derby,23,Education,21.3,25,2.71
+10007851,University of Derby,32,"Art and Design: History, Practice and Theory",16.4,40,2.59
+10007851,University of Derby,34,"Communication, Cultural and Media Studies, Library and Information Management",27.6,45,2.48
+10007852,University of Dundee,1,Clinical Medicine,64.45,100,3.38
+10007852,University of Dundee,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",33.6,100,3.39
+10007852,University of Dundee,4,"Psychology, Psychiatry and Neuroscience",19.15,100,3.06
+10007852,University of Dundee,5,Biological Sciences,72.3,100,3.7
+10007852,University of Dundee,10,Mathematical Sciences,17,100,3.39
+10007852,University of Dundee,11,Computer Science and Informatics,13.5,100,3.38
+10007852,University of Dundee,12,Engineering,45.8,100,3.26
+10007852,University of Dundee,14,Geography and Environmental Studies,23,100,3.19
+10007852,University of Dundee,17,Business and Management Studies,28.6,100,2.79
+10007852,University of Dundee,18,Law,26.8,100,2.75
+10007852,University of Dundee,20,Social Work and Social Policy,11.2,100,2.84
+10007852,University of Dundee,23,Education,18,100,2.9
+10007852,University of Dundee,27,English Language and Literature,19.5,100,3.1
+10007852,University of Dundee,28,History,16.7,100,2.61
+10007852,University of Dundee,30,Philosophy,6.2,100,2.42
+10007852,University of Dundee,32,"Art and Design: History, Practice and Theory",45.45,100,3.29
+10007143,University of Durham,4,"Psychology, Psychiatry and Neuroscience",34,100,3.22
+10007143,University of Durham,5,Biological Sciences,49.2,100,3.14
+10007143,University of Durham,7,Earth Systems and Environmental Sciences,34.86,100,3.43
+10007143,University of Durham,8,Chemistry,44.2,100,3.38
+10007143,University of Durham,9,Physics,84.2,100,3.39
+10007143,University of Durham,10,Mathematical Sciences,73.7,100,3.29
+10007143,University of Durham,11,Computer Science and Informatics,26.2,100,3.44
+10007143,University of Durham,12,Engineering,45.6,100,3.35
+10007143,University of Durham,14,Geography and Environmental Studies,67.8,100,3.55
+10007143,University of Durham,15,Archaeology,30,100,3.59
+10007143,University of Durham,17,Business and Management Studies,122.96,100,3.32
+10007143,University of Durham,18,Law,53.97,100,3.38
+10007143,University of Durham,19,Politics and International Studies,30,100,3.1
+10007143,University of Durham,21,Sociology,30.6,100,3.23
+10007143,University of Durham,22,Anthropology and Development Studies,33.6,100,3.29
+10007143,University of Durham,23,Education,35.15,100,3.57
+10007143,University of Durham,24,"Sport and Exercise Sciences, Leisure and Tourism",12,100,3.48
+10007143,University of Durham,26,Modern Languages and Linguistics,54.3,100,3.11
+10007143,University of Durham,27,English Language and Literature,48.81,100,3.34
+10007143,University of Durham,28,History,54.6,100,3.37
+10007143,University of Durham,29,Classics,20,100,3.37
+10007143,University of Durham,30,Philosophy,24.9,100,3.15
+10007143,University of Durham,31,Theology and Religious Studies,37.2,100,3.33
+10007143,University of Durham,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",16.95,100,3.38
+10007789,The University of East Anglia,1,Clinical Medicine,30.6,100,3.26
+10007789,The University of East Anglia,2,"Public Health, Health Services and Primary Care",18.6,100,3.37
+10007789,The University of East Anglia,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",47.37,100,3.34
+10007789,The University of East Anglia,4,"Psychology, Psychiatry and Neuroscience",30.7,100,3.45
+10007789,The University of East Anglia,5,Biological Sciences,73.4,100,3.36
+10007789,The University of East Anglia,6,"Agriculture, Food and Veterinary Sciences",19.4,100,3.55
+10007789,The University of East Anglia,7,Earth Systems and Environmental Sciences,65.43,100,3.61
+10007789,The University of East Anglia,8,Chemistry,34.2,100,3.34
+10007789,The University of East Anglia,10,Mathematical Sciences,19.27,100,3.22
+10007789,The University of East Anglia,11,Computer Science and Informatics,28.3,100,3.17
+10007789,The University of East Anglia,16,Economics and Econometrics,28.2,100,3.23
+10007789,The University of East Anglia,17,Business and Management Studies,57.8,100,3.39
+10007789,The University of East Anglia,18,Law,23.4,100,2.86
+10007789,The University of East Anglia,19,Politics and International Studies,18.6,100,3.34
+10007789,The University of East Anglia,20,Social Work and Social Policy,8.9,100,3.53
+10007789,The University of East Anglia,22,Anthropology and Development Studies,32.2,100,3.55
+10007789,The University of East Anglia,23,Education,15.2,100,3.02
+10007789,The University of East Anglia,25,Area Studies,42,100,3.45
+10007789,The University of East Anglia,27,English Language and Literature,48,100,3.49
+10007789,The University of East Anglia,28,History,39.7,100,3.52
+10007789,The University of East Anglia,30,Philosophy,10.2,100,2.99
+10007789,The University of East Anglia,32,"Art and Design: History, Practice and Theory",18.8,100,3.52
+10007789,The University of East Anglia,34,"Communication, Cultural and Media Studies, Library and Information Management",21.8,100,3.29
+10007144,University of East London,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",27.5,30,2.76
+10007144,University of East London,4,"Psychology, Psychiatry and Neuroscience",25.17,35,2.61
+10007144,University of East London,11,Computer Science and Informatics,12.2,60,2.8
+10007144,University of East London,12,Engineering,15,50,2.56
+10007144,University of East London,13,"Architecture, Built Environment and Planning",14.6,50,2.48
+10007144,University of East London,17,Business and Management Studies,14.2,30,2.3
+10007144,University of East London,18,Law,11.7,45,2.51
+10007144,University of East London,20,Social Work and Social Policy,9.4,50,3.01
+10007144,University of East London,21,Sociology,23.6,85,2.59
+10007144,University of East London,23,Education,14,20,2.3
+10007144,University of East London,32,"Art and Design: History, Practice and Theory",11.3,35,2.33
+10007144,University of East London,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",13,50,2.29
+10007144,University of East London,34,"Communication, Cultural and Media Studies, Library and Information Management",16.8,55,2.85
+10007823,Edge Hill University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",34.1,20,2.76
+10007823,Edge Hill University,4,"Psychology, Psychiatry and Neuroscience",23.81,90,2.45
+10007823,Edge Hill University,5,Biological Sciences,9.5,90,2.45
+10007823,Edge Hill University,11,Computer Science and Informatics,19,95,2.5
+10007823,Edge Hill University,14,Geography and Environmental Studies,10,85,2.19
+10007823,Edge Hill University,17,Business and Management Studies,17,55,2.56
+10007823,Edge Hill University,18,Law,18,65,2.94
+10007823,Edge Hill University,20,Social Work and Social Policy,17.2,90,2.48
+10007823,Edge Hill University,23,Education,25.2,20,2.48
+10007823,Edge Hill University,24,"Sport and Exercise Sciences, Leisure and Tourism",34,85,2.91
+10007823,Edge Hill University,27,English Language and Literature,19.4,95,2.92
+10007823,Edge Hill University,28,History,13,100,2.69
+10007823,Edge Hill University,34,"Communication, Cultural and Media Studies, Library and Information Management",19.2,50,2.94
+10007790,University of Edinburgh,1,Clinical Medicine,357.12,100,3.48
+10007790,University of Edinburgh,4,"Psychology, Psychiatry and Neuroscience",189.21,100,3.64
+10007790,University of Edinburgh,5,Biological Sciences,138.6,100,3.54
+10007790,University of Edinburgh,6,"Agriculture, Food and Veterinary Sciences",151.84,100,3.22
+10007790,University of Edinburgh,7,Earth Systems and Environmental Sciences,123.3,100,3.47
+10007790,University of Edinburgh,8,Chemistry,48,100,3.55
+10007790,University of Edinburgh,9,Physics,118.04,100,3.49
+10007790,University of Edinburgh,10,Mathematical Sciences,90.55,100,3.52
+10007790,University of Edinburgh,11,Computer Science and Informatics,144.04,100,3.73
+10007790,University of Edinburgh,12,Engineering,146.25,100,3.38
+10007790,University of Edinburgh,13,"Architecture, Built Environment and Planning",42.4,100,3.38
+10007790,University of Edinburgh,16,Economics and Econometrics,31.6,100,3.29
+10007790,University of Edinburgh,17,Business and Management Studies,101.75,100,3.38
+10007790,University of Edinburgh,18,Law,74.1,100,3.42
+10007790,University of Edinburgh,19,Politics and International Studies,50.65,100,3.5
+10007790,University of Edinburgh,20,Social Work and Social Policy,84.5,100,3.32
+10007790,University of Edinburgh,21,Sociology,76.51,100,3.24
+10007790,University of Edinburgh,22,Anthropology and Development Studies,63.5,100,3.23
+10007790,University of Edinburgh,23,Education,68.8,100,3.14
+10007790,University of Edinburgh,24,"Sport and Exercise Sciences, Leisure and Tourism",35.12,100,3.3
+10007790,University of Edinburgh,26,Modern Languages and Linguistics,92.8,100,3.13
+10007790,University of Edinburgh,27,English Language and Literature,46.7,100,3.6
+10007790,University of Edinburgh,28,History,75.15,100,3.26
+10007790,University of Edinburgh,29,Classics,40.6,100,3.27
+10007790,University of Edinburgh,30,Philosophy,34.3,100,3.21
+10007790,University of Edinburgh,31,Theology and Religious Studies,33.5,100,3.24
+10007790,University of Edinburgh,32,"Art and Design: History, Practice and Theory",81.15,100,3.25
+10007790,University of Edinburgh,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",22.9,100,3.39
+10007772,Edinburgh Napier University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",46.41,40,3.08
+10007772,Edinburgh Napier University,7,Earth Systems and Environmental Sciences,12,65,2.84
+10007772,Edinburgh Napier University,11,Computer Science and Informatics,39.4,75,3.13
+10007772,Edinburgh Napier University,12,Engineering,27.4,65,2.71
+10007772,Edinburgh Napier University,13,"Architecture, Built Environment and Planning",12.6,65,2.96
+10007772,Edinburgh Napier University,17,Business and Management Studies,26.2,35,2.53
+10007772,Edinburgh Napier University,18,Law,5.8,60,2.15
+10007772,Edinburgh Napier University,20,Social Work and Social Policy,9.75,60,2.99
+10007772,Edinburgh Napier University,24,"Sport and Exercise Sciences, Leisure and Tourism",26.4,60,2.76
+10007772,Edinburgh Napier University,27,English Language and Literature,11.8,85,3.01
+10007772,Edinburgh Napier University,32,"Art and Design: History, Practice and Theory",8.9,35,2.63
+10007772,Edinburgh Napier University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",7,60,1.95
+10007772,Edinburgh Napier University,34,"Communication, Cultural and Media Studies, Library and Information Management",17.4,65,3.03
+10007791,The University of Essex,2,"Public Health, Health Services and Primary Care",11.9,100,2.9
+10007791,The University of Essex,4,"Psychology, Psychiatry and Neuroscience",50.7,100,3.32
+10007791,The University of Essex,5,Biological Sciences,45.6,100,3.07
+10007791,The University of Essex,10,Mathematical Sciences,31,100,2.96
+10007791,The University of Essex,11,Computer Science and Informatics,73,100,3.32
+10007791,The University of Essex,16,Economics and Econometrics,52.15,100,3.44
+10007791,The University of Essex,17,Business and Management Studies,118.76,100,3.04
+10007791,The University of Essex,18,Law,81.9,100,3.31
+10007791,The University of Essex,19,Politics and International Studies,54,100,3.46
+10007791,The University of Essex,21,Sociology,62.41,100,3.4
+10007791,The University of Essex,24,"Sport and Exercise Sciences, Leisure and Tourism",24.1,100,3
+10007791,The University of Essex,26,Modern Languages and Linguistics,19.8,100,3.46
+10007791,The University of Essex,27,English Language and Literature,24,100,3.23
+10007791,The University of Essex,28,History,17.5,100,3.11
+10007791,The University of Essex,30,Philosophy,14,100,3.2
+10007791,The University of Essex,32,"Art and Design: History, Practice and Theory",9,100,3.4
+10007791,The University of Essex,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12,100,2.84
+10007792,University of Exeter,1,Clinical Medicine,69.61,100,3.38
+10007792,University of Exeter,2,"Public Health, Health Services and Primary Care",59.92,100,3.24
+10007792,University of Exeter,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",12.5,100,3.34
+10007792,University of Exeter,4,"Psychology, Psychiatry and Neuroscience",48.3,100,3.44
+10007792,University of Exeter,5,Biological Sciences,99.05,100,3.31
+10007792,University of Exeter,7,Earth Systems and Environmental Sciences,78.1,100,3.49
+10007792,University of Exeter,9,Physics,49.39,100,3.41
+10007792,University of Exeter,10,Mathematical Sciences,48,100,3.36
+10007792,University of Exeter,11,Computer Science and Informatics,27.9,100,3
+10007792,University of Exeter,12,Engineering,78.6,100,3.24
+10007792,University of Exeter,14,Geography and Environmental Studies,60.98,100,3.46
+10007792,University of Exeter,15,Archaeology,16,100,3.41
+10007792,University of Exeter,16,Economics and Econometrics,37.7,100,3.19
+10007792,University of Exeter,17,Business and Management Studies,79.1,100,3.46
+10007792,University of Exeter,18,Law,52.92,100,3.24
+10007792,University of Exeter,19,Politics and International Studies,58.25,100,3.33
+10007792,University of Exeter,21,Sociology,49.6,100,3.16
+10007792,University of Exeter,23,Education,38.38,100,3.08
+10007792,University of Exeter,24,"Sport and Exercise Sciences, Leisure and Tourism",33.8,100,3.78
+10007792,University of Exeter,25,Area Studies,24.09,100,3.46
+10007792,University of Exeter,26,Modern Languages and Linguistics,44.8,100,3.21
+10007792,University of Exeter,27,English Language and Literature,73.7,100,3.38
+10007792,University of Exeter,28,History,60.05,100,3.48
+10007792,University of Exeter,29,Classics,21.6,100,3.37
+10007792,University of Exeter,31,Theology and Religious Studies,11.81,100,3.58
+10007792,University of Exeter,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",16.66,100,3.35
+10008640,Falmouth University,32,"Art and Design: History, Practice and Theory",64.3,35,3.17
+10007794,University of Glasgow,1,Clinical Medicine,169.98,100,3.56
+10007794,University of Glasgow,2,"Public Health, Health Services and Primary Care",28.4,100,3.46
+10007794,University of Glasgow,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",19.8,100,3.48
+10007794,University of Glasgow,4,"Psychology, Psychiatry and Neuroscience",49.5,100,3.51
+10007794,University of Glasgow,5,Biological Sciences,34.29,100,3.39
+10007794,University of Glasgow,6,"Agriculture, Food and Veterinary Sciences",64.85,100,3.51
+10007794,University of Glasgow,7,Earth Systems and Environmental Sciences,43.32,100,3.09
+10007794,University of Glasgow,8,Chemistry,41,100,3.34
+10007794,University of Glasgow,9,Physics,58.15,100,3.5
+10007794,University of Glasgow,10,Mathematical Sciences,59.93,100,3.66
+10007794,University of Glasgow,11,Computer Science and Informatics,46.6,100,3.61
+10007794,University of Glasgow,12,Engineering,119.24,100,3.46
+10007794,University of Glasgow,13,"Architecture, Built Environment and Planning",26.3,100,3.37
+10007794,University of Glasgow,14,Geography and Environmental Studies,16,100,3.52
+10007794,University of Glasgow,15,Archaeology,12.2,100,3.33
+10007794,University of Glasgow,17,Business and Management Studies,127.33,100,3.39
+10007794,University of Glasgow,18,Law,58.5,100,3.49
+10007794,University of Glasgow,19,Politics and International Studies,40.75,100,3.27
+10007794,University of Glasgow,20,Social Work and Social Policy,51.49,100,3.46
+10007794,University of Glasgow,23,Education,48.6,100,3.45
+10007794,University of Glasgow,26,Modern Languages and Linguistics,37.8,100,2.64
+10007794,University of Glasgow,26,Modern Languages and Linguistics,9.2,100,3.07
+10007794,University of Glasgow,27,English Language and Literature,64,100,3.39
+10007794,University of Glasgow,28,History,63.46,100,3.43
+10007794,University of Glasgow,30,Philosophy,18.2,100,3.32
+10007794,University of Glasgow,32,"Art and Design: History, Practice and Theory",24.8,100,3.53
+10007794,University of Glasgow,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",13.3,100,3.44
+10007794,University of Glasgow,34,"Communication, Cultural and Media Studies, Library and Information Management",30.7,100,3.53
+10007762,Glasgow Caledonian University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",89.57,35,3.41
+10007762,Glasgow Caledonian University,11,Computer Science and Informatics,14,25,2.42
+10007762,Glasgow Caledonian University,12,Engineering,28,60,2.33
+10007762,Glasgow Caledonian University,13,"Architecture, Built Environment and Planning",24.8,40,2.89
+10007762,Glasgow Caledonian University,17,Business and Management Studies,23.4,20,2.67
+10007762,Glasgow Caledonian University,20,Social Work and Social Policy,18.5,45,2.79
+10007762,Glasgow Caledonian University,23,Education,5.1,25,2.22
+10007762,Glasgow Caledonian University,28,History,5,100,2.33
+10007762,Glasgow Caledonian University,34,"Communication, Cultural and Media Studies, Library and Information Management",8.4,55,3
+10002681,Glasgow School of Art,32,"Art and Design: History, Practice and Theory",49.4,35,3.23
+10007145,University of Gloucestershire,4,"Psychology, Psychiatry and Neuroscience",12,100,1.55
+10007145,University of Gloucestershire,12,Engineering,9.5,90,1.87
+10007145,University of Gloucestershire,13,"Architecture, Built Environment and Planning",17.8,95,2.6
+10007145,University of Gloucestershire,14,Geography and Environmental Studies,12.4,100,2.58
+10007145,University of Gloucestershire,17,Business and Management Studies,7.4,95,2.17
+10007145,University of Gloucestershire,21,Sociology,7.6,100,2.53
+10007145,University of Gloucestershire,23,Education,8,100,2.32
+10007145,University of Gloucestershire,24,"Sport and Exercise Sciences, Leisure and Tourism",15.2,100,2.75
+10007145,University of Gloucestershire,27,English Language and Literature,9.9,100,2.67
+10007145,University of Gloucestershire,28,History,4.2,100,1.97
+10007145,University of Gloucestershire,31,Theology and Religious Studies,4.6,100,2.37
+10007145,University of Gloucestershire,32,"Art and Design: History, Practice and Theory",7.8,100,3.09
+10007145,University of Gloucestershire,34,"Communication, Cultural and Media Studies, Library and Information Management",10.6,100,2.69
+10007833,Wrexham Glyndŵr University / Prifysgol Glyndŵr Wrecsam,11,Computer Science and Informatics,3.5,30,1.67
+10007833,Wrexham Glyndŵr University / Prifysgol Glyndŵr Wrecsam,12,Engineering,8.7,35,2.38
+10007833,Wrexham Glyndŵr University / Prifysgol Glyndŵr Wrecsam,20,Social Work and Social Policy,6.87,45,2.38
+10007833,Wrexham Glyndŵr University / Prifysgol Glyndŵr Wrecsam,32,"Art and Design: History, Practice and Theory",3.3,30,1.83
+10002718,Goldsmiths' College,4,"Psychology, Psychiatry and Neuroscience",34,100,3.01
+10002718,Goldsmiths' College,11,Computer Science and Informatics,32.55,100,2.85
+10002718,Goldsmiths' College,17,Business and Management Studies,27,100,2.79
+10002718,Goldsmiths' College,19,Politics and International Studies,19.4,100,2.85
+10002718,Goldsmiths' College,20,Social Work and Social Policy,16.6,100,2.93
+10002718,Goldsmiths' College,21,Sociology,45.1,100,3.25
+10002718,Goldsmiths' College,22,Anthropology and Development Studies,21,100,3.24
+10002718,Goldsmiths' College,23,Education,18.8,100,2.53
+10002718,Goldsmiths' College,27,English Language and Literature,33.55,100,3.18
+10002718,Goldsmiths' College,28,History,15.5,100,3.02
+10002718,Goldsmiths' College,32,"Art and Design: History, Practice and Theory",75.9,100,3.32
+10002718,Goldsmiths' College,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",31.35,100,3.19
+10002718,Goldsmiths' College,34,"Communication, Cultural and Media Studies, Library and Information Management",29.2,100,3.59
+10002718,Goldsmiths' College,34,"Communication, Cultural and Media Studies, Library and Information Management",15.32,100,2.89
+10007146,University of Greenwich,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",1,100,3.05
+10007146,University of Greenwich,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",53.6,65,2.95
+10007146,University of Greenwich,6,"Agriculture, Food and Veterinary Sciences",47.03,80,3.15
+10007146,University of Greenwich,8,Chemistry,17.2,60,2.91
+10007146,University of Greenwich,11,Computer Science and Informatics,18.8,35,2.68
+10007146,University of Greenwich,12,Engineering,56.3,65,2.9
+10007146,University of Greenwich,17,Business and Management Studies,84.1,55,2.8
+10007146,University of Greenwich,18,Law,17,50,2.79
+10007146,University of Greenwich,20,Social Work and Social Policy,18,75,2.55
+10007146,University of Greenwich,22,Anthropology and Development Studies,23.3,75,2.96
+10007146,University of Greenwich,27,English Language and Literature,13.85,55,2.7
+10007146,University of Greenwich,28,History,6.5,70,2.56
+10007146,University of Greenwich,32,"Art and Design: History, Practice and Theory",30.2,55,2.71
+10007825,Guildhall School of Music & Drama,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",18.99,100,3.28
+10040812,Harper Adams University,6,"Agriculture, Food and Veterinary Sciences",42.55,80,2.61
+10080811,Hartpury University,24,"Sport and Exercise Sciences, Leisure and Tourism",8.6,100,2.36
+10007764,Heriot-Watt University,4,"Psychology, Psychiatry and Neuroscience",13.1,100,2.41
+10007764,Heriot-Watt University,7,Earth Systems and Environmental Sciences,34.44,100,2.93
+10007764,Heriot-Watt University,8,Chemistry,39.69,100,2.95
+10007764,Heriot-Watt University,9,Physics,21,100,3.52
+10007764,Heriot-Watt University,10,Mathematical Sciences,54.1,100,3.52
+10007764,Heriot-Watt University,11,Computer Science and Informatics,31.7,100,3.14
+10007764,Heriot-Watt University,12,Engineering,134.9,100,3.38
+10007764,Heriot-Watt University,13,"Architecture, Built Environment and Planning",30.6,100,3.38
+10007764,Heriot-Watt University,17,Business and Management Studies,33.9,100,3.02
+10007764,Heriot-Watt University,25,Area Studies,18.7,100,2.93
+10007764,Heriot-Watt University,32,"Art and Design: History, Practice and Theory",10.29,100,2.86
+10007147,University of Hertfordshire,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",75.91,30,3.21
+10007147,University of Hertfordshire,4,"Psychology, Psychiatry and Neuroscience",18.9,50,2.89
+10007147,University of Hertfordshire,6,"Agriculture, Food and Veterinary Sciences",18.97,85,3.1
+10007147,University of Hertfordshire,9,Physics,42,80,3.18
+10007147,University of Hertfordshire,11,Computer Science and Informatics,31.21,45,3.15
+10007147,University of Hertfordshire,12,Engineering,34.8,45,2.96
+10007147,University of Hertfordshire,17,Business and Management Studies,26.9,15,2.79
+10007147,University of Hertfordshire,23,Education,14.7,25,2.24
+10007147,University of Hertfordshire,27,English Language and Literature,13.8,65,3.12
+10007147,University of Hertfordshire,28,History,14,90,3.18
+10007147,University of Hertfordshire,30,Philosophy,11.2,100,2.94
+10007147,University of Hertfordshire,32,"Art and Design: History, Practice and Theory",18.7,40,2.71
+10007114,University of the Highlands and Islands,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",23.6,105,2.98
+10007114,University of the Highlands and Islands,7,Earth Systems and Environmental Sciences,42.22,,3.16
+10007114,University of the Highlands and Islands,15,Archaeology,9.65,965,3.22
+10007114,University of the Highlands and Islands,23,Education,9.64,605,1.63
+10007114,University of the Highlands and Islands,25,Area Studies,18.03,1290,3.14
+10007114,University of the Highlands and Islands,26,Modern Languages and Linguistics,6,600,2.96
+10007114,University of the Highlands and Islands,28,History,7.3,110,2.65
+10007148,The University of Huddersfield,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",52.3,45,2.66
+10007148,The University of Huddersfield,4,"Psychology, Psychiatry and Neuroscience",31.8,95,2.4
+10007148,The University of Huddersfield,5,Biological Sciences,29.8,85,2.69
+10007148,The University of Huddersfield,8,Chemistry,27,90,2.5
+10007148,The University of Huddersfield,11,Computer Science and Informatics,27.2,85,2.74
+10007148,The University of Huddersfield,12,Engineering,84.7,90,2.94
+10007148,The University of Huddersfield,13,"Architecture, Built Environment and Planning",16.6,65,2.91
+10007148,The University of Huddersfield,17,Business and Management Studies,85.6,75,2.64
+10007148,The University of Huddersfield,18,Law,12,55,2.1
+10007148,The University of Huddersfield,20,Social Work and Social Policy,40.5,65,3.08
+10007148,The University of Huddersfield,23,Education,24.7,45,2.81
+10007148,The University of Huddersfield,24,"Sport and Exercise Sciences, Leisure and Tourism",7,50,2.62
+10007148,The University of Huddersfield,26,Modern Languages and Linguistics,9,100,2.84
+10007148,The University of Huddersfield,27,English Language and Literature,11.9,95,3.42
+10007148,The University of Huddersfield,28,History,12.5,100,2.94
+10007148,The University of Huddersfield,32,"Art and Design: History, Practice and Theory",29.2,45,2.76
+10007148,The University of Huddersfield,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",30.35,95,3.56
+10007148,The University of Huddersfield,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",9,100,2.46
+10007148,The University of Huddersfield,34,"Communication, Cultural and Media Studies, Library and Information Management",11,80,3.27
+10007149,The University of Hull,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",60.17,100,3.3
+10007149,The University of Hull,4,"Psychology, Psychiatry and Neuroscience",16,100,3.1
+10007149,The University of Hull,8,Chemistry,14.5,100,3.09
+10007149,The University of Hull,9,Physics,11,100,3.26
+10007149,The University of Hull,11,Computer Science and Informatics,11,100,2.89
+10007149,The University of Hull,12,Engineering,31.4,100,3.03
+10007149,The University of Hull,14,Geography and Environmental Studies,49.6,100,3.12
+10007149,The University of Hull,17,Business and Management Studies,36.6,100,2.92
+10007149,The University of Hull,19,Politics and International Studies,14,100,2.34
+10007149,The University of Hull,20,Social Work and Social Policy,18.8,100,3.3
+10007149,The University of Hull,23,Education,7.5,100,2.85
+10007149,The University of Hull,24,"Sport and Exercise Sciences, Leisure and Tourism",11.6,100,3.19
+10007149,The University of Hull,27,English Language and Literature,17.3,100,3.36
+10007149,The University of Hull,28,History,16,100,3.37
+10007149,The University of Hull,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",18.4,100,2.88
+10003270,"Imperial College of Science, Technology and Medicine",1,Clinical Medicine,438.88,100,3.54
+10003270,"Imperial College of Science, Technology and Medicine",2,"Public Health, Health Services and Primary Care",79.45,100,3.77
+10003270,"Imperial College of Science, Technology and Medicine",4,"Psychology, Psychiatry and Neuroscience",34.9,100,3.74
+10003270,"Imperial College of Science, Technology and Medicine",5,Biological Sciences,92.35,100,3.47
+10003270,"Imperial College of Science, Technology and Medicine",8,Chemistry,63.34,100,3.66
+10003270,"Imperial College of Science, Technology and Medicine",9,Physics,130.06,100,3.45
+10003270,"Imperial College of Science, Technology and Medicine",10,Mathematical Sciences,94.63,100,3.69
+10003270,"Imperial College of Science, Technology and Medicine",11,Computer Science and Informatics,58.45,100,3.93
+10003270,"Imperial College of Science, Technology and Medicine",12,Engineering,419.97,100,3.74
+10003270,"Imperial College of Science, Technology and Medicine",14,Geography and Environmental Studies,45.68,100,3.35
+10003270,"Imperial College of Science, Technology and Medicine",17,Business and Management Studies,92.15,100,3.66
+10003324,Institute of Cancer Research: Royal Cancer Hospital (The),1,Clinical Medicine,70.2,100,3.49
+10003324,Institute of Cancer Research: Royal Cancer Hospital (The),5,Biological Sciences,32.2,100,3.77
+10009315,Institute of Zoology,5,Biological Sciences,24.2,100,3.44
+10007767,University of Keele,2,"Public Health, Health Services and Primary Care",25.7,100,3.24
+10007767,University of Keele,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",56.33,50,3.51
+10007767,University of Keele,4,"Psychology, Psychiatry and Neuroscience",16.8,85,2.97
+10007767,University of Keele,5,Biological Sciences,19.4,100,3.03
+10007767,University of Keele,9,Physics,9,100,3.22
+10007767,University of Keele,10,Mathematical Sciences,11.65,100,2.89
+10007767,University of Keele,11,Computer Science and Informatics,15,85,2.67
+10007767,University of Keele,12,Engineering,34.9,100,3.28
+10007767,University of Keele,14,Geography and Environmental Studies,19.5,100,2.99
+10007767,University of Keele,17,Business and Management Studies,17,80,2.77
+10007767,University of Keele,18,Law,28.2,100,2.76
+10007767,University of Keele,19,Politics and International Studies,13,80,2.8
+10007767,University of Keele,20,Social Work and Social Policy,23.5,85,2.92
+10007767,University of Keele,27,English Language and Literature,17.2,100,3.33
+10007767,University of Keele,28,History,14.15,100,2.8
+10007767,University of Keele,30,Philosophy,5,100,2.32
+10007767,University of Keele,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",5,100,2.9
+10007150,The University of Kent,2,"Public Health, Health Services and Primary Care",16.65,100,2.68
+10007150,The University of Kent,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",22,100,3.05
+10007150,The University of Kent,4,"Psychology, Psychiatry and Neuroscience",42,100,3.17
+10007150,The University of Kent,5,Biological Sciences,28.8,100,3.24
+10007150,The University of Kent,8,Chemistry,18,100,3.11
+10007150,The University of Kent,9,Physics,19,100,3.06
+10007150,The University of Kent,10,Mathematical Sciences,32.7,100,3.2
+10007150,The University of Kent,11,Computer Science and Informatics,34.7,100,3.39
+10007150,The University of Kent,12,Engineering,29,100,3.18
+10007150,The University of Kent,13,"Architecture, Built Environment and Planning",13.4,100,3.4
+10007150,The University of Kent,14,Geography and Environmental Studies,12.15,100,3.36
+10007150,The University of Kent,16,Economics and Econometrics,27.9,100,2.76
+10007150,The University of Kent,17,Business and Management Studies,71.8,100,2.98
+10007150,The University of Kent,18,Law,45.2,100,3.53
+10007150,The University of Kent,19,Politics and International Studies,39.4,100,3.06
+10007150,The University of Kent,20,Social Work and Social Policy,67.4,100,3.56
+10007150,The University of Kent,22,Anthropology and Development Studies,21.1,100,3.24
+10007150,The University of Kent,23,Education,5,100,2.7
+10007150,The University of Kent,24,"Sport and Exercise Sciences, Leisure and Tourism",12,100,3.01
+10007150,The University of Kent,26,Modern Languages and Linguistics,28.2,100,3.36
+10007150,The University of Kent,27,English Language and Literature,38.2,100,3.48
+10007150,The University of Kent,28,History,34.8,100,3.64
+10007150,The University of Kent,29,Classics,15,100,3.35
+10007150,The University of Kent,30,Philosophy,11,100,3.43
+10007150,The University of Kent,31,Theology and Religious Studies,6.8,100,3.43
+10007150,The University of Kent,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",32.75,100,3.56
+10003645,King's College London,1,Clinical Medicine,181.95,100,3.49
+10003645,King's College London,2,"Public Health, Health Services and Primary Care",38.81,100,3.36
+10003645,King's College London,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",224.61,100,3.64
+10003645,King's College London,4,"Psychology, Psychiatry and Neuroscience",310.88,100,3.5
+10003645,King's College London,5,Biological Sciences,30.5,100,3.2
+10003645,King's College London,8,Chemistry,19,100,3.65
+10003645,King's College London,9,Physics,33.9,100,3.29
+10003645,King's College London,10,Mathematical Sciences,47.7,100,3.46
+10003645,King's College London,11,Computer Science and Informatics,48.5,100,3.56
+10003645,King's College London,12,Engineering,98.4,100,3.46
+10003645,King's College London,14,Geography and Environmental Studies,48.8,100,3.4
+10003645,King's College London,17,Business and Management Studies,107.6,100,3.46
+10003645,King's College London,18,Law,74.3,100,3.3
+10003645,King's College London,19,Politics and International Studies,171.56,100,3.26
+10003645,King's College London,21,Sociology,27.7,100,3.31
+10003645,King's College London,23,Education,42.5,100,3.51
+10003645,King's College London,24,"Sport and Exercise Sciences, Leisure and Tourism",14.8,100,3.67
+10003645,King's College London,26,Modern Languages and Linguistics,48.9,100,3.25
+10003645,King's College London,27,English Language and Literature,58.5,100,3.55
+10003645,King's College London,28,History,84.3,100,3.39
+10003645,King's College London,29,Classics,31.46,100,3.45
+10003645,King's College London,30,Philosophy,29.5,100,3.27
+10003645,King's College London,31,Theology and Religious Studies,22.55,100,3.5
+10003645,King's College London,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",34.1,100,3.61
+10003645,King's College London,34,"Communication, Cultural and Media Studies, Library and Information Management",52.3,100,3.47
+10003678,Kingston University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",85.73,30,3.04
+10003678,Kingston University,4,"Psychology, Psychiatry and Neuroscience",18,70,2.65
+10003678,Kingston University,11,Computer Science and Informatics,22,55,2.8
+10003678,Kingston University,12,Engineering,41.8,50,2.58
+10003678,Kingston University,17,Business and Management Studies,48.7,65,2.6
+10003678,Kingston University,19,Politics and International Studies,41.4,80,2.72
+10003678,Kingston University,23,Education,16.2,35,2.68
+10003678,Kingston University,27,English Language and Literature,16.54,65,3.09
+10003678,Kingston University,30,Philosophy,6.6,100,2.9
+10003678,Kingston University,32,"Art and Design: History, Practice and Theory",47.59,45,3.4
+10003678,Kingston University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",23.69,60,3.1
+10007768,The University of Lancaster,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",92.5,100,3.32
+10007768,The University of Lancaster,4,"Psychology, Psychiatry and Neuroscience",34.21,100,3.23
+10007768,The University of Lancaster,7,Earth Systems and Environmental Sciences,75.85,100,3.54
+10007768,The University of Lancaster,8,Chemistry,25,100,2.97
+10007768,The University of Lancaster,9,Physics,56.11,100,3.42
+10007768,The University of Lancaster,10,Mathematical Sciences,49.92,100,3.6
+10007768,The University of Lancaster,11,Computer Science and Informatics,49.45,100,3.49
+10007768,The University of Lancaster,12,Engineering,45.84,100,3.23
+10007768,The University of Lancaster,17,Business and Management Studies,186.94,100,3.39
+10007768,The University of Lancaster,18,Law,37.92,100,3.15
+10007768,The University of Lancaster,21,Sociology,40.62,100,3.41
+10007768,The University of Lancaster,23,Education,18.81,100,3.45
+10007768,The University of Lancaster,26,Modern Languages and Linguistics,34.45,100,3.49
+10007768,The University of Lancaster,27,English Language and Literature,32.41,100,3.28
+10007768,The University of Lancaster,28,History,25.21,100,3.25
+10007768,The University of Lancaster,31,Theology and Religious Studies,45.41,100,3.22
+10007768,The University of Lancaster,32,"Art and Design: History, Practice and Theory",49.78,100,3.38
+10007795,The University of Leeds,1,Clinical Medicine,153.8,100,3.09
+10007795,The University of Leeds,2,"Public Health, Health Services and Primary Care",49.6,95,3.26
+10007795,The University of Leeds,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",63.1,95,3.5
+10007795,The University of Leeds,4,"Psychology, Psychiatry and Neuroscience",49.6,100,3.28
+10007795,The University of Leeds,5,Biological Sciences,84.93,100,3.27
+10007795,The University of Leeds,6,"Agriculture, Food and Veterinary Sciences",29.4,100,3.14
+10007795,The University of Leeds,7,Earth Systems and Environmental Sciences,127.15,100,3.55
+10007795,The University of Leeds,8,Chemistry,39.95,100,3.31
+10007795,The University of Leeds,9,Physics,34,100,3.52
+10007795,The University of Leeds,10,Mathematical Sciences,72.14,100,3.39
+10007795,The University of Leeds,11,Computer Science and Informatics,34.25,100,3.62
+10007795,The University of Leeds,12,Engineering,199.45,100,3.51
+10007795,The University of Leeds,14,Geography and Environmental Studies,60.84,100,3.5
+10007795,The University of Leeds,17,Business and Management Studies,144.53,100,3.42
+10007795,The University of Leeds,18,Law,60.3,100,3.5
+10007795,The University of Leeds,19,Politics and International Studies,42.8,100,3.07
+10007795,The University of Leeds,21,Sociology,32.2,100,3.17
+10007795,The University of Leeds,23,Education,29.1,95,3.09
+10007795,The University of Leeds,24,"Sport and Exercise Sciences, Leisure and Tourism",25.3,100,3.51
+10007795,The University of Leeds,26,Modern Languages and Linguistics,85.05,100,3.2
+10007795,The University of Leeds,27,English Language and Literature,48.73,100,3.61
+10007795,The University of Leeds,28,History,40.8,100,3.11
+10007795,The University of Leeds,30,Philosophy,33,100,3.07
+10007795,The University of Leeds,31,Theology and Religious Studies,12.6,100,3.3
+10007795,The University of Leeds,32,"Art and Design: History, Practice and Theory",60.75,95,3.26
+10007795,The University of Leeds,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",19.6,100,3.47
+10007795,The University of Leeds,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",21,100,3.28
+10007795,The University of Leeds,34,"Communication, Cultural and Media Studies, Library and Information Management",32,90,3.29
+10003854,Leeds Arts University,32,"Art and Design: History, Practice and Theory",66.79,100,1.77
+10003854,Leeds Arts University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",4.2,100,1.26
+10003861,Leeds Beckett University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",29.2,25,3.03
+10003861,Leeds Beckett University,4,"Psychology, Psychiatry and Neuroscience",31.6,55,2.54
+10003861,Leeds Beckett University,11,Computer Science and Informatics,10.8,35,2.46
+10003861,Leeds Beckett University,13,"Architecture, Built Environment and Planning",33.7,55,2.62
+10003861,Leeds Beckett University,17,Business and Management Studies,34.3,25,2.23
+10003861,Leeds Beckett University,18,Law,9.5,30,2.22
+10003861,Leeds Beckett University,19,Politics and International Studies,10.8,85,2.56
+10003861,Leeds Beckett University,20,Social Work and Social Policy,23.2,40,2.61
+10003861,Leeds Beckett University,23,Education,16,30,2.36
+10003861,Leeds Beckett University,24,"Sport and Exercise Sciences, Leisure and Tourism",69.7,45,3.25
+10003861,Leeds Beckett University,27,English Language and Literature,13.5,85,2.72
+10003861,Leeds Beckett University,28,History,11,90,2.32
+10003861,Leeds Beckett University,32,"Art and Design: History, Practice and Theory",23.75,45,2.73
+10003861,Leeds Beckett University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",26.6,40,2.29
+10003861,Leeds Beckett University,34,"Communication, Cultural and Media Studies, Library and Information Management",9,90,2.64
+10003863,Leeds Trinity University,4,"Psychology, Psychiatry and Neuroscience",10,35,1.78
+10003863,Leeds Trinity University,23,Education,9.8,25,1.65
+10003863,Leeds Trinity University,24,"Sport and Exercise Sciences, Leisure and Tourism",8,55,2.42
+10003863,Leeds Trinity University,27,English Language and Literature,9.2,100,2.92
+10003863,Leeds Trinity University,31,Theology and Religious Studies,3,90,1.52
+10003863,Leeds Trinity University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",3.6,100,2.04
+10007796,The University of Leicester,1,Clinical Medicine,45.55,100,3.57
+10007796,The University of Leicester,2,"Public Health, Health Services and Primary Care",42.4,100,3.46
+10007796,The University of Leicester,4,"Psychology, Psychiatry and Neuroscience",47,100,3.32
+10007796,The University of Leicester,5,Biological Sciences,60.4,100,3.3
+10007796,The University of Leicester,7,Earth Systems and Environmental Sciences,31.85,100,3.28
+10007796,The University of Leicester,8,Chemistry,18.8,100,3.35
+10007796,The University of Leicester,9,Physics,34.33,100,3.2
+10007796,The University of Leicester,10,Mathematical Sciences,18.73,100,3.29
+10007796,The University of Leicester,11,Computer Science and Informatics,19.7,100,3.11
+10007796,The University of Leicester,12,Engineering,32.4,100,3.04
+10007796,The University of Leicester,14,Geography and Environmental Studies,14.5,100,2.85
+10007796,The University of Leicester,15,Archaeology,26.6,100,3.54
+10007796,The University of Leicester,17,Business and Management Studies,99.2,100,3.16
+10007796,The University of Leicester,18,Law,48.6,100,2.87
+10007796,The University of Leicester,19,Politics and International Studies,19,100,3.03
+10007796,The University of Leicester,20,Social Work and Social Policy,11,100,3.19
+10007796,The University of Leicester,21,Sociology,11.8,100,3.18
+10007796,The University of Leicester,24,"Sport and Exercise Sciences, Leisure and Tourism",8.8,100,3.74
+10007796,The University of Leicester,27,English Language and Literature,49.1,100,3.55
+10007796,The University of Leicester,28,History,31.4,100,3.58
+10007796,The University of Leicester,34,"Communication, Cultural and Media Studies, Library and Information Management",29,100,3.49
+10007796,The University of Leicester,34,"Communication, Cultural and Media Studies, Library and Information Management",17.5,100,3.62
+10007151,University of Lincoln,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",32.8,95,3.35
+10007151,University of Lincoln,4,"Psychology, Psychiatry and Neuroscience",29.4,100,3.03
+10007151,University of Lincoln,6,"Agriculture, Food and Veterinary Sciences",33.45,100,3.08
+10007151,University of Lincoln,8,Chemistry,14.2,100,3.09
+10007151,University of Lincoln,9,Physics,15.2,100,2.75
+10007151,University of Lincoln,10,Mathematical Sciences,4,100,2.34
+10007151,University of Lincoln,11,Computer Science and Informatics,28.8,100,3.15
+10007151,University of Lincoln,12,Engineering,19,100,2.73
+10007151,University of Lincoln,13,"Architecture, Built Environment and Planning",6.2,100,2.42
+10007151,University of Lincoln,14,Geography and Environmental Studies,15,100,2.09
+10007151,University of Lincoln,15,Archaeology,3,100,2.64
+10007151,University of Lincoln,17,Business and Management Studies,31.3,100,2.78
+10007151,University of Lincoln,18,Law,13,100,2.85
+10007151,University of Lincoln,19,Politics and International Studies,13.6,100,2.96
+10007151,University of Lincoln,20,Social Work and Social Policy,15.8,100,3.33
+10007151,University of Lincoln,23,Education,5,100,2.47
+10007151,University of Lincoln,24,"Sport and Exercise Sciences, Leisure and Tourism",11.8,100,2.89
+10007151,University of Lincoln,27,English Language and Literature,19.7,100,3
+10007151,University of Lincoln,28,History,24.1,100,3.37
+10007151,University of Lincoln,32,"Art and Design: History, Practice and Theory",17.7,100,3.17
+10007151,University of Lincoln,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12,100,3.04
+10007151,University of Lincoln,34,"Communication, Cultural and Media Studies, Library and Information Management",15.21,100,2.82
+10006842,The University of Liverpool,1,Clinical Medicine,190.15,100,3.22
+10006842,The University of Liverpool,2,"Public Health, Health Services and Primary Care",43.4,100,3.49
+10006842,The University of Liverpool,4,"Psychology, Psychiatry and Neuroscience",60,100,3.46
+10006842,The University of Liverpool,6,"Agriculture, Food and Veterinary Sciences",102.43,100,3.52
+10006842,The University of Liverpool,7,Earth Systems and Environmental Sciences,33.8,100,3.38
+10006842,The University of Liverpool,8,Chemistry,43,100,3.63
+10006842,The University of Liverpool,9,Physics,44.35,100,3.48
+10006842,The University of Liverpool,10,Mathematical Sciences,53.38,100,3.19
+10006842,The University of Liverpool,11,Computer Science and Informatics,40.75,100,3.28
+10006842,The University of Liverpool,12,Engineering,92.6,100,3.4
+10006842,The University of Liverpool,13,"Architecture, Built Environment and Planning",31.1,100,3.36
+10006842,The University of Liverpool,14,Geography and Environmental Studies,52,100,3.09
+10006842,The University of Liverpool,15,Archaeology,35.6,100,3.15
+10006842,The University of Liverpool,17,Business and Management Studies,129,100,3.38
+10006842,The University of Liverpool,18,Law,57,100,3.26
+10006842,The University of Liverpool,19,Politics and International Studies,27,100,3.04
+10006842,The University of Liverpool,20,Social Work and Social Policy,29,100,3.32
+10006842,The University of Liverpool,26,Modern Languages and Linguistics,25.9,100,3.4
+10006842,The University of Liverpool,27,English Language and Literature,42.4,100,3.5
+10006842,The University of Liverpool,28,History,32.3,100,3.26
+10006842,The University of Liverpool,30,Philosophy,13,100,3.11
+10006842,The University of Liverpool,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",18,100,3.1
+10006842,The University of Liverpool,34,"Communication, Cultural and Media Studies, Library and Information Management",28.6,100,3.33
+10003956,Liverpool Hope University,4,"Psychology, Psychiatry and Neuroscience",12.8,100,2.92
+10003956,Liverpool Hope University,6,"Agriculture, Food and Veterinary Sciences",6.6,100,2.18
+10003956,Liverpool Hope University,11,Computer Science and Informatics,13.5,100,2.37
+10003956,Liverpool Hope University,14,Geography and Environmental Studies,5.2,100,2.06
+10003956,Liverpool Hope University,19,Politics and International Studies,7,100,1.93
+10003956,Liverpool Hope University,20,Social Work and Social Policy,29.4,90,2.48
+10003956,Liverpool Hope University,23,Education,26.4,95,2.54
+10003956,Liverpool Hope University,24,"Sport and Exercise Sciences, Leisure and Tourism",9.76,100,2.33
+10003956,Liverpool Hope University,27,English Language and Literature,15,100,2.88
+10003956,Liverpool Hope University,28,History,10.4,100,2.64
+10003956,Liverpool Hope University,31,Theology and Religious Studies,13.2,100,2.71
+10003956,Liverpool Hope University,32,"Art and Design: History, Practice and Theory",5,75,2.15
+10003956,Liverpool Hope University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",14,95,2.63
+10003957,Liverpool John Moores University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",72.38,40,2.74
+10003957,Liverpool John Moores University,4,"Psychology, Psychiatry and Neuroscience",42.09,85,2.46
+10003957,Liverpool John Moores University,7,Earth Systems and Environmental Sciences,59.5,85,2.79
+10003957,Liverpool John Moores University,9,Physics,25.8,85,3.46
+10003957,Liverpool John Moores University,11,Computer Science and Informatics,42,70,2.82
+10003957,Liverpool John Moores University,12,Engineering,47.2,65,3.22
+10003957,Liverpool John Moores University,13,"Architecture, Built Environment and Planning",34,55,2.73
+10003957,Liverpool John Moores University,17,Business and Management Studies,31.4,25,2.42
+10003957,Liverpool John Moores University,18,Law,19,45,2.18
+10003957,Liverpool John Moores University,20,Social Work and Social Policy,26.2,70,2.14
+10003957,Liverpool John Moores University,23,Education,25.6,35,2.29
+10003957,Liverpool John Moores University,24,"Sport and Exercise Sciences, Leisure and Tourism",63.23,85,3.41
+10003957,Liverpool John Moores University,27,English Language and Literature,24.5,90,3.36
+10003957,Liverpool John Moores University,28,History,16,85,2.57
+10003957,Liverpool John Moores University,32,"Art and Design: History, Practice and Theory",27.1,55,3.01
+10003957,Liverpool John Moores University,34,"Communication, Cultural and Media Studies, Library and Information Management",27.5,50,2.56
+10003958,Liverpool School of Tropical Medicine,1,Clinical Medicine,54.1,100,3.52
+10003958,Liverpool School of Tropical Medicine,2,"Public Health, Health Services and Primary Care",27.71,100,3.28
+10007769,London Business School,17,Business and Management Studies,106.45,100,3.62
+10004048,London Metropolitan University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",23.9,100,2.67
+10004048,London Metropolitan University,10,Mathematical Sciences,1.9,100,2.93
+10004048,London Metropolitan University,11,Computer Science and Informatics,9.3,100,1.9
+10004048,London Metropolitan University,17,Business and Management Studies,11,100,2.6
+10004048,London Metropolitan University,23,Education,12.5,100,1.48
+10004048,London Metropolitan University,25,Area Studies,24.1,100,3.1
+10004048,London Metropolitan University,32,"Art and Design: History, Practice and Theory",22.55,100,3
+10004063,The London School of Economics and Political Science,10,Mathematical Sciences,47.8,100,3.52
+10004063,The London School of Economics and Political Science,14,Geography and Environmental Studies,44.4,100,3.48
+10004063,The London School of Economics and Political Science,16,Economics and Econometrics,54.6,100,3.71
+10004063,The London School of Economics and Political Science,17,Business and Management Studies,101.58,100,3.56
+10004063,The London School of Economics and Political Science,18,Law,59.2,100,3.39
+10004063,The London School of Economics and Political Science,19,Politics and International Studies,75.7,100,3.51
+10004063,The London School of Economics and Political Science,20,Social Work and Social Policy,74.63,100,3.81
+10004063,The London School of Economics and Political Science,21,Sociology,39.1,100,3.37
+10004063,The London School of Economics and Political Science,22,Anthropology and Development Studies,20.85,100,3.61
+10004063,The London School of Economics and Political Science,22,Anthropology and Development Studies,29.05,100,3.27
+10004063,The London School of Economics and Political Science,25,Area Studies,21,100,3.42
+10004063,The London School of Economics and Political Science,28,History,19.55,100,3.23
+10004063,The London School of Economics and Political Science,28,History,24.6,100,3.31
+10004063,The London School of Economics and Political Science,30,Philosophy,17.5,100,3.46
+10004063,The London School of Economics and Political Science,34,"Communication, Cultural and Media Studies, Library and Information Management",21,100,3.77
+10007771,London School of Hygiene and Tropical Medicine,1,Clinical Medicine,69.4,100,3.31
+10007771,London School of Hygiene and Tropical Medicine,2,"Public Health, Health Services and Primary Care",381.74,100,3.47
+10004078,London South Bank University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",19.1,45,2.9
+10004078,London South Bank University,4,"Psychology, Psychiatry and Neuroscience",22.9,95,2.49
+10004078,London South Bank University,12,Engineering,48.79,100,2.8
+10004078,London South Bank University,13,"Architecture, Built Environment and Planning",32.2,70,2.93
+10004078,London South Bank University,17,Business and Management Studies,15.6,30,2.6
+10004078,London South Bank University,20,Social Work and Social Policy,21.1,60,2.77
+10004078,London South Bank University,24,"Sport and Exercise Sciences, Leisure and Tourism",10.6,100,2.93
+10004078,London South Bank University,34,"Communication, Cultural and Media Studies, Library and Information Management",16.53,45,2.82
+10004113,Loughborough University,2,"Public Health, Health Services and Primary Care",10.7,100,2.83
+10004113,Loughborough University,8,Chemistry,31,100,3.03
+10004113,Loughborough University,9,Physics,19.8,100,3.13
+10004113,Loughborough University,10,Mathematical Sciences,34.82,100,3.28
+10004113,Loughborough University,11,Computer Science and Informatics,26,100,3.24
+10004113,Loughborough University,12,Engineering,209.95,100,3.26
+10004113,Loughborough University,13,"Architecture, Built Environment and Planning",78.4,100,3.59
+10004113,Loughborough University,14,Geography and Environmental Studies,34.4,100,3.31
+10004113,Loughborough University,17,Business and Management Studies,138.7,100,3.23
+10004113,Loughborough University,19,Politics and International Studies,30,100,2.87
+10004113,Loughborough University,20,Social Work and Social Policy,11.6,100,3.26
+10004113,Loughborough University,23,Education,18.4,100,3.27
+10004113,Loughborough University,24,"Sport and Exercise Sciences, Leisure and Tourism",94.9,100,3.53
+10004113,Loughborough University,27,English Language and Literature,32.89,100,3.28
+10004113,Loughborough University,32,"Art and Design: History, Practice and Theory",86.53,100,3.26
+10004113,Loughborough University,34,"Communication, Cultural and Media Studies, Library and Information Management",40,100,3.57
+10007798,The University of Manchester,1,Clinical Medicine,221.06,100,3.39
+10007798,The University of Manchester,2,"Public Health, Health Services and Primary Care",85.6,100,3.35
+10007798,The University of Manchester,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",125.52,100,3.58
+10007798,The University of Manchester,4,"Psychology, Psychiatry and Neuroscience",94.72,100,3.38
+10007798,The University of Manchester,5,Biological Sciences,143.05,100,3.56
+10007798,The University of Manchester,7,Earth Systems and Environmental Sciences,70.78,100,3.59
+10007798,The University of Manchester,8,Chemistry,76.2,100,3.63
+10007798,The University of Manchester,9,Physics,87,100,3.64
+10007798,The University of Manchester,10,Mathematical Sciences,89.95,100,3.54
+10007798,The University of Manchester,11,Computer Science and Informatics,53.1,100,3.61
+10007798,The University of Manchester,12,Engineering,311.31,100,3.48
+10007798,The University of Manchester,13,"Architecture, Built Environment and Planning",27.6,100,3.41
+10007798,The University of Manchester,14,Geography and Environmental Studies,36.3,100,3.23
+10007798,The University of Manchester,16,Economics and Econometrics,35.95,100,3.36
+10007798,The University of Manchester,17,Business and Management Studies,163.1,100,3.48
+10007798,The University of Manchester,18,Law,52.8,100,3.09
+10007798,The University of Manchester,19,Politics and International Studies,51.7,100,3.43
+10007798,The University of Manchester,21,Sociology,55.8,100,3.51
+10007798,The University of Manchester,22,Anthropology and Development Studies,41.85,100,3.49
+10007798,The University of Manchester,22,Anthropology and Development Studies,23.4,100,3.32
+10007798,The University of Manchester,23,Education,31.7,100,3.46
+10007798,The University of Manchester,25,Area Studies,16,100,3.18
+10007798,The University of Manchester,26,Modern Languages and Linguistics,54.25,100,3.4
+10007798,The University of Manchester,27,English Language and Literature,41.35,100,3.52
+10007798,The University of Manchester,28,History,44,100,3.5
+10007798,The University of Manchester,29,Classics,18.4,100,3.45
+10007798,The University of Manchester,30,Philosophy,16.05,100,3.34
+10007798,The University of Manchester,31,Theology and Religious Studies,11.3,100,3.02
+10007798,The University of Manchester,32,"Art and Design: History, Practice and Theory",14,100,3.55
+10007798,The University of Manchester,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15,100,3.68
+10007798,The University of Manchester,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15,100,3.5
+10004180,Manchester Metropolitan University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",91.97,45,3.02
+10004180,Manchester Metropolitan University,7,Earth Systems and Environmental Sciences,40,65,3.12
+10004180,Manchester Metropolitan University,11,Computer Science and Informatics,23,40,2.75
+10004180,Manchester Metropolitan University,12,Engineering,48.5,60,3.17
+10004180,Manchester Metropolitan University,17,Business and Management Studies,78.65,25,3.07
+10004180,Manchester Metropolitan University,20,Social Work and Social Policy,46.61,65,2.9
+10004180,Manchester Metropolitan University,21,Sociology,45.5,75,2.82
+10004180,Manchester Metropolitan University,23,Education,46.3,35,3.11
+10004180,Manchester Metropolitan University,24,"Sport and Exercise Sciences, Leisure and Tourism",52.8,70,3.31
+10004180,Manchester Metropolitan University,27,English Language and Literature,54.7,80,3.43
+10004180,Manchester Metropolitan University,28,History,34.9,80,3.1
+10004180,Manchester Metropolitan University,32,"Art and Design: History, Practice and Theory",116.26,45,3.23
+10004320,The Metanoia Institute,4,"Psychology, Psychiatry and Neuroscience",5.5,100,1.23
+10004351,Middlesex University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",30.3,25,2.71
+10004351,Middlesex University,4,"Psychology, Psychiatry and Neuroscience",28.9,75,2.74
+10004351,Middlesex University,11,Computer Science and Informatics,64.55,70,2.61
+10004351,Middlesex University,14,Geography and Environmental Studies,18.8,85,2.73
+10004351,Middlesex University,17,Business and Management Studies,85.75,55,3.15
+10004351,Middlesex University,18,Law,31.05,90,2.54
+10004351,Middlesex University,20,Social Work and Social Policy,41.7,70,2.79
+10004351,Middlesex University,23,Education,14.45,25,2.17
+10004351,Middlesex University,24,"Sport and Exercise Sciences, Leisure and Tourism",10,35,2.44
+10004351,Middlesex University,32,"Art and Design: History, Practice and Theory",32.1,50,3.03
+10004351,Middlesex University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",28.45,55,2.65
+10004351,Middlesex University,34,"Communication, Cultural and Media Studies, Library and Information Management",18.6,50,2.76
+10007799,University of Newcastle upon Tyne,1,Clinical Medicine,159.83,100,3.27
+10007799,University of Newcastle upon Tyne,2,"Public Health, Health Services and Primary Care",31.22,100,3.31
+10007799,University of Newcastle upon Tyne,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",45,100,3.51
+10007799,University of Newcastle upon Tyne,4,"Psychology, Psychiatry and Neuroscience",62.2,100,3.21
+10007799,University of Newcastle upon Tyne,5,Biological Sciences,56.6,100,3.39
+10007799,University of Newcastle upon Tyne,6,"Agriculture, Food and Veterinary Sciences",36.8,100,3.15
+10007799,University of Newcastle upon Tyne,7,Earth Systems and Environmental Sciences,33.6,100,3.38
+10007799,University of Newcastle upon Tyne,8,Chemistry,34,100,3.47
+10007799,University of Newcastle upon Tyne,10,Mathematical Sciences,47.8,100,3.18
+10007799,University of Newcastle upon Tyne,11,Computer Science and Informatics,49.8,100,3.44
+10007799,University of Newcastle upon Tyne,12,Engineering,175.95,100,3.42
+10007799,University of Newcastle upon Tyne,13,"Architecture, Built Environment and Planning",63.65,100,3.36
+10007799,University of Newcastle upon Tyne,14,Geography and Environmental Studies,56.3,100,3.35
+10007799,University of Newcastle upon Tyne,15,Archaeology,18.4,100,3.21
+10007799,University of Newcastle upon Tyne,17,Business and Management Studies,121.6,100,3.06
+10007799,University of Newcastle upon Tyne,18,Law,34.6,100,3.05
+10007799,University of Newcastle upon Tyne,19,Politics and International Studies,34.1,100,3.03
+10007799,University of Newcastle upon Tyne,20,Social Work and Social Policy,7.5,100,3.33
+10007799,University of Newcastle upon Tyne,21,Sociology,24.5,100,3.08
+10007799,University of Newcastle upon Tyne,23,Education,16.7,100,2.99
+10007799,University of Newcastle upon Tyne,26,Modern Languages and Linguistics,69.4,100,3.41
+10007799,University of Newcastle upon Tyne,27,English Language and Literature,46.9,100,3.77
+10007799,University of Newcastle upon Tyne,28,History,44.4,100,2.82
+10007799,University of Newcastle upon Tyne,29,Classics,15.8,100,3.02
+10007799,University of Newcastle upon Tyne,32,"Art and Design: History, Practice and Theory",27.4,100,3.46
+10007799,University of Newcastle upon Tyne,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",18.5,100,3.33
+10007799,University of Newcastle upon Tyne,34,"Communication, Cultural and Media Studies, Library and Information Management",38.8,100,3.43
+10007832,Newman University,4,"Psychology, Psychiatry and Neuroscience",10.5,70,1.19
+10007832,Newman University,20,Social Work and Social Policy,11,50,2.15
+10007832,Newman University,23,Education,10.7,20,1.72
+10007832,Newman University,24,"Sport and Exercise Sciences, Leisure and Tourism",8.6,95,2.43
+10007832,Newman University,27,English Language and Literature,6.5,100,2.87
+10007832,Newman University,28,History,6,100,2.22
+10007832,Newman University,31,Theology and Religious Studies,3.6,80,2.16
+10007138,"University of Northampton, The",2,"Public Health, Health Services and Primary Care",7.1,90,1.95
+10007138,"University of Northampton, The",4,"Psychology, Psychiatry and Neuroscience",18.6,100,2.09
+10007138,"University of Northampton, The",5,Biological Sciences,9,100,2.21
+10007138,"University of Northampton, The",12,Engineering,20.8,100,2.03
+10007138,"University of Northampton, The",14,Geography and Environmental Studies,11,100,2.12
+10007138,"University of Northampton, The",16,Economics and Econometrics,8.5,100,1.2
+10007138,"University of Northampton, The",17,Business and Management Studies,23,100,2.44
+10007138,"University of Northampton, The",21,Sociology,9.6,100,1.91
+10007138,"University of Northampton, The",23,Education,15.8,100,2.54
+10007138,"University of Northampton, The",27,English Language and Literature,8.7,100,2.9
+10007138,"University of Northampton, The",28,History,8,100,2.85
+10007138,"University of Northampton, The",32,"Art and Design: History, Practice and Theory",10.6,100,2.23
+10001282,University of Northumbria at Newcastle,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",123.5,55,3.3
+10001282,University of Northumbria at Newcastle,4,"Psychology, Psychiatry and Neuroscience",61.8,95,2.85
+10001282,University of Northumbria at Newcastle,11,Computer Science and Informatics,64.41,90,2.81
+10001282,University of Northumbria at Newcastle,12,Engineering,121.41,95,3.09
+10001282,University of Northumbria at Newcastle,13,"Architecture, Built Environment and Planning",49.8,85,2.79
+10001282,University of Northumbria at Newcastle,14,Geography and Environmental Studies,79.6,100,3.24
+10001282,University of Northumbria at Newcastle,17,Business and Management Studies,158.9,75,2.79
+10001282,University of Northumbria at Newcastle,18,Law,77.01,75,2.9
+10001282,University of Northumbria at Newcastle,20,Social Work and Social Policy,79.1,75,3.06
+10001282,University of Northumbria at Newcastle,24,"Sport and Exercise Sciences, Leisure and Tourism",53,75,3.42
+10001282,University of Northumbria at Newcastle,27,English Language and Literature,44.5,95,3.32
+10001282,University of Northumbria at Newcastle,28,History,37.9,100,3.2
+10001282,University of Northumbria at Newcastle,32,"Art and Design: History, Practice and Theory",104.91,75,3.17
+10004775,Norwich University of the Arts,32,"Art and Design: History, Practice and Theory",18.1,30,2.96
+10004797,Nottingham Trent University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",34,65,3.24
+10004797,Nottingham Trent University,4,"Psychology, Psychiatry and Neuroscience",58,75,3.02
+10004797,Nottingham Trent University,11,Computer Science and Informatics,15.4,70,2.88
+10004797,Nottingham Trent University,12,Engineering,47.2,75,3.43
+10004797,Nottingham Trent University,13,"Architecture, Built Environment and Planning",18.6,65,3.04
+10004797,Nottingham Trent University,14,Geography and Environmental Studies,16.5,65,2.8
+10004797,Nottingham Trent University,17,Business and Management Studies,57.5,80,2.86
+10004797,Nottingham Trent University,18,Law,18.1,100,3.34
+10004797,Nottingham Trent University,20,Social Work and Social Policy,17.2,65,2.82
+10004797,Nottingham Trent University,24,"Sport and Exercise Sciences, Leisure and Tourism",33.4,85,3.13
+10004797,Nottingham Trent University,27,English Language and Literature,18,90,3.01
+10004797,Nottingham Trent University,28,History,12.35,100,3.24
+10004797,Nottingham Trent University,32,"Art and Design: History, Practice and Theory",30.89,75,3.26
+10004797,Nottingham Trent University,34,"Communication, Cultural and Media Studies, Library and Information Management",18,95,3.12
+10007154,"University of Nottingham, The",1,Clinical Medicine,138.6,100,3.29
+10007154,"University of Nottingham, The",2,"Public Health, Health Services and Primary Care",41.26,100,3.44
+10007154,"University of Nottingham, The",3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",98.71,100,3.53
+10007154,"University of Nottingham, The",4,"Psychology, Psychiatry and Neuroscience",93,100,3.29
+10007154,"University of Nottingham, The",5,Biological Sciences,94.36,100,3.23
+10007154,"University of Nottingham, The",6,"Agriculture, Food and Veterinary Sciences",134.64,100,3.25
+10007154,"University of Nottingham, The",8,Chemistry,46.7,100,3.43
+10007154,"University of Nottingham, The",9,Physics,63.91,100,3.57
+10007154,"University of Nottingham, The",10,Mathematical Sciences,64.5,100,3.42
+10007154,"University of Nottingham, The",11,Computer Science and Informatics,46.2,100,3.5
+10007154,"University of Nottingham, The",12,Engineering,244.4,100,3.42
+10007154,"University of Nottingham, The",14,Geography and Environmental Studies,45,100,3.35
+10007154,"University of Nottingham, The",16,Economics and Econometrics,34.8,100,3.52
+10007154,"University of Nottingham, The",17,Business and Management Studies,134.7,100,3.16
+10007154,"University of Nottingham, The",18,Law,51,100,3.28
+10007154,"University of Nottingham, The",19,Politics and International Studies,42.1,100,3.16
+10007154,"University of Nottingham, The",20,Social Work and Social Policy,41.8,100,3.32
+10007154,"University of Nottingham, The",22,Anthropology and Development Studies,28.03,100,2.72
+10007154,"University of Nottingham, The",23,Education,33.1,100,3.4
+10007154,"University of Nottingham, The",24,"Sport and Exercise Sciences, Leisure and Tourism",17.28,100,3.48
+10007154,"University of Nottingham, The",25,Area Studies,16.7,100,3.49
+10007154,"University of Nottingham, The",26,Modern Languages and Linguistics,31.2,100,3.42
+10007154,"University of Nottingham, The",27,English Language and Literature,49.7,100,3.56
+10007154,"University of Nottingham, The",28,History,40.8,100,3.29
+10007154,"University of Nottingham, The",29,Classics,21.8,100,3.24
+10007154,"University of Nottingham, The",30,Philosophy,19,100,3.08
+10007154,"University of Nottingham, The",31,Theology and Religious Studies,12.5,100,3.26
+10007154,"University of Nottingham, The",33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",8.9,100,3.43
+10007154,"University of Nottingham, The",34,"Communication, Cultural and Media Studies, Library and Information Management",23,100,3.29
+10007773,The Open University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",31.21,30,2.91
+10007773,The Open University,4,"Psychology, Psychiatry and Neuroscience",25.8,45,2.69
+10007773,The Open University,7,Earth Systems and Environmental Sciences,28.9,75,3.29
+10007773,The Open University,9,Physics,41.8,90,3.22
+10007773,The Open University,10,Mathematical Sciences,22.11,50,3.2
+10007773,The Open University,11,Computer Science and Informatics,44.7,55,2.82
+10007773,The Open University,12,Engineering,23.4,50,2.81
+10007773,The Open University,14,Geography and Environmental Studies,12.5,55,3.01
+10007773,The Open University,17,Business and Management Studies,71.61,60,3.14
+10007773,The Open University,18,Law,26.81,75,2.23
+10007773,The Open University,19,Politics and International Studies,9,60,2.83
+10007773,The Open University,20,Social Work and Social Policy,57,55,3.2
+10007773,The Open University,22,Anthropology and Development Studies,25.3,80,3.22
+10007773,The Open University,23,Education,105.92,65,2.9
+10007773,The Open University,27,English Language and Literature,28.9,70,3.34
+10007773,The Open University,28,History,18.4,75,3.2
+10007773,The Open University,29,Classics,14.8,90,2.93
+10007773,The Open University,30,Philosophy,9,100,2.5
+10007773,The Open University,31,Theology and Religious Studies,9.1,100,3
+10007773,The Open University,32,"Art and Design: History, Practice and Theory",28.8,85,3.25
+10007773,The Open University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",14.4,100,3.15
+10007774,University of Oxford,1,Clinical Medicine,498.02,95,3.52
+10007774,University of Oxford,2,"Public Health, Health Services and Primary Care",134.31,95,3.63
+10007774,University of Oxford,4,"Psychology, Psychiatry and Neuroscience",169.15,95,3.62
+10007774,University of Oxford,5,Biological Sciences,308.94,105,3.56
+10007774,University of Oxford,7,Earth Systems and Environmental Sciences,40.75,110,3.59
+10007774,University of Oxford,8,Chemistry,83,105,3.64
+10007774,University of Oxford,9,Physics,171.28,110,3.52
+10007774,University of Oxford,10,Mathematical Sciences,171.85,105,3.77
+10007774,University of Oxford,11,Computer Science and Informatics,73.65,100,3.81
+10007774,University of Oxford,12,Engineering,168.5,100,3.67
+10007774,University of Oxford,14,Geography and Environmental Studies,95.4,100,3.5
+10007774,University of Oxford,15,Archaeology,48.15,105,3.41
+10007774,University of Oxford,16,Economics and Econometrics,83.87,120,3.46
+10007774,University of Oxford,17,Business and Management Studies,84.2,100,3.45
+10007774,University of Oxford,18,Law,138.23,115,3.35
+10007774,University of Oxford,19,Politics and International Studies,114.8,130,3.36
+10007774,University of Oxford,20,Social Work and Social Policy,26.35,100,3.52
+10007774,University of Oxford,21,Sociology,44.2,125,3.55
+10007774,University of Oxford,22,Anthropology and Development Studies,48.21,100,3.1
+10007774,University of Oxford,22,Anthropology and Development Studies,49.15,105,3.4
+10007774,University of Oxford,23,Education,55.3,100,3.6
+10007774,University of Oxford,25,Area Studies,88.05,115,3.42
+10007774,University of Oxford,26,Modern Languages and Linguistics,105.6,120,3.19
+10007774,University of Oxford,26,Modern Languages and Linguistics,34.25,105,2.99
+10007774,University of Oxford,27,English Language and Literature,116,130,3.57
+10007774,University of Oxford,28,History,172.75,120,3.38
+10007774,University of Oxford,29,Classics,90.65,115,3.35
+10007774,University of Oxford,30,Philosophy,98.05,115,3.14
+10007774,University of Oxford,31,Theology and Religious Studies,55.2,150,3.13
+10007774,University of Oxford,32,"Art and Design: History, Practice and Theory",8.16,100,3.85
+10007774,University of Oxford,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",28.6,140,3.08
+10004930,Oxford Brookes University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",22.4,15,3.09
+10004930,Oxford Brookes University,4,"Psychology, Psychiatry and Neuroscience",15.9,75,2.93
+10004930,Oxford Brookes University,5,Biological Sciences,43.06,70,3.01
+10004930,Oxford Brookes University,11,Computer Science and Informatics,17.3,65,2.72
+10004930,Oxford Brookes University,12,Engineering,27.9,80,2.56
+10004930,Oxford Brookes University,13,"Architecture, Built Environment and Planning",41.41,50,2.96
+10004930,Oxford Brookes University,14,Geography and Environmental Studies,19.98,100,2.85
+10004930,Oxford Brookes University,17,Business and Management Studies,46.35,35,2.75
+10004930,Oxford Brookes University,18,Law,15.3,80,2.86
+10004930,Oxford Brookes University,19,Politics and International Studies,26,95,2.82
+10004930,Oxford Brookes University,23,Education,16.6,30,2.86
+10004930,Oxford Brookes University,27,English Language and Literature,21.6,95,3.59
+10004930,Oxford Brookes University,28,History,32.61,90,2.76
+10004930,Oxford Brookes University,32,"Art and Design: History, Practice and Theory",9.6,60,2.68
+10004930,Oxford Brookes University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",21.15,75,2.63
+10007801,University of Plymouth,1,Clinical Medicine,24.2,100,2.99
+10007801,University of Plymouth,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",48.01,100,3.01
+10007801,University of Plymouth,4,"Psychology, Psychiatry and Neuroscience",42.5,100,3.05
+10007801,University of Plymouth,6,"Agriculture, Food and Veterinary Sciences",19.8,100,3.36
+10007801,University of Plymouth,7,Earth Systems and Environmental Sciences,61.5,100,3.16
+10007801,University of Plymouth,10,Mathematical Sciences,22,100,2.74
+10007801,University of Plymouth,11,Computer Science and Informatics,14.62,100,2.74
+10007801,University of Plymouth,12,Engineering,34.3,100,2.99
+10007801,University of Plymouth,13,"Architecture, Built Environment and Planning",13,100,3.28
+10007801,University of Plymouth,14,Geography and Environmental Studies,27.2,100,2.84
+10007801,University of Plymouth,17,Business and Management Studies,31.5,100,2.81
+10007801,University of Plymouth,18,Law,15,100,2.9
+10007801,University of Plymouth,20,Social Work and Social Policy,14.8,100,3.26
+10007801,University of Plymouth,23,Education,25.1,100,2.83
+10007801,University of Plymouth,27,English Language and Literature,13.5,100,3.44
+10007801,University of Plymouth,28,History,11.5,100,3.11
+10007801,University of Plymouth,32,"Art and Design: History, Practice and Theory",14.3,100,2.73
+10007801,University of Plymouth,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",7.2,100,3.19
+10007155,University of Portsmouth,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",40.1,45,3.13
+10007155,University of Portsmouth,4,"Psychology, Psychiatry and Neuroscience",45.36,90,2.96
+10007155,University of Portsmouth,7,Earth Systems and Environmental Sciences,33.84,75,3.09
+10007155,University of Portsmouth,9,Physics,19.8,60,3.58
+10007155,University of Portsmouth,10,Mathematical Sciences,19,75,3.13
+10007155,University of Portsmouth,11,Computer Science and Informatics,29.8,45,2.89
+10007155,University of Portsmouth,12,Engineering,42.2,45,2.69
+10007155,University of Portsmouth,14,Geography and Environmental Studies,18.4,80,2.51
+10007155,University of Portsmouth,17,Business and Management Studies,93.5,60,3.02
+10007155,University of Portsmouth,18,Law,19.6,75,2.54
+10007155,University of Portsmouth,20,Social Work and Social Policy,37.3,55,2.95
+10007155,University of Portsmouth,24,"Sport and Exercise Sciences, Leisure and Tourism",20.5,60,3.4
+10007155,University of Portsmouth,25,Area Studies,73.6,75,3.24
+10007155,University of Portsmouth,27,English Language and Literature,27,80,2.84
+10007155,University of Portsmouth,32,"Art and Design: History, Practice and Theory",34.01,40,2.97
+10007155,University of Portsmouth,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",19.8,50,2.74
+10005337,"Queen Margaret University, Edinburgh",2,"Public Health, Health Services and Primary Care",8,85,2.81
+10005337,"Queen Margaret University, Edinburgh",3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",19.7,25,2.84
+10005337,"Queen Margaret University, Edinburgh",4,"Psychology, Psychiatry and Neuroscience",13.8,90,2.3
+10005337,"Queen Margaret University, Edinburgh",17,Business and Management Studies,5.4,20,2.16
+10005337,"Queen Margaret University, Edinburgh",21,Sociology,8.63,60,1.8
+10005337,"Queen Margaret University, Edinburgh",26,Modern Languages and Linguistics,6.6,45,2.95
+10005337,"Queen Margaret University, Edinburgh",34,"Communication, Cultural and Media Studies, Library and Information Management",14.67,50,2.86
+10007775,Queen Mary University of London,1,Clinical Medicine,222.74,100,3.37
+10007775,Queen Mary University of London,2,"Public Health, Health Services and Primary Care",34.75,100,3.29
+10007775,Queen Mary University of London,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",40.93,100,3.33
+10007775,Queen Mary University of London,5,Biological Sciences,52.7,100,3.28
+10007775,Queen Mary University of London,8,Chemistry,15.5,100,3.5
+10007775,Queen Mary University of London,9,Physics,48,100,3.29
+10007775,Queen Mary University of London,10,Mathematical Sciences,58.2,100,3.3
+10007775,Queen Mary University of London,11,Computer Science and Informatics,68.8,100,3.65
+10007775,Queen Mary University of London,12,Engineering,71.5,100,3.54
+10007775,Queen Mary University of London,14,Geography and Environmental Studies,36.1,100,3.32
+10007775,Queen Mary University of London,16,Economics and Econometrics,44.35,100,3.44
+10007775,Queen Mary University of London,17,Business and Management Studies,62.91,100,3.3
+10007775,Queen Mary University of London,18,Law,79.4,100,3.34
+10007775,Queen Mary University of London,19,Politics and International Studies,39.2,100,3.45
+10007775,Queen Mary University of London,26,Modern Languages and Linguistics,15,100,3.36
+10007775,Queen Mary University of London,26,Modern Languages and Linguistics,26.3,100,3.21
+10007775,Queen Mary University of London,27,English Language and Literature,48.95,100,3.4
+10007775,Queen Mary University of London,28,History,45.3,100,3.47
+10007775,Queen Mary University of London,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",16.5,100,3.7
+10007775,Queen Mary University of London,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12.75,100,3.56
+10005343,Queen's University of Belfast,2,"Public Health, Health Services and Primary Care",42,100,3.16
+10005343,Queen's University of Belfast,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",149.36,100,3.53
+10005343,Queen's University of Belfast,4,"Psychology, Psychiatry and Neuroscience",34,100,2.64
+10005343,Queen's University of Belfast,6,"Agriculture, Food and Veterinary Sciences",72.8,100,3.55
+10005343,Queen's University of Belfast,8,Chemistry,30.3,100,3.27
+10005343,Queen's University of Belfast,9,Physics,49.7,100,3.23
+10005343,Queen's University of Belfast,10,Mathematical Sciences,19,100,3.18
+10005343,Queen's University of Belfast,12,Engineering,140,100,3.32
+10005343,Queen's University of Belfast,13,"Architecture, Built Environment and Planning",27.4,100,3.06
+10005343,Queen's University of Belfast,14,Geography and Environmental Studies,19.5,100,2.97
+10005343,Queen's University of Belfast,15,Archaeology,11.7,100,3.31
+10005343,Queen's University of Belfast,17,Business and Management Studies,68,100,3.08
+10005343,Queen's University of Belfast,18,Law,45,100,3.41
+10005343,Queen's University of Belfast,19,Politics and International Studies,32.9,100,3.06
+10005343,Queen's University of Belfast,20,Social Work and Social Policy,47.2,100,3.34
+10005343,Queen's University of Belfast,22,Anthropology and Development Studies,9.9,100,2.95
+10005343,Queen's University of Belfast,23,Education,31.4,100,3.3
+10005343,Queen's University of Belfast,26,Modern Languages and Linguistics,23.4,100,3.02
+10005343,Queen's University of Belfast,27,English Language and Literature,36.8,100,3.18
+10005343,Queen's University of Belfast,28,History,34,100,3.29
+10005343,Queen's University of Belfast,30,Philosophy,5.5,100,2.98
+10005343,Queen's University of Belfast,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",34,100,3.2
+10005389,Ravensbourne University London,32,"Art and Design: History, Practice and Theory",20.4,95,2.2
+10007802,The University of Reading,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",54.92,100,3.23
+10007802,The University of Reading,4,"Psychology, Psychiatry and Neuroscience",44.9,100,3.32
+10007802,The University of Reading,5,Biological Sciences,15.7,100,2.8
+10007802,The University of Reading,6,"Agriculture, Food and Veterinary Sciences",77.15,100,3.05
+10007802,The University of Reading,7,Earth Systems and Environmental Sciences,83.9,100,3.56
+10007802,The University of Reading,8,Chemistry,15.93,100,3.06
+10007802,The University of Reading,10,Mathematical Sciences,19.4,100,3.34
+10007802,The University of Reading,11,Computer Science and Informatics,10.4,100,3.07
+10007802,The University of Reading,13,"Architecture, Built Environment and Planning",58.9,100,3.34
+10007802,The University of Reading,15,Archaeology,18.8,100,3.66
+10007802,The University of Reading,17,Business and Management Studies,100.75,100,3.17
+10007802,The University of Reading,18,Law,27.5,100,2.92
+10007802,The University of Reading,19,Politics and International Studies,16.6,100,3.27
+10007802,The University of Reading,22,Anthropology and Development Studies,19,100,3.31
+10007802,The University of Reading,23,Education,12.6,100,3.05
+10007802,The University of Reading,26,Modern Languages and Linguistics,24.7,100,3.28
+10007802,The University of Reading,27,English Language and Literature,28,100,3.24
+10007802,The University of Reading,28,History,16.8,100,3.05
+10007802,The University of Reading,29,Classics,12.5,100,3.06
+10007802,The University of Reading,30,Philosophy,7.25,100,2.95
+10007802,The University of Reading,32,"Art and Design: History, Practice and Theory",11.25,100,2.97
+10007802,The University of Reading,32,"Art and Design: History, Practice and Theory",10.2,100,3.55
+10007802,The University of Reading,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12.6,100,3.34
+10005500,Robert Gordon University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",28.66,15,2.53
+10005500,Robert Gordon University,11,Computer Science and Informatics,10,30,2.64
+10005500,Robert Gordon University,12,Engineering,15.8,35,2.58
+10005500,Robert Gordon University,13,"Architecture, Built Environment and Planning",9,35,2.37
+10005500,Robert Gordon University,17,Business and Management Studies,7.4,15,2.56
+10005500,Robert Gordon University,32,"Art and Design: History, Practice and Theory",4.2,20,2.31
+10005500,Robert Gordon University,34,"Communication, Cultural and Media Studies, Library and Information Management",9,30,2.64
+10007776,Roehampton University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",19.5,100,3.06
+10007776,Roehampton University,4,"Psychology, Psychiatry and Neuroscience",28.4,100,2.92
+10007776,Roehampton University,17,Business and Management Studies,18.7,100,2.91
+10007776,Roehampton University,21,Sociology,29.85,100,2.94
+10007776,Roehampton University,23,Education,14.7,100,3.24
+10007776,Roehampton University,27,English Language and Literature,29.5,100,3.24
+10007776,Roehampton University,28,History,19,100,3.07
+10007776,Roehampton University,31,Theology and Religious Studies,10.6,100,2.78
+10007776,Roehampton University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",14.2,100,3.57
+10007776,Roehampton University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",13.9,100,3.41
+10007776,Roehampton University,34,"Communication, Cultural and Media Studies, Library and Information Management",19.9,100,3.24
+10005523,Rose Bruford College of Theatre and Performance,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",8.9,30,2.35
+10007835,The Royal Academy of Music,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",22.19,100,2.45
+10005545,The Royal Agricultural University,6,"Agriculture, Food and Veterinary Sciences",16.7,85,2.33
+10007816,The Royal Central School of Speech and Drama,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",30.5,100,3.67
+10007777,Royal College of Art(The),32,"Art and Design: History, Practice and Theory",122.25,100,2.99
+10007778,Royal College of Music,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",22.28,90,3.01
+10005561,Royal Conservatoire of Scotland,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",26.41,30,2.83
+10005553,Royal Holloway and Bedford New College,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",8.6,90,2.93
+10005553,Royal Holloway and Bedford New College,4,"Psychology, Psychiatry and Neuroscience",31.3,100,3.62
+10005553,Royal Holloway and Bedford New College,5,Biological Sciences,28.35,100,3.16
+10005553,Royal Holloway and Bedford New College,7,Earth Systems and Environmental Sciences,26.13,100,3.1
+10005553,Royal Holloway and Bedford New College,9,Physics,19.1,100,3.2
+10005553,Royal Holloway and Bedford New College,10,Mathematical Sciences,19,100,2.96
+10005553,Royal Holloway and Bedford New College,11,Computer Science and Informatics,38.1,100,3.5
+10005553,Royal Holloway and Bedford New College,12,Engineering,17.3,100,2.95
+10005553,Royal Holloway and Bedford New College,14,Geography and Environmental Studies,34.3,95,3.5
+10005553,Royal Holloway and Bedford New College,16,Economics and Econometrics,27,100,3.35
+10005553,Royal Holloway and Bedford New College,17,Business and Management Studies,71.13,100,3.12
+10005553,Royal Holloway and Bedford New College,19,Politics and International Studies,28,95,3.55
+10005553,Royal Holloway and Bedford New College,20,Social Work and Social Policy,28.5,100,2.97
+10005553,Royal Holloway and Bedford New College,26,Modern Languages and Linguistics,18.5,100,3.44
+10005553,Royal Holloway and Bedford New College,27,English Language and Literature,32.05,100,3.46
+10005553,Royal Holloway and Bedford New College,28,History,45.34,100,3.26
+10005553,Royal Holloway and Bedford New College,30,Philosophy,9,100,2.72
+10005553,Royal Holloway and Bedford New College,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",31.8,100,3.68
+10005553,Royal Holloway and Bedford New College,34,"Communication, Cultural and Media Studies, Library and Information Management",17.7,100,3.49
+10007837,Royal Northern College of Music,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",19.61,100,2.76
+10007779,The Royal Veterinary College,6,"Agriculture, Food and Veterinary Sciences",159.75,100,3.3
+10007156,"University of Salford, The",3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",79.71,30,3.01
+10007156,"University of Salford, The",7,Earth Systems and Environmental Sciences,24,75,3.11
+10007156,"University of Salford, The",11,Computer Science and Informatics,16,60,2.76
+10007156,"University of Salford, The",12,Engineering,34.8,55,2.9
+10007156,"University of Salford, The",13,"Architecture, Built Environment and Planning",42.03,50,3.12
+10007156,"University of Salford, The",17,Business and Management Studies,13,15,2.62
+10007156,"University of Salford, The",20,Social Work and Social Policy,18.53,40,3.18
+10007156,"University of Salford, The",25,Area Studies,12.6,85,3.25
+10007156,"University of Salford, The",27,English Language and Literature,15,70,2.78
+10007156,"University of Salford, The",33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15.65,30,2.78
+10007156,"University of Salford, The",34,"Communication, Cultural and Media Studies, Library and Information Management",19.2,35,3.21
+10007780,School of Oriental and African Studies,17,Business and Management Studies,19.5,100,3.11
+10007780,School of Oriental and African Studies,18,Law,23.6,100,3.45
+10007780,School of Oriental and African Studies,19,Politics and International Studies,30,100,3.34
+10007780,School of Oriental and African Studies,22,Anthropology and Development Studies,18.1,100,3.42
+10007780,School of Oriental and African Studies,22,Anthropology and Development Studies,45.7,100,2.8
+10007780,School of Oriental and African Studies,25,Area Studies,10,100,3.4
+10007780,School of Oriental and African Studies,26,Modern Languages and Linguistics,24.8,100,3.37
+10007780,School of Oriental and African Studies,28,History,25,100,3.16
+10007780,School of Oriental and African Studies,31,Theology and Religious Studies,19.25,100,3.34
+10007780,School of Oriental and African Studies,32,"Art and Design: History, Practice and Theory",12.8,100,3.59
+10007780,School of Oriental and African Studies,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",7.2,100,3.61
+10007780,School of Oriental and African Studies,34,"Communication, Cultural and Media Studies, Library and Information Management",13,100,3.25
+10007157,The University of Sheffield,1,Clinical Medicine,109.7,100,3.26
+10007157,The University of Sheffield,2,"Public Health, Health Services and Primary Care",78.19,100,3.34
+10007157,The University of Sheffield,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",147.82,100,3.49
+10007157,The University of Sheffield,4,"Psychology, Psychiatry and Neuroscience",33,100,3.45
+10007157,The University of Sheffield,5,Biological Sciences,78.1,100,3.59
+10007157,The University of Sheffield,8,Chemistry,34.2,100,3.47
+10007157,The University of Sheffield,9,Physics,34.65,100,3.65
+10007157,The University of Sheffield,10,Mathematical Sciences,48.5,100,3.43
+10007157,The University of Sheffield,11,Computer Science and Informatics,56.75,100,3.59
+10007157,The University of Sheffield,12,Engineering,258.46,100,3.53
+10007157,The University of Sheffield,13,"Architecture, Built Environment and Planning",76.5,100,3.58
+10007157,The University of Sheffield,14,Geography and Environmental Studies,45.6,100,3.28
+10007157,The University of Sheffield,15,Archaeology,15,100,2.94
+10007157,The University of Sheffield,17,Business and Management Studies,139.85,100,3.25
+10007157,The University of Sheffield,18,Law,34.5,100,3.34
+10007157,The University of Sheffield,19,Politics and International Studies,43.4,100,3.4
+10007157,The University of Sheffield,21,Sociology,48.1,100,2.91
+10007157,The University of Sheffield,23,Education,27.7,100,3.38
+10007157,The University of Sheffield,25,Area Studies,18.8,100,3.21
+10007157,The University of Sheffield,26,Modern Languages and Linguistics,26.5,100,2.99
+10007157,The University of Sheffield,27,English Language and Literature,49.2,100,3.41
+10007157,The University of Sheffield,28,History,38.7,100,3.22
+10007157,The University of Sheffield,30,Philosophy,17.2,100,3.18
+10007157,The University of Sheffield,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",13,100,3.32
+10007157,The University of Sheffield,34,"Communication, Cultural and Media Studies, Library and Information Management",44.7,100,3.4
+10005790,Sheffield Hallam University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",31.6,15,2.69
+10005790,Sheffield Hallam University,4,"Psychology, Psychiatry and Neuroscience",17.6,35,2.64
+10005790,Sheffield Hallam University,5,Biological Sciences,33.5,65,2.52
+10005790,Sheffield Hallam University,11,Computer Science and Informatics,25.6,30,2.57
+10005790,Sheffield Hallam University,12,Engineering,48.6,40,2.89
+10005790,Sheffield Hallam University,13,"Architecture, Built Environment and Planning",38.7,35,3.12
+10005790,Sheffield Hallam University,17,Business and Management Studies,24.9,15,2.55
+10005790,Sheffield Hallam University,20,Social Work and Social Policy,20.6,20,2.75
+10005790,Sheffield Hallam University,23,Education,41.6,25,3.02
+10005790,Sheffield Hallam University,24,"Sport and Exercise Sciences, Leisure and Tourism",64.15,40,3.19
+10005790,Sheffield Hallam University,27,English Language and Literature,31.51,90,3.19
+10005790,Sheffield Hallam University,28,History,15.41,100,2.7
+10005790,Sheffield Hallam University,32,"Art and Design: History, Practice and Theory",31.25,30,3.35
+10005790,Sheffield Hallam University,34,"Communication, Cultural and Media Studies, Library and Information Management",33.2,50,3.11
+10006022,"Solent University, Southampton",20,Social Work and Social Policy,18,60,2.04
+10006022,"Solent University, Southampton",24,"Sport and Exercise Sciences, Leisure and Tourism",18.41,30,2.49
+10006022,"Solent University, Southampton",34,"Communication, Cultural and Media Studies, Library and Information Management",17.41,25,1.94
+10007793,University of South Wales / Prifysgol De Cymru,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",23.2,20,2.77
+10007793,University of South Wales / Prifysgol De Cymru,7,Earth Systems and Environmental Sciences,13.6,60,2.44
+10007793,University of South Wales / Prifysgol De Cymru,10,Mathematical Sciences,9.3,65,2.46
+10007793,University of South Wales / Prifysgol De Cymru,11,Computer Science and Informatics,13.7,35,2.54
+10007793,University of South Wales / Prifysgol De Cymru,12,Engineering,29.3,30,2.79
+10007793,University of South Wales / Prifysgol De Cymru,17,Business and Management Studies,20.6,30,2.27
+10007793,University of South Wales / Prifysgol De Cymru,20,Social Work and Social Policy,20.3,30,2.9
+10007793,University of South Wales / Prifysgol De Cymru,24,"Sport and Exercise Sciences, Leisure and Tourism",9.4,30,3.25
+10007793,University of South Wales / Prifysgol De Cymru,27,English Language and Literature,7.6,90,2.91
+10007793,University of South Wales / Prifysgol De Cymru,28,History,7,100,2.83
+10007793,University of South Wales / Prifysgol De Cymru,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",25.4,20,3.12
+10007793,University of South Wales / Prifysgol De Cymru,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15.6,95,1.55
+10007158,University of Southampton,1,Clinical Medicine,179.97,100,3.23
+10007158,University of Southampton,2,"Public Health, Health Services and Primary Care",13.56,100,3.55
+10007158,University of Southampton,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",58.11,100,3.57
+10007158,University of Southampton,4,"Psychology, Psychiatry and Neuroscience",45.93,100,3.37
+10007158,University of Southampton,5,Biological Sciences,45.5,100,3.32
+10007158,University of Southampton,7,Earth Systems and Environmental Sciences,60,100,3.6
+10007158,University of Southampton,8,Chemistry,44.35,100,3.47
+10007158,University of Southampton,9,Physics,41.68,100,3.31
+10007158,University of Southampton,10,Mathematical Sciences,64.3,100,3.48
+10007158,University of Southampton,11,Computer Science and Informatics,47.26,100,3.59
+10007158,University of Southampton,12,Engineering,261.38,100,3.58
+10007158,University of Southampton,14,Geography and Environmental Studies,40.42,100,3.52
+10007158,University of Southampton,15,Archaeology,19.28,100,3.57
+10007158,University of Southampton,16,Economics and Econometrics,27.55,100,3.19
+10007158,University of Southampton,17,Business and Management Studies,93.83,100,3.24
+10007158,University of Southampton,18,Law,31.8,100,3.15
+10007158,University of Southampton,19,Politics and International Studies,28.3,100,3.11
+10007158,University of Southampton,20,Social Work and Social Policy,43.09,100,3.53
+10007158,University of Southampton,23,Education,22.4,100,3.13
+10007158,University of Southampton,26,Modern Languages and Linguistics,21.5,100,3.13
+10007158,University of Southampton,27,English Language and Literature,32.6,100,3.57
+10007158,University of Southampton,28,History,38.8,100,3.42
+10007158,University of Southampton,30,Philosophy,18,100,3.4
+10007158,University of Southampton,32,"Art and Design: History, Practice and Theory",19.1,100,3.36
+10007158,University of Southampton,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",13.8,100,3.31
+10005700,SRUC,6,"Agriculture, Food and Veterinary Sciences",104.99,100,3.22
+10007803,University of St Andrews,1,Clinical Medicine,30.7,100,3.17
+10007803,University of St Andrews,4,"Psychology, Psychiatry and Neuroscience",32.1,100,3.43
+10007803,University of St Andrews,5,Biological Sciences,59.1,100,3.22
+10007803,University of St Andrews,7,Earth Systems and Environmental Sciences,20.9,100,3.55
+10007803,University of St Andrews,8,Chemistry,40.28,100,3.55
+10007803,University of St Andrews,9,Physics,40.8,100,3.53
+10007803,University of St Andrews,10,Mathematical Sciences,42,100,3.42
+10007803,University of St Andrews,11,Computer Science and Informatics,30.1,100,3.15
+10007803,University of St Andrews,14,Geography and Environmental Studies,26,100,3.27
+10007803,University of St Andrews,16,Economics and Econometrics,23.4,100,2.97
+10007803,University of St Andrews,17,Business and Management Studies,33.5,100,3.23
+10007803,University of St Andrews,19,Politics and International Studies,41.2,100,3.16
+10007803,University of St Andrews,22,Anthropology and Development Studies,18.45,100,3.27
+10007803,University of St Andrews,26,Modern Languages and Linguistics,45.5,100,3.23
+10007803,University of St Andrews,27,English Language and Literature,33,100,3.43
+10007803,University of St Andrews,28,History,50.6,100,3.42
+10007803,University of St Andrews,29,Classics,22,100,3.1
+10007803,University of St Andrews,30,Philosophy,18.6,100,3.28
+10007803,University of St Andrews,31,Theology and Religious Studies,22.6,100,2.97
+10007803,University of St Andrews,32,"Art and Design: History, Practice and Theory",23.2,100,3.69
+10007803,University of St Andrews,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",10,100,3.06
+10037449,University of St Mark & St John,23,Education,10.5,35,2.3
+10037449,University of St Mark & St John,24,"Sport and Exercise Sciences, Leisure and Tourism",14,45,2.64
+10007843,"St Mary's University, Twickenham",20,Social Work and Social Policy,17.52,100,2.17
+10007843,"St Mary's University, Twickenham",24,"Sport and Exercise Sciences, Leisure and Tourism",18.5,30,3.2
+10007843,"St Mary's University, Twickenham",27,English Language and Literature,14,90,2.81
+10007843,"St Mary's University, Twickenham",31,Theology and Religious Studies,8.3,75,2.69
+10007782,St. George's Hospital Medical School,1,Clinical Medicine,93.4,100,3.26
+10007782,St. George's Hospital Medical School,2,"Public Health, Health Services and Primary Care",14.67,100,3.07
+10006299,Staffordshire University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",26.26,95,2.75
+10006299,Staffordshire University,12,Engineering,18.4,100,2.84
+10006299,Staffordshire University,15,Archaeology,9,100,2.65
+10006299,Staffordshire University,17,Business and Management Studies,9.1,100,2.99
+10006299,Staffordshire University,20,Social Work and Social Policy,18,100,2.55
+10006299,Staffordshire University,32,"Art and Design: History, Practice and Theory",7.1,100,3.32
+10006299,Staffordshire University,34,"Communication, Cultural and Media Studies, Library and Information Management",14.6,100,2.74
+10007804,University of Stirling,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",58.61,100,3.14
+10007804,University of Stirling,4,"Psychology, Psychiatry and Neuroscience",27.4,95,3.19
+10007804,University of Stirling,6,"Agriculture, Food and Veterinary Sciences",29.83,95,3.27
+10007804,University of Stirling,11,Computer Science and Informatics,18,100,2.8
+10007804,University of Stirling,14,Geography and Environmental Studies,46.3,100,3.2
+10007804,University of Stirling,17,Business and Management Studies,56.65,95,2.98
+10007804,University of Stirling,18,Law,13.2,100,3.04
+10007804,University of Stirling,19,Politics and International Studies,10,100,2.87
+10007804,University of Stirling,20,Social Work and Social Policy,49.68,100,3.22
+10007804,University of Stirling,23,Education,23.2,100,3.13
+10007804,University of Stirling,24,"Sport and Exercise Sciences, Leisure and Tourism",26.8,100,3.02
+10007804,University of Stirling,27,English Language and Literature,34.3,100,3.14
+10007804,University of Stirling,28,History,22.2,100,3.16
+10007804,University of Stirling,30,Philosophy,12.3,100,3
+10007804,University of Stirling,34,"Communication, Cultural and Media Studies, Library and Information Management",18,95,3.17
+10008010,Stranmillis University College,23,Education,11,25,2.03
+10007805,University of Strathclyde,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",90.4,100,3.49
+10007805,University of Strathclyde,8,Chemistry,34.4,100,3.41
+10007805,University of Strathclyde,9,Physics,46.65,100,3.49
+10007805,University of Strathclyde,10,Mathematical Sciences,33.1,100,3.23
+10007805,University of Strathclyde,11,Computer Science and Informatics,31.8,100,3.21
+10007805,University of Strathclyde,12,Engineering,220.2,100,3.3
+10007805,University of Strathclyde,13,"Architecture, Built Environment and Planning",15,100,3.2
+10007805,University of Strathclyde,17,Business and Management Studies,116.1,100,3.26
+10007805,University of Strathclyde,18,Law,28,100,3.13
+10007805,University of Strathclyde,19,Politics and International Studies,22,100,3.56
+10007805,University of Strathclyde,20,Social Work and Social Policy,18,100,3.17
+10007805,University of Strathclyde,23,Education,34,100,2.62
+10007805,University of Strathclyde,27,English Language and Literature,25,100,3.41
+10007805,University of Strathclyde,28,History,17.8,100,3.18
+10014001,University of Suffolk,20,Social Work and Social Policy,14,100,2.69
+10007159,University of Sunderland,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",29,20,2.87
+10007159,University of Sunderland,11,Computer Science and Informatics,6.7,25,2.52
+10007159,University of Sunderland,12,Engineering,5,30,2.64
+10007159,University of Sunderland,20,Social Work and Social Policy,13,25,2.79
+10007159,University of Sunderland,23,Education,8.7,15,2
+10007159,University of Sunderland,24,"Sport and Exercise Sciences, Leisure and Tourism",8,25,2.43
+10007159,University of Sunderland,27,English Language and Literature,6.92,85,3.01
+10007159,University of Sunderland,32,"Art and Design: History, Practice and Theory",11.67,40,3.21
+10007159,University of Sunderland,34,"Communication, Cultural and Media Studies, Library and Information Management",7.6,30,2.73
+10007160,The University of Surrey,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",136.8,100,3.36
+10007160,The University of Surrey,9,Physics,30.6,100,3.2
+10007160,The University of Surrey,10,Mathematical Sciences,24,100,3.02
+10007160,The University of Surrey,11,Computer Science and Informatics,22.5,100,3.26
+10007160,The University of Surrey,12,Engineering,166.12,100,3.33
+10007160,The University of Surrey,16,Economics and Econometrics,24.75,100,3.37
+10007160,The University of Surrey,17,Business and Management Studies,53.55,100,3.33
+10007160,The University of Surrey,18,Law,20,100,2.86
+10007160,The University of Surrey,21,Sociology,25.3,100,3.22
+10007160,The University of Surrey,23,Education,13.8,100,3.22
+10007160,The University of Surrey,24,"Sport and Exercise Sciences, Leisure and Tourism",25.1,100,3.36
+10007160,The University of Surrey,25,Area Studies,11,100,3.09
+10007160,The University of Surrey,27,English Language and Literature,38.45,100,3.42
+10007160,The University of Surrey,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",19.5,100,3.07
+10007806,University of Sussex,1,Clinical Medicine,19.2,100,2.91
+10007806,University of Sussex,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",63.9,50,3.22
+10007806,University of Sussex,4,"Psychology, Psychiatry and Neuroscience",53.9,100,3.38
+10007806,University of Sussex,5,Biological Sciences,63.8,100,3.28
+10007806,University of Sussex,8,Chemistry,18.3,100,3.16
+10007806,University of Sussex,9,Physics,42.7,100,3.35
+10007806,University of Sussex,10,Mathematical Sciences,22,100,3.3
+10007806,University of Sussex,11,Computer Science and Informatics,26.9,100,3.43
+10007806,University of Sussex,12,Engineering,26.2,100,2.94
+10007806,University of Sussex,14,Geography and Environmental Studies,32.05,100,3.38
+10007806,University of Sussex,16,Economics and Econometrics,22.6,100,3.34
+10007806,University of Sussex,17,Business and Management Studies,105.85,100,3.23
+10007806,University of Sussex,18,Law,55.9,100,3.11
+10007806,University of Sussex,19,Politics and International Studies,29.25,100,3.35
+10007806,University of Sussex,20,Social Work and Social Policy,15,100,3.18
+10007806,University of Sussex,21,Sociology,18.5,100,3.28
+10007806,University of Sussex,22,Anthropology and Development Studies,26.8,100,3.33
+10007806,University of Sussex,23,Education,20.6,100,3.44
+10007806,University of Sussex,25,Area Studies,16,100,3.38
+10007806,University of Sussex,27,English Language and Literature,39,100,3.52
+10007806,University of Sussex,28,History,30.1,100,3.41
+10007806,University of Sussex,30,Philosophy,12,100,3.22
+10007806,University of Sussex,32,"Art and Design: History, Practice and Theory",9,100,3.58
+10007806,University of Sussex,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15,100,3.19
+10007806,University of Sussex,34,"Communication, Cultural and Media Studies, Library and Information Management",45.1,100,3.42
+10007855,Swansea University / Prifysgol Abertawe,2,"Public Health, Health Services and Primary Care",11.5,100,2.73
+10007855,Swansea University / Prifysgol Abertawe,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",55.7,100,3.53
+10007855,Swansea University / Prifysgol Abertawe,4,"Psychology, Psychiatry and Neuroscience",26.5,100,2.9
+10007855,Swansea University / Prifysgol Abertawe,7,Earth Systems and Environmental Sciences,28,100,3.51
+10007855,Swansea University / Prifysgol Abertawe,8,Chemistry,19.2,100,3.14
+10007855,Swansea University / Prifysgol Abertawe,9,Physics,25.2,100,3.22
+10007855,Swansea University / Prifysgol Abertawe,10,Mathematical Sciences,18.9,100,3.43
+10007855,Swansea University / Prifysgol Abertawe,11,Computer Science and Informatics,32.9,100,3.22
+10007855,Swansea University / Prifysgol Abertawe,12,Engineering,116.4,100,3.25
+10007855,Swansea University / Prifysgol Abertawe,14,Geography and Environmental Studies,29.7,100,3.29
+10007855,Swansea University / Prifysgol Abertawe,17,Business and Management Studies,53.05,100,3.05
+10007855,Swansea University / Prifysgol Abertawe,18,Law,23.55,100,2.87
+10007855,Swansea University / Prifysgol Abertawe,19,Politics and International Studies,20,100,2.88
+10007855,Swansea University / Prifysgol Abertawe,20,Social Work and Social Policy,22.1,100,3.14
+10007855,Swansea University / Prifysgol Abertawe,24,"Sport and Exercise Sciences, Leisure and Tourism",19,100,3.25
+10007855,Swansea University / Prifysgol Abertawe,26,Modern Languages and Linguistics,17.5,100,3.03
+10007855,Swansea University / Prifysgol Abertawe,27,English Language and Literature,24.2,100,3.4
+10007855,Swansea University / Prifysgol Abertawe,28,History,34.25,100,3.09
+10007161,Teesside University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",60.5,30,2.92
+10007161,Teesside University,4,"Psychology, Psychiatry and Neuroscience",18.3,40,2.17
+10007161,Teesside University,12,Engineering,78.6,55,2.6
+10007161,Teesside University,20,Social Work and Social Policy,34.7,40,2.6
+10007161,Teesside University,32,"Art and Design: History, Practice and Theory",48,35,3.16
+10008017,Trinity Laban Conservatoire of Music and Dance,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",12.6,100,2.92
+10007858,University of Wales Trinity Saint David / Prifysgol Cymru Y Drindod Dewi Sant,4,"Psychology, Psychiatry and Neuroscience",4.9,100,1.39
+10007858,University of Wales Trinity Saint David / Prifysgol Cymru Y Drindod Dewi Sant,23,Education,13.4,100,2.21
+10007858,University of Wales Trinity Saint David / Prifysgol Cymru Y Drindod Dewi Sant,26,Modern Languages and Linguistics,11.9,100,2.94
+10007858,University of Wales Trinity Saint David / Prifysgol Cymru Y Drindod Dewi Sant,31,Theology and Religious Studies,19.75,100,2.7
+10007858,University of Wales Trinity Saint David / Prifysgol Cymru Y Drindod Dewi Sant,32,"Art and Design: History, Practice and Theory",18.2,100,2.5
+10007807,University of Ulster,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",140.08,80,3.29
+10007807,University of Ulster,4,"Psychology, Psychiatry and Neuroscience",31.4,90,3.03
+10007807,University of Ulster,11,Computer Science and Informatics,69.6,100,3.12
+10007807,University of Ulster,12,Engineering,39.6,95,3.29
+10007807,University of Ulster,13,"Architecture, Built Environment and Planning",52.8,90,3.3
+10007807,University of Ulster,14,Geography and Environmental Studies,19.6,90,3.16
+10007807,University of Ulster,17,Business and Management Studies,34.4,80,3.21
+10007807,University of Ulster,18,Law,14.7,95,3.28
+10007807,University of Ulster,20,Social Work and Social Policy,28.8,50,3.31
+10007807,University of Ulster,23,Education,11.2,50,3.13
+10007807,University of Ulster,24,"Sport and Exercise Sciences, Leisure and Tourism",19.2,90,3.17
+10007807,University of Ulster,26,Modern Languages and Linguistics,16.2,85,3.01
+10007807,University of Ulster,27,English Language and Literature,12,100,3.06
+10007807,University of Ulster,28,History,9,100,2.9
+10007807,University of Ulster,32,"Art and Design: History, Practice and Theory",31.19,60,3.25
+10007807,University of Ulster,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",15.8,95,3.07
+10007807,University of Ulster,34,"Communication, Cultural and Media Studies, Library and Information Management",12.7,80,2.98
+10007784,University College London,1,Clinical Medicine,344.18,100,3.57
+10007784,University College London,2,"Public Health, Health Services and Primary Care",208.12,100,3.58
+10007784,University College London,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",86.2,100,3.35
+10007784,University College London,4,"Psychology, Psychiatry and Neuroscience",379.49,100,3.57
+10007784,University College London,5,Biological Sciences,169.89,100,3.44
+10007784,University College London,7,Earth Systems and Environmental Sciences,40.55,100,3.47
+10007784,University College London,8,Chemistry,64.8,100,3.68
+10007784,University College London,9,Physics,112.5,100,3.38
+10007784,University College London,10,Mathematical Sciences,94.15,100,3.4
+10007784,University College London,11,Computer Science and Informatics,100.2,100,3.75
+10007784,University College London,12,Engineering,256.18,100,3.58
+10007784,University College London,13,"Architecture, Built Environment and Planning",290.69,100,3.4
+10007784,University College London,14,Geography and Environmental Studies,55.5,100,3.43
+10007784,University College London,15,Archaeology,60.23,100,3.33
+10007784,University College London,16,Economics and Econometrics,43.3,100,3.58
+10007784,University College London,17,Business and Management Studies,38.6,100,3.41
+10007784,University College London,18,Law,59.1,100,3.62
+10007784,University College London,19,Politics and International Studies,42.8,100,3.5
+10007784,University College London,20,Social Work and Social Policy,41.78,100,3.39
+10007784,University College London,22,Anthropology and Development Studies,44.05,100,3.19
+10007784,University College London,23,Education,316.97,100,3.49
+10007784,University College London,25,Area Studies,47.35,100,3.44
+10007784,University College London,25,Area Studies,12.3,100,3.69
+10007784,University College London,26,Modern Languages and Linguistics,68.4,100,3.29
+10007784,University College London,27,English Language and Literature,32,100,3.46
+10007784,University College London,28,History,52.1,100,3.51
+10007784,University College London,29,Classics,14.5,100,3.19
+10007784,University College London,30,Philosophy,32.7,100,3.46
+10007784,University College London,31,Theology and Religious Studies,10.2,100,3.2
+10007784,University College London,32,"Art and Design: History, Practice and Theory",18.36,100,3.63
+10007784,University College London,32,"Art and Design: History, Practice and Theory",20.3,100,3.33
+10007784,University College London,34,"Communication, Cultural and Media Studies, Library and Information Management",19.6,100,3.33
+10000936,University College of Osteopathy (The),3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",3.78,80,2.16
+10006427,University for the Creative Arts,32,"Art and Design: History, Practice and Theory",46.7,25,3.06
+10007163,The University of Warwick,1,Clinical Medicine,33.1,100,2.79
+10007163,The University of Warwick,2,"Public Health, Health Services and Primary Care",65.72,100,3.27
+10007163,The University of Warwick,4,"Psychology, Psychiatry and Neuroscience",28.9,100,3.35
+10007163,The University of Warwick,5,Biological Sciences,62,100,3.22
+10007163,The University of Warwick,8,Chemistry,46.8,100,3.51
+10007163,The University of Warwick,9,Physics,79.2,100,3.44
+10007163,The University of Warwick,10,Mathematical Sciences,131.5,100,3.64
+10007163,The University of Warwick,11,Computer Science and Informatics,41.6,100,3.75
+10007163,The University of Warwick,12,Engineering,129.9,100,3.37
+10007163,The University of Warwick,16,Economics and Econometrics,55.15,100,3.68
+10007163,The University of Warwick,17,Business and Management Studies,158.15,100,3.51
+10007163,The University of Warwick,18,Law,47,100,3.41
+10007163,The University of Warwick,19,Politics and International Studies,62.3,100,3.42
+10007163,The University of Warwick,21,Sociology,36.8,100,3.29
+10007163,The University of Warwick,23,Education,43.63,100,3.26
+10007163,The University of Warwick,26,Modern Languages and Linguistics,42,100,3.14
+10007163,The University of Warwick,27,English Language and Literature,44.32,100,3.45
+10007163,The University of Warwick,28,History,53.55,100,3.42
+10007163,The University of Warwick,29,Classics,17.5,100,3.42
+10007163,The University of Warwick,30,Philosophy,22.65,100,3.33
+10007163,The University of Warwick,32,"Art and Design: History, Practice and Theory",11,100,3.4
+10007163,The University of Warwick,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",39.63,100,3.52
+10006566,The University of West London,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",15.8,80,2.79
+10006566,The University of West London,11,Computer Science and Informatics,9.8,70,2.28
+10006566,The University of West London,12,Engineering,14,90,2.32
+10006566,The University of West London,20,Social Work and Social Policy,12.4,100,2.83
+10006566,The University of West London,24,"Sport and Exercise Sciences, Leisure and Tourism",6.6,85,2.55
+10006566,The University of West London,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",6.9,65,2.78
+10006566,The University of West London,34,"Communication, Cultural and Media Studies, Library and Information Management",9.5,100,3.16
+10007164,"University of the West of England, Bristol",3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",41,15,3.13
+10007164,"University of the West of England, Bristol",6,"Agriculture, Food and Veterinary Sciences",14.2,45,2.75
+10007164,"University of the West of England, Bristol",11,Computer Science and Informatics,28.6,35,2.86
+10007164,"University of the West of England, Bristol",12,Engineering,42.6,40,2.91
+10007164,"University of the West of England, Bristol",13,"Architecture, Built Environment and Planning",64.65,45,3.12
+10007164,"University of the West of England, Bristol",17,Business and Management Studies,50.5,25,2.76
+10007164,"University of the West of England, Bristol",18,Law,6,10,3.12
+10007164,"University of the West of England, Bristol",20,Social Work and Social Policy,41.5,40,2.92
+10007164,"University of the West of England, Bristol",23,Education,7,10,2.96
+10007164,"University of the West of England, Bristol",27,English Language and Literature,15.7,75,2.83
+10007164,"University of the West of England, Bristol",28,History,9,80,2.45
+10007164,"University of the West of England, Bristol",32,"Art and Design: History, Practice and Theory",21.5,25,2.95
+10007164,"University of the West of England, Bristol",34,"Communication, Cultural and Media Studies, Library and Information Management",30,55,3.18
+10007800,University of the West of Scotland,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",32.5,20,2.78
+10007800,University of the West of Scotland,7,Earth Systems and Environmental Sciences,12.4,75,2.81
+10007800,University of the West of Scotland,9,Physics,8,75,3.02
+10007800,University of the West of Scotland,11,Computer Science and Informatics,25,55,2.63
+10007800,University of the West of Scotland,12,Engineering,34,95,2.46
+10007800,University of the West of Scotland,17,Business and Management Studies,34.2,50,2.14
+10007800,University of the West of Scotland,20,Social Work and Social Policy,64.9,80,2.27
+10007800,University of the West of Scotland,23,Education,18.7,40,2.27
+10007800,University of the West of Scotland,24,"Sport and Exercise Sciences, Leisure and Tourism",26.1,65,2.84
+10007800,University of the West of Scotland,34,"Communication, Cultural and Media Studies, Library and Information Management",16.6,45,2.35
+10007165,The University of Westminster,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",51.2,75,2.95
+10007165,The University of Westminster,4,"Psychology, Psychiatry and Neuroscience",19.8,65,2.75
+10007165,The University of Westminster,11,Computer Science and Informatics,21.4,40,2.7
+10007165,The University of Westminster,13,"Architecture, Built Environment and Planning",63.6,75,3.02
+10007165,The University of Westminster,17,Business and Management Studies,47.35,25,2.94
+10007165,The University of Westminster,18,Law,31.9,60,2.75
+10007165,The University of Westminster,19,Politics and International Studies,21.8,80,3.04
+10007165,The University of Westminster,20,Social Work and Social Policy,18.5,95,2.9
+10007165,The University of Westminster,26,Modern Languages and Linguistics,21.9,65,2.72
+10007165,The University of Westminster,27,English Language and Literature,28.8,100,3.35
+10007165,The University of Westminster,28,History,8.6,100,2.52
+10007165,The University of Westminster,32,"Art and Design: History, Practice and Theory",33.3,35,3.61
+10007165,The University of Westminster,34,"Communication, Cultural and Media Studies, Library and Information Management",24.93,65,3.21
+10003614,University of Winchester,4,"Psychology, Psychiatry and Neuroscience",28.83,100,2.28
+10003614,University of Winchester,15,Archaeology,9.8,100,2.2
+10003614,University of Winchester,17,Business and Management Studies,14.06,100,2.58
+10003614,University of Winchester,18,Law,3,100,2.05
+10003614,University of Winchester,19,Politics and International Studies,5,100,2.47
+10003614,University of Winchester,20,Social Work and Social Policy,12.8,100,2.29
+10003614,University of Winchester,23,Education,21.5,100,2.64
+10003614,University of Winchester,24,"Sport and Exercise Sciences, Leisure and Tourism",9.2,100,2.56
+10003614,University of Winchester,27,English Language and Literature,7.75,100,2.56
+10003614,University of Winchester,28,History,17.75,100,2.65
+10003614,University of Winchester,31,Theology and Religious Studies,8.4,100,2.86
+10003614,University of Winchester,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",11.6,100,2.86
+10003614,University of Winchester,34,"Communication, Cultural and Media Studies, Library and Information Management",14.15,100,2.79
+10007166,University of Wolverhampton,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",47.5,25,2.66
+10007166,University of Wolverhampton,4,"Psychology, Psychiatry and Neuroscience",18.5,65,2.37
+10007166,University of Wolverhampton,11,Computer Science and Informatics,11,35,2.01
+10007166,University of Wolverhampton,12,Engineering,29.1,70,2.49
+10007166,University of Wolverhampton,13,"Architecture, Built Environment and Planning",19.2,50,2.55
+10007166,University of Wolverhampton,17,Business and Management Studies,16,30,2.6
+10007166,University of Wolverhampton,18,Law,12,35,2.75
+10007166,University of Wolverhampton,20,Social Work and Social Policy,15.3,40,2.26
+10007166,University of Wolverhampton,23,Education,24.6,25,2.08
+10007166,University of Wolverhampton,24,"Sport and Exercise Sciences, Leisure and Tourism",13.32,40,2.79
+10007166,University of Wolverhampton,25,Area Studies,11.3,100,3.1
+10007166,University of Wolverhampton,26,Modern Languages and Linguistics,9.7,50,2.73
+10007166,University of Wolverhampton,27,English Language and Literature,9.5,75,3.2
+10007166,University of Wolverhampton,28,History,19.8,95,2.62
+10007166,University of Wolverhampton,32,"Art and Design: History, Practice and Theory",12.5,30,2.91
+10007166,University of Wolverhampton,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",16,50,2.2
+10007166,University of Wolverhampton,34,"Communication, Cultural and Media Studies, Library and Information Management",11,90,2.88
+10007139,University of Worcester,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",19.28,25,2.61
+10007139,University of Worcester,4,"Psychology, Psychiatry and Neuroscience",10.8,70,2.3
+10007139,University of Worcester,5,Biological Sciences,13.32,65,2.06
+10007139,University of Worcester,14,Geography and Environmental Studies,10.2,85,2.26
+10007139,University of Worcester,17,Business and Management Studies,15.2,65,2.24
+10007139,University of Worcester,20,Social Work and Social Policy,11.3,65,2.39
+10007139,University of Worcester,23,Education,16.75,30,2.03
+10007139,University of Worcester,24,"Sport and Exercise Sciences, Leisure and Tourism",18,45,2.5
+10007139,University of Worcester,27,English Language and Literature,14.9,95,2.51
+10007139,University of Worcester,28,History,3.5,65,2.95
+10007139,University of Worcester,32,"Art and Design: History, Practice and Theory",7.3,60,2.26
+10007139,University of Worcester,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",7.8,75,1.88
+10007167,University of York,2,"Public Health, Health Services and Primary Care",92.08,100,3.5
+10007167,University of York,4,"Psychology, Psychiatry and Neuroscience",39.25,100,3.53
+10007167,University of York,5,Biological Sciences,69.4,100,3.5
+10007167,University of York,7,Earth Systems and Environmental Sciences,34.9,100,3.5
+10007167,University of York,8,Chemistry,56.8,100,3.6
+10007167,University of York,9,Physics,59.9,100,3.49
+10007167,University of York,10,Mathematical Sciences,47.08,100,3.4
+10007167,University of York,11,Computer Science and Informatics,44.4,100,3.62
+10007167,University of York,12,Engineering,28.2,100,3.29
+10007167,University of York,15,Archaeology,28.89,100,3.42
+10007167,University of York,16,Economics and Econometrics,38,100,3.29
+10007167,University of York,17,Business and Management Studies,59.7,100,3.24
+10007167,University of York,18,Law,27.3,100,3.2
+10007167,University of York,19,Politics and International Studies,41.8,100,3.37
+10007167,University of York,20,Social Work and Social Policy,34.01,100,3.37
+10007167,University of York,21,Sociology,25.43,100,3.47
+10007167,University of York,23,Education,30.6,100,3.53
+10007167,University of York,26,Modern Languages and Linguistics,19.45,100,3.65
+10007167,University of York,27,English Language and Literature,42.8,100,3.59
+10007167,University of York,28,History,45.4,100,3.42
+10007167,University of York,30,Philosophy,17.57,100,3.49
+10007167,University of York,32,"Art and Design: History, Practice and Theory",17.83,100,3.59
+10007167,University of York,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",18.2,100,3.29
+10007167,University of York,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",27,100,3.35
+10007713,York St John University,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy",17.4,55,2.34
+10007713,York St John University,4,"Psychology, Psychiatry and Neuroscience",14.6,65,2.67
+10007713,York St John University,14,Geography and Environmental Studies,7.2,100,1.98
+10007713,York St John University,17,Business and Management Studies,11.51,30,2.23
+10007713,York St John University,21,Sociology,14,65,2.01
+10007713,York St John University,23,Education,10.5,30,2.3
+10007713,York St John University,24,"Sport and Exercise Sciences, Leisure and Tourism",13,80,2.78
+10007713,York St John University,26,Modern Languages and Linguistics,11.6,55,2.67
+10007713,York St John University,27,English Language and Literature,17.7,90,2.53
+10007713,York St John University,28,History,9,70,2.4
+10007713,York St John University,31,Theology and Religious Studies,6.2,75,2.23
+10007713,York St John University,32,"Art and Design: History, Practice and Theory",11.1,50,2.16
+10007713,York St John University,33,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",16.8,55,2.84
