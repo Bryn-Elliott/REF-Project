@@ -21,6 +21,6 @@ def XSLX(dataPath):
     df['Unit of assessment number'] = pd.to_numeric(df['Unit of assessment number'], errors='coerce')
     df['Unit of assessment number'] = df['Unit of assessment number'].astype('Int64')
     df['Unit of assessment number'] = df['Unit of assessment number'].astype(str)
-    df = df.drop(columns=["Institution sort order", "Main panel", "FTE of submitted staff", "Total FTE of submitted staff for joint submission", "% of eligible staff submitted", "4*", "3*", "2*", "1*", "Unclassified"])
-    df = df.drop(df.index[-1])
+    df.drop(columns=["Institution sort order", "Main panel", "FTE of submitted staff", "Total FTE of submitted staff for joint submission", "% of eligible staff submitted", "4*", "3*", "2*", "1*", "Unclassified"], inplace=True)
+    df.drop(df.index[-1], inplace=True)
     return df
