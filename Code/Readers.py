@@ -14,6 +14,7 @@ def CSV(dataPath):
 def XSLX(dataPath):
     df = pd.read_excel(dataPath, header=6)
     df = df.iloc[6:] 
+    df = df[df['Profile'] == 'Overall']
     df['score'] = df['4*']*4 + df['3*']*3 + df['2*']*2 + df['1*']*1
     df['score'] = pd.to_numeric(df['score'], errors='coerce')
     df['score'] = df['score'] / 100
