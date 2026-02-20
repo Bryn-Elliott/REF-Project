@@ -14,8 +14,8 @@ def CSV(dataPath):
 def XSLX(dataPath):
     df = pd.read_excel(dataPath, header=6) # Read file with pandas
     df = df.iloc[6:]  # Remove forst 6 rows (blank/title)
-    df = df[df['Profile'] == 'Overall'] # Remove non-overall scores
-    df['score'] = df['4*']*4 + df['3*']*3 + df['2*']*2 + df['1*']*1 # Calculate weighted score
+    df = df[df['Profile'] == 'Output'] # Remove non-overall scores
+    df['score'] = df['4*']*4 + df['3*'] # Calculate weighted score
     df['score'] = pd.to_numeric(df['score'], errors='coerce') # Format score to number
     df['score'] = df['score'] / 100 # Account for percentages not being of 1
     df['Unit of assessment number'] = pd.to_numeric(df['Unit of assessment number'], errors='coerce') # Convert Unit of Assessment number to a number
