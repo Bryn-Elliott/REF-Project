@@ -22,5 +22,5 @@ def XSLX(dataPath):
     df['Unit of assessment number'] = df['Unit of assessment number'].astype('Int64')# Convert Unit of Assessment number to a nullable integer
     df['Unit of assessment number'] = df['Unit of assessment number'].astype(str)# Convert Unit of Assessment number to a string (now formatted to remove any decimals)
     df.drop(columns=["Institution sort order", "Main panel", "FTE of submitted staff", "Total FTE of submitted staff for joint submission", "% of eligible staff submitted", "4*", "3*", "2*", "1*", "Unclassified"], inplace=True) # Remove unnecessary columns
-    df.drop(df.index[-1], inplace=True) # Remove the last row (Null)
+    df.drop(df.index[:-1], inplace=True) # Remove the last row (Null)
     return df

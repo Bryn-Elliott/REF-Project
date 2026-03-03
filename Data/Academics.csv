@@ -1,102 +1,101 @@
 Name,Subjects
-Dr. Amelia Hart,"Clinical Medicine; Public Health, Health Services and Primary Care"
-Prof. Daniel Okoye,"Biological Sciences"
-Dr. Sophia Nguyen,"Psychology, Psychiatry and Neuroscience; Allied Health Professions, Dentistry, Nursing and Pharmacy"
-Prof. Liam O'Connor,"Agriculture, Food and Veterinary Sciences; Biological Sciences"
-Dr. Isabella Rossi,"Public Health, Health Services and Primary Care; Clinical Medicine; Allied Health Professions, Dentistry, Nursing and Pharmacy"
-Prof. Ethan Müller,"Physics; Mathematical Sciences"
-Dr. Chloe Bennett,"Computer Science and Informatics; Mathematical Sciences; Engineering"
-Prof. Rajiv Patel,"Chemistry"
-Dr. Marta Kowalski,"Earth Systems and Environmental Sciences; Physics"
-Prof. Jonas Eriksen,"Engineering; Computer Science and Informatics"
-Dr. Layla Hassan,"Economics and Econometrics; Business and Management Studies"
-Prof. Oliver Schmidt,"Law; Politics and International Studies"
-Dr. Hannah Brooks,"Sociology; Social Work and Social Policy; Education"
-Prof. Marco Alvarez,"Geography and Environmental Studies; Architecture, Built Environment and Planning"
-Dr. Priya Raman,"Anthropology and Development Studies"
-Prof. Eleanor Whitmore,"History; Classics"
-Dr. Gabriel Moreau,"Philosophy; Theology and Religious Studies"
-Prof. Mei Tanaka,"Modern Languages and Linguistics; Area Studies; English Language and Literature"
-Dr. Lucas Ferreira,"Art and Design: History, Practice and Theory; Music, Drama, Dance, Performing Arts, Film and Screen Studies"
-Prof. Sarah Middleton,"Communication, Cultural and Media Studies, Library and Information Management"
-Dr. Noah Fischer,"Clinical Medicine"
-Prof. Aisha Bello,"Public Health, Health Services and Primary Care; Psychology, Psychiatry and Neuroscience"
-Dr. Victor Petrov,"Biological Sciences; Agriculture, Food and Veterinary Sciences"
-Prof. Elena García,"Allied Health Professions, Dentistry, Nursing and Pharmacy"
-Dr. Marcus Chen,"Clinical Medicine; Biological Sciences"
-Prof. Ingrid Dahl,"Physics"
-Dr. Thomas Wright,"Engineering; Mathematical Sciences"
-Prof. Karolina Nowak,"Computer Science and Informatics"
-Dr. Ahmed El-Sayed,"Chemistry; Earth Systems and Environmental Sciences"
-Prof. Julia Romano,"Mathematical Sciences; Physics"
-Dr. Samuel Johnson,"Economics and Econometrics"
-Prof. Fatima Khan,"Business and Management Studies; Law"
-Dr. Peter Novak,"Politics and International Studies; Sociology"
-Prof. Laura Silva,"Social Work and Social Policy"
-Dr. Benjamin Lee,"Geography and Environmental Studies; Economics and Econometrics"
-Prof. Marta Ionescu,"Education; Sociology"
-Dr. David Park,"Anthropology and Development Studies; Social Work and Social Policy"
-Prof. Anna Svensson,"Architecture, Built Environment and Planning"
-Dr. Carlos Mendes,"Law; Politics and International Studies; Business and Management Studies"
-Prof. Rebecca Stone,"History"
-Dr. Yuki Sato,"Modern Languages and Linguistics; Area Studies"
-Prof. Henry Clarke,"Philosophy"
-Dr. Sofia Dimitriou,"Classics; History"
-Prof. Martin Dubois,"Theology and Religious Studies; Philosophy"
-Dr. Alicia Romero,"English Language and Literature"
-Prof. Chen Wei,"Art and Design: History, Practice and Theory"
-Dr. Patrick O'Brien,"Music, Drama, Dance, Performing Arts, Film and Screen Studies"
-Prof. Nadine Laurent,"Communication, Cultural and Media Studies, Library and Information Management; English Language and Literature"
-Dr. George Papadakis,"Area Studies; Modern Languages and Linguistics"
-Prof. Emily Turner,"Clinical Medicine; Allied Health Professions, Dentistry, Nursing and Pharmacy"
-Dr. Hassan Ali,"Public Health, Health Services and Primary Care"
-Prof. Olivia Brown,"Psychology, Psychiatry and Neuroscience"
-Dr. Ivan Horvat,"Biological Sciences"
-Prof. Linda Green,"Agriculture, Food and Veterinary Sciences; Clinical Medicine"
-Dr. Robert King,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Public Health, Health Services and Primary Care"
-Prof. Teresa Costa,"Earth Systems and Environmental Sciences"
-Dr. Michael Adams,"Chemistry; Physics"
-Prof. Sophie Lambert,"Engineering"
-Dr. Daniel Kim,"Computer Science and Informatics; Engineering"
-Prof. Katarzyna Zielinska,"Mathematical Sciences"
-Dr. Jonathan Reed,"Economics and Econometrics; Business and Management Studies"
-Prof. Salma Abdallah,"Law"
-Dr. Nicholas Grant,"Politics and International Studies"
-Prof. Irene Pappas,"Sociology; Anthropology and Development Studies"
-Dr. William Scott,"Education"
-Prof. Camila Torres,"Geography and Environmental Studies"
-Dr. Eric Johansson,"Architecture, Built Environment and Planning; Geography and Environmental Studies"
-Prof. Mariana Lopes,"Social Work and Social Policy; Sociology"
-Dr. Andrew Collins,"History; Philosophy"
-Prof. Leila Haddad,"Modern Languages and Linguistics"
-Dr. Bruno Martins,"Classics"
-Prof. Grace Mitchell,"English Language and Literature; History"
-Dr. Paolo Ricci,"Theology and Religious Studies"
-Prof. Zoe Marshall,"Art and Design: History, Practice and Theory; Communication, Cultural and Media Studies, Library and Information Management"
-Dr. Kenji Yamamoto,"Music, Drama, Dance, Performing Arts, Film and Screen Studies"
-Prof. Amber Hughes,"Area Studies"
-Dr. Felix Schneider,"Clinical Medicine; Psychology, Psychiatry and Neuroscience"
-Prof. Rita Fernandes,"Public Health, Health Services and Primary Care; Biological Sciences"
-Dr. Leon Bauer,"Agriculture, Food and Veterinary Sciences"
-Prof. Miriam Cohen,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Clinical Medicine"
-Dr. Stefan Nilsson,"Physics; Engineering"
-Prof. Diana Petrova,"Chemistry"
-Dr. Harold Bennett,"Computer Science and Informatics"
-Prof. Yasmin Rahman,"Mathematical Sciences; Physics; Engineering"
-Dr. Connor Walsh,"Business and Management Studies"
-Prof. Elise Tremblay,"Economics and Econometrics; Politics and International Studies"
-Dr. Mateo Vargas,"Law; Business and Management Studies"
-Prof. Simone Greco,"Sociology"
-Dr. Amina Yusuf,"Anthropology and Development Studies; Sociology"
-Prof. Lucas Brandt,"Education; Social Work and Social Policy"
-Dr. Helena Costa,"Geography and Environmental Studies"
-Prof. Marcus Lindberg,"Architecture, Built Environment and Planning"
-Dr. Natalie Cooper,"History; Classics; Philosophy"
-Prof. Omar Farouk,"Modern Languages and Linguistics; English Language and Literature"
-Dr. Isabelle Fournier,"Philosophy"
-Prof. Viktor Orlov,"Theology and Religious Studies; Classics"
-Dr. Rachel Adams,"Art and Design: History, Practice and Theory"
-Prof. Tomoko Hayashi,"Communication, Cultural and Media Studies, Library and Information Management"
-Dr. Julian Morris,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Art and Design: History, Practice and Theory"
-Prof. Beatriz Navarro,"Area Studies; History"
-Dr. Simon Clarke,"English Language and Literature"
+Academic 1,"Agriculture, Food and Veterinary Sciences; Psychology, Psychiatry and Neuroscience"
+Academic 2,"Communication, Cultural and Media Studies, Library and Information Management; Classics; History"
+Academic 3,Theology and Religious Studies
+Academic 4,Mathematical Sciences
+Academic 5,Politics and International Studies; Sociology; Social Work and Social Policy
+Academic 6,Physics; Engineering
+Academic 7,Computer Science and Informatics; Earth Systems and Environmental Sciences; Chemistry
+Academic 8,"Public Health, Health Services and Primary Care; Allied Health Professions, Dentistry, Nursing and Pharmacy; Biological Sciences"
+Academic 9,Earth Systems and Environmental Sciences; Mathematical Sciences; Engineering
+Academic 10,Engineering
+Academic 11,"Classics; Music, Drama, Dance, Performing Arts, Film and Screen Studies; English Language and Literature; Communication, Cultural and Media Studies, Library and Information Management"
+Academic 12,"Classics; Area Studies; Theology and Religious Studies; Art and Design: History, Practice and Theory"
+Academic 13,"Art and Design: History, Practice and Theory; Philosophy; Area Studies; Communication, Cultural and Media Studies, Library and Information Management"
+Academic 14,"Allied Health Professions, Dentistry, Nursing and Pharmacy"
+Academic 15,Clinical Medicine
+Academic 16,Chemistry; Engineering; Computer Science and Informatics; Earth Systems and Environmental Sciences
+Academic 17,"Anthropology and Development Studies; Architecture, Built Environment and Planning; Law"
+Academic 18,Classics; Area Studies
+Academic 19,"Anthropology and Development Studies; Politics and International Studies; Architecture, Built Environment and Planning; Sociology"
+Academic 20,"Biological Sciences; Allied Health Professions, Dentistry, Nursing and Pharmacy; Psychology, Psychiatry and Neuroscience"
+Academic 21,Social Work and Social Policy
+Academic 22,Mathematical Sciences
+Academic 23,Law
+Academic 24,Politics and International Studies; Education; Business and Management Studies; Sociology
+Academic 25,"Art and Design: History, Practice and Theory; Philosophy; Modern Languages and Linguistics; Communication, Cultural and Media Studies, Library and Information Management"
+Academic 26,"Art and Design: History, Practice and Theory; Philosophy; Modern Languages and Linguistics"
+Academic 27,Geography and Environmental Studies; Anthropology and Development Studies
+Academic 28,"Psychology, Psychiatry and Neuroscience; Agriculture, Food and Veterinary Sciences; Public Health, Health Services and Primary Care; Allied Health Professions, Dentistry, Nursing and Pharmacy"
+Academic 29,"Area Studies; Philosophy; History; Art and Design: History, Practice and Theory"
+Academic 30,Anthropology and Development Studies; Education; Sociology
+Academic 31,Archaeology; Anthropology and Development Studies; Economics and Econometrics; Sociology
+Academic 32,"Art and Design: History, Practice and Theory; Classics; History; Theology and Religious Studies"
+Academic 33,"Public Health, Health Services and Primary Care"
+Academic 34,"Agriculture, Food and Veterinary Sciences; Clinical Medicine; Biological Sciences; Allied Health Professions, Dentistry, Nursing and Pharmacy"
+Academic 35,"Public Health, Health Services and Primary Care; Clinical Medicine; Biological Sciences"
+Academic 36,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Communication, Cultural and Media Studies, Library and Information Management"
+Academic 37,Mathematical Sciences; Earth Systems and Environmental Sciences
+Academic 38,Biological Sciences
+Academic 39,Education; Economics and Econometrics
+Academic 40,History; Area Studies
+Academic 41,"Geography and Environmental Studies; Business and Management Studies; Sport and Exercise Sciences, Leisure and Tourism; Sociology"
+Academic 42,"Psychology, Psychiatry and Neuroscience; Agriculture, Food and Veterinary Sciences; Allied Health Professions, Dentistry, Nursing and Pharmacy; Biological Sciences"
+Academic 43,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Biological Sciences"
+Academic 44,Area Studies
+Academic 45,Computer Science and Informatics
+Academic 46,"Geography and Environmental Studies; Education; Social Work and Social Policy; Architecture, Built Environment and Planning"
+Academic 47,Philosophy; Theology and Religious Studies; Classics
+Academic 48,Theology and Religious Studies; Modern Languages and Linguistics
+Academic 49,"Modern Languages and Linguistics; Music, Drama, Dance, Performing Arts, Film and Screen Studies; Theology and Religious Studies"
+Academic 50,"Sport and Exercise Sciences, Leisure and Tourism"
+Academic 51,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Modern Languages and Linguistics; English Language and Literature; Classics"
+Academic 52,Earth Systems and Environmental Sciences
+Academic 53,Computer Science and Informatics; Physics; Earth Systems and Environmental Sciences
+Academic 54,"Art and Design: History, Practice and Theory; History; Theology and Religious Studies"
+Academic 55,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Public Health, Health Services and Primary Care"
+Academic 56,"Sport and Exercise Sciences, Leisure and Tourism; Economics and Econometrics; Social Work and Social Policy"
+Academic 57,"Area Studies; Communication, Cultural and Media Studies, Library and Information Management"
+Academic 58,Biological Sciences
+Academic 59,Business and Management Studies; Education; Geography and Environmental Studies; Economics and Econometrics
+Academic 60,Earth Systems and Environmental Sciences; Chemistry; Physics
+Academic 61,"Classics; History; Communication, Cultural and Media Studies, Library and Information Management; English Language and Literature"
+Academic 62,"Anthropology and Development Studies; Archaeology; Sport and Exercise Sciences, Leisure and Tourism"
+Academic 63,"Art and Design: History, Practice and Theory; Classics; Music, Drama, Dance, Performing Arts, Film and Screen Studies; Philosophy"
+Academic 64,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; History; Modern Languages and Linguistics; Art and Design: History, Practice and Theory"
+Academic 65,"Public Health, Health Services and Primary Care"
+Academic 66,Philosophy
+Academic 67,Physics; Computer Science and Informatics; Mathematical Sciences
+Academic 68,"Classics; Music, Drama, Dance, Performing Arts, Film and Screen Studies; Modern Languages and Linguistics; Art and Design: History, Practice and Theory"
+Academic 69,"Public Health, Health Services and Primary Care; Agriculture, Food and Veterinary Sciences; Psychology, Psychiatry and Neuroscience"
+Academic 70,Theology and Religious Studies
+Academic 71,Clinical Medicine
+Academic 72,"Public Health, Health Services and Primary Care"
+Academic 73,Philosophy; History
+Academic 74,Law; Education
+Academic 75,Earth Systems and Environmental Sciences; Computer Science and Informatics
+Academic 76,Clinical Medicine
+Academic 77,Chemistry
+Academic 78,"Area Studies; Theology and Religious Studies; Music, Drama, Dance, Performing Arts, Film and Screen Studies"
+Academic 79,Physics; Chemistry; Computer Science and Informatics
+Academic 80,Engineering
+Academic 81,Engineering
+Academic 82,"Art and Design: History, Practice and Theory; English Language and Literature"
+Academic 83,Physics; Mathematical Sciences; Computer Science and Informatics
+Academic 84,"Biological Sciences; Psychology, Psychiatry and Neuroscience"
+Academic 85,"Public Health, Health Services and Primary Care; Clinical Medicine; Allied Health Professions, Dentistry, Nursing and Pharmacy; Psychology, Psychiatry and Neuroscience"
+Academic 86,Archaeology
+Academic 87,"Theology and Religious Studies; Communication, Cultural and Media Studies, Library and Information Management"
+Academic 88,"Art and Design: History, Practice and Theory; Classics"
+Academic 89,Modern Languages and Linguistics; Area Studies; Theology and Religious Studies
+Academic 90,"Architecture, Built Environment and Planning; Sociology; Social Work and Social Policy"
+Academic 91,"Public Health, Health Services and Primary Care; Agriculture, Food and Veterinary Sciences; Biological Sciences"
+Academic 92,"Area Studies; Music, Drama, Dance, Performing Arts, Film and Screen Studies"
+Academic 93,History; Area Studies
+Academic 94,Physics
+Academic 95,Politics and International Studies
+Academic 96,Geography and Environmental Studies; Politics and International Studies; Education
+Academic 97,Mathematical Sciences
+Academic 98,"Sport and Exercise Sciences, Leisure and Tourism; Economics and Econometrics"
+Academic 99,"Biological Sciences; Psychology, Psychiatry and Neuroscience"
+Academic 100,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Clinical Medicine"

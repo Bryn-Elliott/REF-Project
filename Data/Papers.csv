@@ -1,0 +1,251 @@
+Paper Title,Subjects,Rating
+Paper 1,Physics,3
+Paper 2,"Art and Design: History, Practice and Theory; English Language and Literature",3
+Paper 3,Business and Management Studies,2
+Paper 4,Computer Science and Informatics; Physics,3
+Paper 5,Engineering,3
+Paper 6,Area Studies,3
+Paper 7,"Politics and International Studies; Architecture, Built Environment and Planning",2
+Paper 8,Law,3
+Paper 9,"Politics and International Studies; Architecture, Built Environment and Planning",2
+Paper 10,Engineering; Physics,3
+Paper 11,"Public Health, Health Services and Primary Care",4
+Paper 12,Classics,3
+Paper 13,"Economics and Econometrics; Sport and Exercise Sciences, Leisure and Tourism",3
+Paper 14,"Public Health, Health Services and Primary Care; Allied Health Professions, Dentistry, Nursing and Pharmacy",3
+Paper 15,Engineering,3
+Paper 16,"Architecture, Built Environment and Planning",3
+Paper 17,Engineering; Physics,3
+Paper 18,"Art and Design: History, Practice and Theory",3
+Paper 19,"Psychology, Psychiatry and Neuroscience; Biological Sciences",3
+Paper 20,Mathematical Sciences,3
+Paper 21,"Social Work and Social Policy; Architecture, Built Environment and Planning",4
+Paper 22,Computer Science and Informatics,3
+Paper 23,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Philosophy",4
+Paper 24,"Architecture, Built Environment and Planning",3
+Paper 25,Area Studies,3
+Paper 26,"Public Health, Health Services and Primary Care; Allied Health Professions, Dentistry, Nursing and Pharmacy",3
+Paper 27,Computer Science and Informatics,3
+Paper 28,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Communication, Cultural and Media Studies, Library and Information Management",2
+Paper 29,Theology and Religious Studies,4
+Paper 30,Economics and Econometrics; Sociology,3
+Paper 31,Classics,3
+Paper 32,"Psychology, Psychiatry and Neuroscience; Agriculture, Food and Veterinary Sciences",3
+Paper 33,Education; Sociology,3
+Paper 34,"Communication, Cultural and Media Studies, Library and Information Management; Music, Drama, Dance, Performing Arts, Film and Screen Studies",2
+Paper 35,Computer Science and Informatics,2
+Paper 36,"Public Health, Health Services and Primary Care; Biological Sciences",4
+Paper 37,Physics,3
+Paper 38,"Agriculture, Food and Veterinary Sciences",2
+Paper 39,"Art and Design: History, Practice and Theory; Modern Languages and Linguistics",3
+Paper 40,"Classics; Art and Design: History, Practice and Theory",3
+Paper 41,Physics; Chemistry,2
+Paper 42,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Agriculture, Food and Veterinary Sciences",2
+Paper 43,"Biological Sciences; Allied Health Professions, Dentistry, Nursing and Pharmacy",3
+Paper 44,Sociology,3
+Paper 45,"Psychology, Psychiatry and Neuroscience; Clinical Medicine",2
+Paper 46,"Public Health, Health Services and Primary Care; Psychology, Psychiatry and Neuroscience",4
+Paper 47,Engineering; Physics,3
+Paper 48,Geography and Environmental Studies,3
+Paper 49,"Communication, Cultural and Media Studies, Library and Information Management; Philosophy",4
+Paper 50,Physics; Computer Science and Informatics,3
+Paper 51,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",3
+Paper 52,"Communication, Cultural and Media Studies, Library and Information Management; English Language and Literature",3
+Paper 53,Biological Sciences,4
+Paper 54,Computer Science and Informatics; Engineering,3
+Paper 55,Theology and Religious Studies; Classics,1
+Paper 56,Physics; Mathematical Sciences,2
+Paper 57,"Biological Sciences; Allied Health Professions, Dentistry, Nursing and Pharmacy",3
+Paper 58,Anthropology and Development Studies,4
+Paper 59,Biological Sciences,3
+Paper 60,Area Studies,3
+Paper 61,"Public Health, Health Services and Primary Care; Clinical Medicine",4
+Paper 62,Sociology,3
+Paper 63,Computer Science and Informatics,4
+Paper 64,"Psychology, Psychiatry and Neuroscience",1
+Paper 65,English Language and Literature; Philosophy,3
+Paper 66,"Communication, Cultural and Media Studies, Library and Information Management",4
+Paper 67,History,2
+Paper 68,Theology and Religious Studies,4
+Paper 69,Area Studies,4
+Paper 70,"Art and Design: History, Practice and Theory",4
+Paper 71,"Public Health, Health Services and Primary Care; Biological Sciences",4
+Paper 72,Physics; Earth Systems and Environmental Sciences,3
+Paper 73,Engineering,4
+Paper 74,Sociology,2
+Paper 75,Computer Science and Informatics; Mathematical Sciences,3
+Paper 76,Physics; Engineering,2
+Paper 77,Economics and Econometrics,2
+Paper 78,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; English Language and Literature",2
+Paper 79,Area Studies; Classics,2
+Paper 80,"Biological Sciences; Public Health, Health Services and Primary Care",2
+Paper 81,History,4
+Paper 82,Politics and International Studies,2
+Paper 83,Classics,3
+Paper 84,Chemistry,4
+Paper 85,Philosophy,4
+Paper 86,Biological Sciences,3
+Paper 87,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Clinical Medicine",2
+Paper 88,"Public Health, Health Services and Primary Care; Psychology, Psychiatry and Neuroscience",3
+Paper 89,Anthropology and Development Studies; Sociology,3
+Paper 90,Geography and Environmental Studies; Business and Management Studies,4
+Paper 91,Area Studies; Classics,4
+Paper 92,Theology and Religious Studies; Area Studies,3
+Paper 93,Clinical Medicine; Biological Sciences,4
+Paper 94,"Agriculture, Food and Veterinary Sciences",2
+Paper 95,"Art and Design: History, Practice and Theory",3
+Paper 96,Chemistry,3
+Paper 97,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Modern Languages and Linguistics",3
+Paper 98,"Communication, Cultural and Media Studies, Library and Information Management",2
+Paper 99,"Public Health, Health Services and Primary Care",3
+Paper 100,Area Studies,3
+Paper 101,Law; Business and Management Studies,3
+Paper 102,Earth Systems and Environmental Sciences,2
+Paper 103,"Clinical Medicine; Psychology, Psychiatry and Neuroscience",3
+Paper 104,Theology and Religious Studies,3
+Paper 105,"Agriculture, Food and Veterinary Sciences",3
+Paper 106,Philosophy,3
+Paper 107,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",3
+Paper 108,Social Work and Social Policy; Geography and Environmental Studies,2
+Paper 109,Chemistry; Engineering,3
+Paper 110,Chemistry,3
+Paper 111,"Area Studies; Communication, Cultural and Media Studies, Library and Information Management",2
+Paper 112,"Psychology, Psychiatry and Neuroscience; Agriculture, Food and Veterinary Sciences",2
+Paper 113,Chemistry,3
+Paper 114,"Psychology, Psychiatry and Neuroscience",2
+Paper 115,Modern Languages and Linguistics; Theology and Religious Studies,2
+Paper 116,"Architecture, Built Environment and Planning; Sport and Exercise Sciences, Leisure and Tourism",3
+Paper 117,Philosophy; Classics,3
+Paper 118,Education; Sociology,3
+Paper 119,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",2
+Paper 120,English Language and Literature; Classics,3
+Paper 121,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Clinical Medicine",4
+Paper 122,Anthropology and Development Studies; Economics and Econometrics,3
+Paper 123,Law,3
+Paper 124,"Sport and Exercise Sciences, Leisure and Tourism",2
+Paper 125,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; English Language and Literature",4
+Paper 126,Philosophy,4
+Paper 127,Chemistry,2
+Paper 128,"Agriculture, Food and Veterinary Sciences; Clinical Medicine",3
+Paper 129,Politics and International Studies,4
+Paper 130,Sociology,3
+Paper 131,"English Language and Literature; Music, Drama, Dance, Performing Arts, Film and Screen Studies",4
+Paper 132,Physics; Earth Systems and Environmental Sciences,2
+Paper 133,"Psychology, Psychiatry and Neuroscience; Biological Sciences",3
+Paper 134,Engineering,3
+Paper 135,Philosophy,3
+Paper 136,Chemistry; Mathematical Sciences,3
+Paper 137,Anthropology and Development Studies,3
+Paper 138,Area Studies,2
+Paper 139,Philosophy,2
+Paper 140,"Agriculture, Food and Veterinary Sciences; Public Health, Health Services and Primary Care",3
+Paper 141,"Art and Design: History, Practice and Theory; Modern Languages and Linguistics",3
+Paper 142,"Law; Sport and Exercise Sciences, Leisure and Tourism",3
+Paper 143,"Agriculture, Food and Veterinary Sciences; Biological Sciences",3
+Paper 144,"Psychology, Psychiatry and Neuroscience; Allied Health Professions, Dentistry, Nursing and Pharmacy",4
+Paper 145,Classics,3
+Paper 146,Geography and Environmental Studies,3
+Paper 147,Earth Systems and Environmental Sciences,4
+Paper 148,Computer Science and Informatics; Chemistry,4
+Paper 149,Engineering; Earth Systems and Environmental Sciences,3
+Paper 150,Physics,2
+Paper 151,Education,2
+Paper 152,"English Language and Literature; Communication, Cultural and Media Studies, Library and Information Management",3
+Paper 153,Engineering,3
+Paper 154,"Psychology, Psychiatry and Neuroscience",2
+Paper 155,English Language and Literature; Modern Languages and Linguistics,3
+Paper 156,Physics,4
+Paper 157,Earth Systems and Environmental Sciences; Chemistry,3
+Paper 158,Philosophy,3
+Paper 159,Chemistry; Earth Systems and Environmental Sciences,2
+Paper 160,Politics and International Studies; Business and Management Studies,4
+Paper 161,Social Work and Social Policy; Law,4
+Paper 162,Classics,2
+Paper 163,"Art and Design: History, Practice and Theory; Theology and Religious Studies",3
+Paper 164,Geography and Environmental Studies; Education,3
+Paper 165,"History; Music, Drama, Dance, Performing Arts, Film and Screen Studies",4
+Paper 166,Earth Systems and Environmental Sciences; Computer Science and Informatics,3
+Paper 167,"Agriculture, Food and Veterinary Sciences",2
+Paper 168,Area Studies; Theology and Religious Studies,3
+Paper 169,Sociology,3
+Paper 170,Earth Systems and Environmental Sciences; Chemistry,3
+Paper 171,Chemistry,2
+Paper 172,Sociology; Economics and Econometrics,2
+Paper 173,"Communication, Cultural and Media Studies, Library and Information Management; Modern Languages and Linguistics",2
+Paper 174,"Anthropology and Development Studies; Sport and Exercise Sciences, Leisure and Tourism",4
+Paper 175,Politics and International Studies; Social Work and Social Policy,3
+Paper 176,Philosophy,4
+Paper 177,Clinical Medicine; Biological Sciences,2
+Paper 178,Politics and International Studies,3
+Paper 179,"Clinical Medicine; Agriculture, Food and Veterinary Sciences",2
+Paper 180,Earth Systems and Environmental Sciences,2
+Paper 181,"Theology and Religious Studies; Communication, Cultural and Media Studies, Library and Information Management",3
+Paper 182,Biological Sciences; Clinical Medicine,2
+Paper 183,Mathematical Sciences; Physics,2
+Paper 184,"Music, Drama, Dance, Performing Arts, Film and Screen Studies; Area Studies",3
+Paper 185,Social Work and Social Policy; Economics and Econometrics,4
+Paper 186,Mathematical Sciences; Computer Science and Informatics,4
+Paper 187,Engineering,4
+Paper 188,"Agriculture, Food and Veterinary Sciences; Psychology, Psychiatry and Neuroscience",2
+Paper 189,Biological Sciences,3
+Paper 190,Mathematical Sciences; Earth Systems and Environmental Sciences,2
+Paper 191,"Classics; Music, Drama, Dance, Performing Arts, Film and Screen Studies",4
+Paper 192,Economics and Econometrics,3
+Paper 193,"Agriculture, Food and Veterinary Sciences; Allied Health Professions, Dentistry, Nursing and Pharmacy",3
+Paper 194,Archaeology; Economics and Econometrics,4
+Paper 195,Anthropology and Development Studies; Archaeology,4
+Paper 196,"Allied Health Professions, Dentistry, Nursing and Pharmacy; Agriculture, Food and Veterinary Sciences",2
+Paper 197,"Clinical Medicine; Public Health, Health Services and Primary Care",2
+Paper 198,Law,2
+Paper 199,"Biological Sciences; Public Health, Health Services and Primary Care",3
+Paper 200,Modern Languages and Linguistics,3
+Paper 201,"Allied Health Professions, Dentistry, Nursing and Pharmacy",4
+Paper 202,"Agriculture, Food and Veterinary Sciences",3
+Paper 203,Sociology,4
+Paper 204,Chemistry,4
+Paper 205,"Architecture, Built Environment and Planning",3
+Paper 206,Philosophy,4
+Paper 207,Computer Science and Informatics; Engineering,1
+Paper 208,"Music, Drama, Dance, Performing Arts, Film and Screen Studies",3
+Paper 209,Archaeology; Economics and Econometrics,3
+Paper 210,Physics,4
+Paper 211,Anthropology and Development Studies,3
+Paper 212,Biological Sciences,3
+Paper 213,"Agriculture, Food and Veterinary Sciences",4
+Paper 214,Anthropology and Development Studies; Geography and Environmental Studies,4
+Paper 215,"Biological Sciences; Public Health, Health Services and Primary Care",4
+Paper 216,"Allied Health Professions, Dentistry, Nursing and Pharmacy",4
+Paper 217,Computer Science and Informatics,4
+Paper 218,"Theology and Religious Studies; Music, Drama, Dance, Performing Arts, Film and Screen Studies",4
+Paper 219,Clinical Medicine,3
+Paper 220,Physics,4
+Paper 221,"Psychology, Psychiatry and Neuroscience; Clinical Medicine",3
+Paper 222,"Agriculture, Food and Veterinary Sciences",2
+Paper 223,Theology and Religious Studies,3
+Paper 224,"Biological Sciences; Public Health, Health Services and Primary Care",3
+Paper 225,Engineering,3
+Paper 226,Computer Science and Informatics,4
+Paper 227,Clinical Medicine,3
+Paper 228,Geography and Environmental Studies,4
+Paper 229,Law; Geography and Environmental Studies,3
+Paper 230,Sociology; Law,4
+Paper 231,Chemistry,4
+Paper 232,Engineering; Earth Systems and Environmental Sciences,3
+Paper 233,"Psychology, Psychiatry and Neuroscience",3
+Paper 234,Geography and Environmental Studies,3
+Paper 235,Engineering; Computer Science and Informatics,3
+Paper 236,"Public Health, Health Services and Primary Care; Agriculture, Food and Veterinary Sciences",2
+Paper 237,Philosophy,2
+Paper 238,Biological Sciences,3
+Paper 239,Mathematical Sciences; Computer Science and Informatics,3
+Paper 240,Social Work and Social Policy,4
+Paper 241,Physics; Earth Systems and Environmental Sciences,2
+Paper 242,Mathematical Sciences,4
+Paper 243,Biological Sciences,3
+Paper 244,Earth Systems and Environmental Sciences,3
+Paper 245,Computer Science and Informatics,4
+Paper 246,Business and Management Studies; Education,3
+Paper 247,"Sport and Exercise Sciences, Leisure and Tourism; Anthropology and Development Studies",2
+Paper 248,Social Work and Social Policy,3
+Paper 249,Engineering; Chemistry,2
+Paper 250,Clinical Medicine,3
