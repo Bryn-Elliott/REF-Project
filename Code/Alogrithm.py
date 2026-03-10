@@ -1,20 +1,17 @@
 import random
 import pandas as pd
-import numpy as np
+import os
 from collections import defaultdict
 
-minPapers = 1
 maxPapers = 5
 popSize = 1000
-numGen = 200
-mutRate = 0.01
+numGen = 2500
+mutRate = 0.2
 
-# Subject weight mapping
 highWeight = 1.6
 midWeight = 1.2
 lowWeight = 1.0
 
-# Define which subjects get which weights
 highWeightSubjects = [
     "Clinical Medicine",
     "Public Health, Health Services and Primary Care"
@@ -40,7 +37,7 @@ midWeightSubjects = [
     "Computer Science and Informatics",
 ]
 
-def loadData(data):
+def LoadData(data):
     academicsPath = data[2]
     papersPath = data[3]
     academics = {}
@@ -70,69 +67,64 @@ def SubjectWeight(subject):
         return lowWeight
 
 def Fitness(solution, academics, papers):
-    total_weighted_score = 0
-    total_papers = 0
+    totalWeightedScore = 0
+    totalPapers = 0
 
-    for academic, assigned_papers in solution.items():
-        if not (minPapers <= len(assigned_papers) <= maxPapers):
-            print('too many or too few papers per aca')
-            return -1  # Invalid solution
+    for academic, assignedPapers in solution.items():
+        if not (len(assignedPapers) <= maxPapers):
+            return -1  
 
 
-        for paper in assigned_papers:
-            paper_data = papers[paper]
-            paper_score = paper_data["score"]
+        for paper in assignedPapers:
+            paperData = papers[paper]
+            paperScore = paperData["score"]
 
-            # Get best matching subject weight
             weights = [
                 SubjectWeight(sub)
-                for sub in paper_data["subjects"]
+                for sub in paperData["subjects"]
                 if sub in academics[academic]
             ]
 
             if not weights:
-                print('paper assigned to incomp aca')
-                return -1  # Paper assigned to incompatible academic)
+                return -1 
+            
 
             weight = max(weights)
-            total_weighted_score += paper_score * weight
-            total_papers += 1
+            totalWeightedScore += paperScore * weight
+            totalPapers += 1
 
-    if total_papers == 0:
-        print('total papers = 0')
+    if totalPapers == 0:
         return -1
 
+    counter = {p: [0] for p in papers}
 
-    return total_weighted_score / total_papers
+    for academic in solution:
+        for paper in solution[academic]:
+            counter[paper][0] = counter[paper][0] + 1
+    
+    for paper in counter:
+        x = counter[paper][0]
+        if x > 1:
+            return -1
+
+    return totalWeightedScore / totalPapers
 
 def CreateIndividual(academics, papers):
-    
-    # Start empty
     solution = {a: [] for a in academics}
 
-    paper_list = list(papers.keys())
-    random.shuffle(paper_list)
-
-    for paper in paper_list:
-
+    for paper in papers:
         compatible = []
 
         for academic in academics:
-            if any(sub in academics[academic]
-                   for sub in papers[paper]["subjects"]):
-                compatible.append(academic)
+            for subject in papers[paper]['subjects']:
+                if subject in academics[academic]:
+                    if len(solution[academic]) < 5:
+                        compatible.append(academic)
+                        break
 
         if compatible:
-            x = False
-            while x == False:
-                chosen = random.choice(compatible)
-                x = True
-                if chosen in solution:
-                    if len(solution) < len(academics):
-                        x = False
-            
+            chosen = random.choice(compatible)
             solution[chosen].append(paper)
-
     return solution
 
 def Mutate(solution, academics, papers):
@@ -158,7 +150,7 @@ def Crossover(parent1, parent2):
     return child
 
 def GeneticAlgorithm(data):
-    academics, papers = loadData(data)
+    academics, papers = LoadData(data)
 
     population = [
         CreateIndividual(academics, papers)
@@ -172,7 +164,7 @@ def GeneticAlgorithm(data):
             reverse=True
         )
 
-        nextGeneration = population[:10]  # Elitism
+        nextGeneration = population[:10]  
 
         while len(nextGeneration) < popSize:
             parent1, parent2 = random.sample(population[:50], 2)
@@ -182,7 +174,11 @@ def GeneticAlgorithm(data):
 
         population = nextGeneration
 
-        best_fit = Fitness(population[0], academics, papers)
-        print(f"Generation {generation}: Best Fitness = {best_fit}")
+        bestFit = Fitness(population[0], academics, papers)
+
+        os.system('cls')
+        print(nextGeneration[-1])
+
+        print(f"Generation {generation}: Best Fitness = {bestFit}")
 
     return population[0]
