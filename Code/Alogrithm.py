@@ -4,9 +4,9 @@ import os
 from collections import defaultdict
 
 maxPapers = 5
-popSize = 1000
-numGen = 2500
-mutRate = 0.2
+popSize = 100
+numGen = 500
+mutRate = 0.5
 
 highWeight = 1.6
 midWeight = 1.2
@@ -106,7 +106,12 @@ def Fitness(solution, academics, papers):
         x = counter[paper][0]
         if x > 1:
             return -1
-
+    
+    totalAssignedPapers = sum(len(x) for x in solution.values())
+    totalAcademics = sum(1 for v in solution.values())
+    if totalAssignedPapers / totalAcademics != 2.5:
+        return abs(2.5 - (totalAssignedPapers / totalAcademics)) * -1
+    
     return totalWeightedScore / totalPapers
 
 def CreateIndividual(academics, papers):
@@ -125,6 +130,11 @@ def CreateIndividual(academics, papers):
         if compatible:
             chosen = random.choice(compatible)
             solution[chosen].append(paper)
+
+        totalAssignedPapers = sum(len(x) for x in solution.values())
+        totalAcademics = sum(1 for v in solution.values())
+        if totalAssignedPapers / totalAcademics == 2.5:
+            return solution
     return solution
 
 def Mutate(solution, academics, papers):
@@ -152,11 +162,16 @@ def Crossover(parent1, parent2):
 def GeneticAlgorithm(data):
     academics, papers = LoadData(data)
 
-    population = [
-        CreateIndividual(academics, papers)
-        for _ in range(popSize)
-    ]
-
+    print("Generating Pop...")
+    population = []
+    counter = 0
+    for _ in range(popSize):
+        population.append(CreateIndividual(academics, papers))
+        totalAssignedPapers = sum(len(x) for x in population[-1].values())
+        totalAcademics = sum(1 for v in population[-1].values())
+        print("Generating Ind " + str(counter) + ": " + str(totalAssignedPapers) + ", " + str(totalAcademics))
+        counter += 1
+    print("Pop Generated")
     for generation in range(numGen):
         population = sorted(
             population,
@@ -177,8 +192,10 @@ def GeneticAlgorithm(data):
         bestFit = Fitness(population[0], academics, papers)
 
         os.system('cls')
-        print(nextGeneration[-1])
 
         print(f"Generation {generation}: Best Fitness = {bestFit}")
+        totalAssignedPapers = sum(len(x) for x in population[0].values())
+        totalAcademics = sum(1 for v in population[0].values())
+        print(str(totalAssignedPapers) + ", " + str(totalAcademics))
 
     return population[0]
