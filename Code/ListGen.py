@@ -5,7 +5,7 @@ import sys
 academicsColumns = []
 papersColumns = []
 
-academicsLen = 5000
+academicsLen = 1000
 papersLen = int(3.5 * academicsLen)
 
 subjects = [

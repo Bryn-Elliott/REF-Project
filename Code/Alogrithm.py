@@ -114,9 +114,8 @@ def Fitness(solution, academics, papers):
     
     return totalWeightedScore / totalPapers
 
-def CreateIndividual(academics, papers):
+def CreateIndividual(academics, papers, unassignedPapers):
     solution = {a: [] for a in academics}
-
     for paper in papers:
         compatible = []
 
@@ -129,34 +128,47 @@ def CreateIndividual(academics, papers):
 
         if compatible:
             chosen = random.choice(compatible)
-            solution[chosen].append(paper)
+            assigned = False
+            while assigned == False:
+                if paper in unassignedPapers:
+                    solution[chosen].append(paper)
+                    unassignedPapers.remove(paper)
+                    assigned = True
 
         totalAssignedPapers = sum(len(x) for x in solution.values())
         totalAcademics = sum(1 for v in solution.values())
         if totalAssignedPapers / totalAcademics == 2.5:
-            return solution
-    return solution
+            return solution, unassignedPapers
+    return solution, unassignedPapers
 
-def Mutate(solution, academics, papers):
+def Mutate(solution, academics, papers, unassignedPapers):
+
     if random.random() < mutRate:
-        academic1, academic2 = random.sample(list(academics.keys()), 2)
+        if random.random() < 0.5:
 
-        if solution[academic1]:
-            paper = random.choice(solution[academic1])
-            solution[academic1].remove(paper)
-            solution[academic2].append(paper)
+            academic = random.choice(list(academics.keys()))
+
+            if solution[academic]:
+                paper = random.choice(solution[academic])
+                solution[academic].remove(paper)
+                solution[academic].append(random.choice(unassignedPapers))
 
     return solution
 
-def Crossover(parent1, parent2):
+def Crossover(parent1, parent2, unassignedPapers):
     child = defaultdict(list)
 
     for academic in parent1:
         if random.random() < 0.5:
             child[academic] = parent1[academic][:]
+            for paper in parent2[academic][:]:
+                if paper not in unassignedPapers:
+                    unassignedPapers.append(paper)
         else:
             child[academic] = parent2[academic][:]
-
+            for paper in parent1[academic][:]:
+                if paper not in unassignedPapers:
+                    unassignedPapers.append(paper)
     return child
 
 def GeneticAlgorithm(data):
@@ -164,14 +176,17 @@ def GeneticAlgorithm(data):
 
     print("Generating Pop...")
     population = []
-    counter = 0
-    for _ in range(popSize):
-        population.append(CreateIndividual(academics, papers))
+    unassignedPapers = []
+    for x in range(popSize):
+        unassignedPapers.append(list(papers))
+        temp = CreateIndividual(academics, papers, unassignedPapers[x])
+        population.append(temp[0])
+        unassignedPapers[x] = (temp[1])
         totalAssignedPapers = sum(len(x) for x in population[-1].values())
         totalAcademics = sum(1 for v in population[-1].values())
-        print("Generating Ind " + str(counter) + ": " + str(totalAssignedPapers) + ", " + str(totalAcademics))
-        counter += 1
+        print("Generating Ind " + str(x) + ": " + str(totalAssignedPapers) + ", " + str(totalAcademics))
     print("Pop Generated")
+
     for generation in range(numGen):
         population = sorted(
             population,
@@ -179,21 +194,27 @@ def GeneticAlgorithm(data):
             reverse=True
         )
 
-        nextGeneration = population[:10]  
+        nextGeneration = population[:10] 
 
         while len(nextGeneration) < popSize:
             parent1, parent2 = random.sample(population[:50], 2)
-            child = Crossover(parent1, parent2)
-            child = Mutate(child, academics, papers)
+            child = Crossover(parent1, parent2, unassignedPapers)
+            child = Mutate(child, academics, papers, unassignedPapers)
             nextGeneration.append(child)
 
         population = nextGeneration
 
+        unassignedPapers = list(papers)
+        for induvidual in population:
+            for academic in induvidual:
+                for paper in induvidual[academic]:
+                    unassignedPapers.remove(paper)
+
         bestFit = Fitness(population[0], academics, papers)
 
-        os.system('cls')
+        worstFit = Fitness(population[-1], academics, papers)
 
-        print(f"Generation {generation}: Best Fitness = {bestFit}")
+        print(f"Generation {generation}: Best Fitness = {bestFit}, Worst Fitness = {worstFit}")
         totalAssignedPapers = sum(len(x) for x in population[0].values())
         totalAcademics = sum(1 for v in population[0].values())
         print(str(totalAssignedPapers) + ", " + str(totalAcademics))
