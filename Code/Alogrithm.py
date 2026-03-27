@@ -1,12 +1,10 @@
-import random
-import pandas as pd
-import os
+import random, pandas as pd, os, subprocess, GreedyAlgo, Tools
 from collections import defaultdict
 
 maxPapers = 5
 popSize = 100
-numGen = 500
-mutRate = 0.5
+numGen = 100
+mutRate = 0.05
 
 highWeight = 1.6
 midWeight = 1.2
@@ -37,151 +35,126 @@ midWeightSubjects = [
     "Computer Science and Informatics",
 ]
 
-def LoadData(data):
-    academicsPath = data[2]
-    papersPath = data[3]
-    academics = {}
-    papers = {}
-
-    acad_df = pd.read_csv(academicsPath)
-    for _, row in acad_df.iterrows():
-        name = row.iloc[0]
-        subjects = [s.strip() for s in row.iloc[1].split(";")]
-        academics[name] = subjects
-
-    paper_df = pd.read_csv(papersPath)
-    for _, row in paper_df.iterrows():
-        name = row.iloc[0]
-        subjects = [s.strip() for s in row.iloc[1].split(";")]
-        score = int(row.iloc[2])
-        papers[name] = {"subjects": subjects, "score": score}
-
-    return academics, papers
-
-def SubjectWeight(subject):
+def SortSubjects(subject):
     if subject in highWeightSubjects:
         return highWeight
-    elif subject in midWeightSubjects:
+    if subject in midWeightSubjects:
         return midWeight
     else:
         return lowWeight
 
-def Fitness(solution, academics, papers):
-    totalWeightedScore = 0
-    totalPapers = 0
+def Mutate(solution, academics, papers):
+    mutateCount = random.randrange(1, int((len(academics.keys()) * mutRate * 2) - 1))
 
-    for academic, assignedPapers in solution.items():
-        if not (len(assignedPapers) <= maxPapers):
-            return -1  
+    for _ in range(1, mutateCount):
+        unassignedPapers = CalculateUnassigned(solution, papers)
+        a1 = random.choice(list(solution.keys()))
+        compatPap = []
+        if solution[a1]:
+            for paper in unassignedPapers:
+                for subject in papers[paper]['subjects']:
+                    if subject in academics[a1]:
+                        compatPap.append(paper)
 
+            if len(compatPap) > 0:
+                acaBestPap = []
+                for paper in compatPap:
+                    paperBestSub = []
 
-        for paper in assignedPapers:
-            paperData = papers[paper]
-            paperScore = paperData["score"]
+                    for subject in papers[paper]['subjects']:
+                        if subject in academics[a1]:
+                            paperBestSub.append(subject)
 
-            weights = [
-                SubjectWeight(sub)
-                for sub in paperData["subjects"]
-                if sub in academics[academic]
-            ]
+                    if len(paperBestSub) > 0:
+                        paperBestSub = sorted(
+                            paperBestSub,
+                            key=lambda ind: SortSubjects(ind),
+                            reverse=True
+                        )
+                        acaBestPap.append(paper)
 
-            if not weights:
-                return -1 
-            
+                if len(acaBestPap) > 0:
+                    acaBestPap = sorted(
+                        acaBestPap,
+                        key=lambda ind: papers[ind]["score"],
+                        reverse=True
+                    )
+                    for x in range(len(acaBestPap)):
+                        acaBestPap[x] = [acaBestPap[x], papers[acaBestPap[x]]["score"]]
+                    acaWorstPap = sorted(
+                        solution[a1],
+                        key=lambda ind: papers[ind]["score"],
+                        reverse=False
+                    )
+                    for x in range(len(acaWorstPap)):
+                        acaWorstPap[x] = [acaWorstPap[x], papers[acaWorstPap[x]]["score"]]
+                    solution[a1].remove(acaWorstPap[0][0])
+                    solution[a1].append(acaBestPap[0][0])
+    return solution
 
-            weight = max(weights)
-            totalWeightedScore += paperScore * weight
-            totalPapers += 1
+def Crossover(parent1, parent2, academics, papers):
+    child = {a: [] for a in academics}
+    used = set()
 
-    if totalPapers == 0:
-        return -1
+    target_total = int(2.5 * len(academics))
 
-    counter = {p: [0] for p in papers}
+    # Combine both parents' assignments
+    combined = []
+
+    for academic in academics:
+        for paper in parent1[academic]:
+            combined.append((academic, paper))
+        for paper in parent2[academic]:
+            combined.append((academic, paper))
+
+    random.shuffle(combined)
+
+    for academic, paper in combined:
+        if len(used) >= target_total:
+            break
+
+        if paper in used:
+            continue
+
+        if len(child[academic]) >= 5:
+            continue
+
+        # Check compatibility
+        if any(sub in academics[academic] for sub in papers[paper]["subjects"]):
+            child[academic].append(paper)
+            used.add(paper)
+
+    return child
+
+def CalculateUnassigned(solution, papers):
+    unassignedPapers = []
+
+    for paper in papers:
+        unassignedPapers.append(paper)
 
     for academic in solution:
         for paper in solution[academic]:
-            counter[paper][0] = counter[paper][0] + 1
+            if paper in unassignedPapers:
+                unassignedPapers.remove(paper)
     
-    for paper in counter:
-        x = counter[paper][0]
-        if x > 1:
-            return -1
-    
-    totalAssignedPapers = sum(len(x) for x in solution.values())
-    totalAcademics = sum(1 for v in solution.values())
-    if totalAssignedPapers / totalAcademics != 2.5:
-        return abs(2.5 - (totalAssignedPapers / totalAcademics)) * -1
-    
-    return totalWeightedScore / totalPapers
-
-def CreateIndividual(academics, papers, unassignedPapers):
-    solution = {a: [] for a in academics}
-    for paper in papers:
-        compatible = []
-
-        for academic in academics:
-            for subject in papers[paper]['subjects']:
-                if subject in academics[academic]:
-                    if len(solution[academic]) < 5:
-                        compatible.append(academic)
-                        break
-
-        if compatible:
-            chosen = random.choice(compatible)
-            assigned = False
-            while assigned == False:
-                if paper in unassignedPapers:
-                    solution[chosen].append(paper)
-                    unassignedPapers.remove(paper)
-                    assigned = True
-
-        totalAssignedPapers = sum(len(x) for x in solution.values())
-        totalAcademics = sum(1 for v in solution.values())
-        if totalAssignedPapers / totalAcademics == 2.5:
-            return solution, unassignedPapers
-    return solution, unassignedPapers
-
-def Mutate(solution, academics, papers, unassignedPapers):
-
-    if random.random() < mutRate:
-        if random.random() < 0.5:
-
-            academic = random.choice(list(academics.keys()))
-
-            if solution[academic]:
-                paper = random.choice(solution[academic])
-                solution[academic].remove(paper)
-                solution[academic].append(random.choice(unassignedPapers))
-
-    return solution
-
-def Crossover(parent1, parent2, unassignedPapers):
-    child = defaultdict(list)
-
-    for academic in parent1:
-        if random.random() < 0.5:
-            child[academic] = parent1[academic][:]
-            for paper in parent2[academic][:]:
-                if paper not in unassignedPapers:
-                    unassignedPapers.append(paper)
-        else:
-            child[academic] = parent2[academic][:]
-            for paper in parent1[academic][:]:
-                if paper not in unassignedPapers:
-                    unassignedPapers.append(paper)
-    return child
+    return unassignedPapers
 
 def GeneticAlgorithm(data):
-    academics, papers = LoadData(data)
+
+    academics, papers = Tools.LoadData(data)
+
+    greedySolution = GreedyAlgo.CreateInd(academics, papers)
+
+    greedyFit = Tools.Fitness(greedySolution, academics, papers)
 
     print("Generating Pop...")
     population = []
-    unassignedPapers = []
     for x in range(popSize):
-        unassignedPapers.append(list(papers))
-        temp = CreateIndividual(academics, papers, unassignedPapers[x])
-        population.append(temp[0])
-        unassignedPapers[x] = (temp[1])
+        Induvidual = GreedyAlgo.CreateInd(academics, papers)
+        if x > 0:
+            population.append(Mutate(Induvidual, academics, papers))
+        else:
+            population.append(Induvidual)
         totalAssignedPapers = sum(len(x) for x in population[-1].values())
         totalAcademics = sum(1 for v in population[-1].values())
         print("Generating Ind " + str(x) + ": " + str(totalAssignedPapers) + ", " + str(totalAcademics))
@@ -190,31 +163,28 @@ def GeneticAlgorithm(data):
     for generation in range(numGen):
         population = sorted(
             population,
-            key=lambda ind: Fitness(ind, academics, papers),
+            key=lambda ind: Tools.Fitness(ind, academics, papers),
             reverse=True
         )
 
         nextGeneration = population[:10] 
 
         while len(nextGeneration) < popSize:
-            parent1, parent2 = random.sample(population[:50], 2)
-            child = Crossover(parent1, parent2, unassignedPapers)
-            child = Mutate(child, academics, papers, unassignedPapers)
+            contenders = random.sample(population, int(len(population)/10))
+            parent1 = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
+            contenders.remove(parent1)
+            parent2 = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
+            child = Crossover(parent1, parent2, academics, papers)
+            child = Mutate(child, academics, papers)
             nextGeneration.append(child)
 
-        population = nextGeneration
+        population = sorted(population, key=lambda ind: Tools.Fitness(ind, academics, papers), reverse=True)
+        currentBest = population[0]
+        currentFit = Tools.Fitness(currentBest, academics, papers)
 
-        unassignedPapers = list(papers)
-        for induvidual in population:
-            for academic in induvidual:
-                for paper in induvidual[academic]:
-                    unassignedPapers.remove(paper)
+        bestGenFit = Tools.Fitness(population[0], academics, papers)
 
-        bestFit = Fitness(population[0], academics, papers)
-
-        worstFit = Fitness(population[-1], academics, papers)
-
-        print(f"Generation {generation}: Best Fitness = {bestFit}, Worst Fitness = {worstFit}")
+        print(f"Generation {generation}: Best Fitness of this Generation = {bestGenFit}, Greedy Fitness = {greedyFit}")
         totalAssignedPapers = sum(len(x) for x in population[0].values())
         totalAcademics = sum(1 for v in population[0].values())
         print(str(totalAssignedPapers) + ", " + str(totalAcademics))

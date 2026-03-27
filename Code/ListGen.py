@@ -1,12 +1,12 @@
-import random as rnd
-import pandas as pd
-import sys
+import random as rnd, pandas as pd, random
 
-academicsColumns = []
-papersColumns = []
+
+academics = []
+papers = []
 
 academicsLen = 1000
-papersLen = int(3.5 * academicsLen)
+AcaPapRatio = 6
+papersLen = int(AcaPapRatio * academicsLen)
 
 subjects = [
 "Clinical Medicine",
@@ -48,39 +48,46 @@ subjects = [
 numSubjects = [1, 2, 3, 4]
 numSubWeight = [90, 5, 3, 2]
 
-y = 0
+n = 0
 
 for x in range(0, academicsLen):
-    academic = []
-    academic.append('Academic ' + str(x))
-    numSub = rnd.choices(numSubjects, weights=numSubWeight, k=1)
-    academic.append(rnd.choices(subjects, weights=None, k=numSub[0]))
-    academicsColumns.append(academic)
-    y += 1
-
-df = pd.DataFrame(academicsColumns, columns=['Name','Subjects'])
-csvFilePath = 'Data/Academics.csv'
-df.to_csv(csvFilePath, index=False, header=True)
-print(y)
-print('Academics.csv file has been created successfully.')
+    academicName = ('Academic ' + str(x))
+    numSub = rnd.choices(numSubjects, weights=numSubWeight, k=1)[0]
+    acaSubjects = rnd.choices(subjects, weights=None, k=numSub)
+    academics.append([academicName, acaSubjects])
+    n += 1
 
 numSubjects = [1, 2]
 numSubWeight = [90, 10]
 scores = [1, 2, 3, 4]
-scoreWeight = [1, 1, 2, 2]
+scoreWeight = [1, 2, 3, 2]
 
 y = 0
 
+academicCount = 0
+
 for x in range(0, papersLen):
     paper = []
-    paper.append('Paper ' + str(x))
-    numSub = rnd.choices(numSubjects, weights=numSubWeight, k=1)
-    paper.append(rnd.choices(subjects, weights=None, k=numSub[0]))
+    subjects = []
+    paperName = 'Paper ' + str(x)
+    numSub = rnd.choices(numSubjects, weights=numSubWeight, k=1)[0]
+    for z in range(0, numSub):
+        academic = rnd.randint(0, int(academicsLen - 1))
+        subject = rnd.choice(academics[academic][1])
+        subjects.append(subject)
+    paper.append(paperName)
+    paper.append(subjects)
     paper.append(rnd.choices(scores, weights=scoreWeight, k=1)[0])
-    papersColumns.append(paper)
+    papers.append(paper)
     y += 1
 
-df = pd.DataFrame(papersColumns, columns=['Paper Title','Subjects','Rating'])
+df = pd.DataFrame(academics, columns=['Name','Subjects'])
+csvFilePath = 'Data/Academics.csv'
+df.to_csv(csvFilePath, index=False, header=True)
+print(n)
+print('Academics.csv file has been created successfully.')
+
+df = pd.DataFrame(papers, columns=['Paper Title','Subjects','Score'])
 csvFilePath = 'Data/Papers.csv'
 df.to_csv(csvFilePath, index=False, header=True)
 print(y)

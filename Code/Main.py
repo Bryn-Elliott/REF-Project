@@ -1,4 +1,4 @@
-import Readers, PanelFitness, SubmissionFitness, Alogrithm as GA
+import Readers, PanelFitness, Tools, Alogrithm as GA
 def Main():
     data = ['Data/REF 2021 Results - Avg by Panel & Institution.csv', 'Data/REF 2021 Results - All.xlsx', 'Data/Academics.csv', 'Data/Papers.csv'] # Input data paths
 
@@ -8,8 +8,8 @@ def Main():
     # paperTable = SubmissionFitness.Fitness(paperTable, panelFitnessTable) # Calculate paper fitness scores
     solution = GA.GeneticAlgorithm(data)
 
-    academics, papers = GA.LoadData(data)
-    fitness = GA.Fitness(solution, academics, papers)
+    academics, papers = Tools.LoadData(data)
+    fitness = Tools.Fitness(solution, academics, papers)
     print("Final Fitness: " + str(fitness))
 
     counter = {p: [0] for p in papers}
