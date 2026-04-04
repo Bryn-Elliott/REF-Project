@@ -1,83 +1,61 @@
-import random as rnd, pandas as pd, random
+import random as rnd, pandas as pd, numpy as np, PanelFitness, Readers, Tools
 
+data = Tools.data[0]
 
 academics = []
 papers = []
 
-academicsLen = 1000
-AcaPapRatio = 6
+academicsLen = Tools.academicsLen
+AcaPapRatio = Tools.AcaPapRatio
 papersLen = int(AcaPapRatio * academicsLen)
 
-subjects = [
-"Clinical Medicine",
-"Public Health, Health Services and Primary Care",
-"Business and Management Studies",
-"Psychology, Psychiatry and Neuroscience",
-"Allied Health Professions, Dentistry, Nursing and Pharmacy",
-"Law",
-"Biological Sciences",
-"Architecture, Built Environment and Planning",
-"Politics and International Studies",
-"Agriculture, Food and Veterinary Sciences",
-"Geography and Environmental Studies",
-"Economics and Econometrics",
-"Social Work and Social Policy",
-"Sociology",
-"Earth Systems and Environmental Sciences",
-"Sport and Exercise Sciences, Leisure and Tourism",
-"Anthropology and Development Studies",
-"Education",
-"Chemistry",
-"Art and Design: History, Practice and Theory",
-"Area Studies",
-"Physics",
-"Music, Drama, Dance, Performing Arts, Film and Screen Studies",
-"Modern Languages and Linguistics",
-"Mathematical Sciences",
-"English Language and Literature",
-"Computer Science and Informatics",
-"History",
-"Engineering",
-"Classics",
-"Archaeology",
-"Philosophy",
-"Theology and Religious Studies",
-"Communication, Cultural and Media Studies, Library and Information Management"
-]
+subjects = Tools.subjects
+numAcaSubjects = Tools.numAcaSubjects
+numAcaSubWeight = Tools.numAcaSubWeight
 
-numSubjects = [1, 2, 3, 4]
-numSubWeight = [90, 5, 3, 2]
+numPapSubjects = Tools.numPapSubjects
+numPapSubWeight = Tools.numPapSubWeight
+
 
 n = 0
 
 for x in range(0, academicsLen):
     academicName = ('Academic ' + str(x))
-    numSub = rnd.choices(numSubjects, weights=numSubWeight, k=1)[0]
+    numSub = rnd.choices(numAcaSubjects, weights=numAcaSubWeight, k=1)[0]
     acaSubjects = rnd.choices(subjects, weights=None, k=numSub)
     academics.append([academicName, acaSubjects])
     n += 1
-
-numSubjects = [1, 2]
-numSubWeight = [90, 10]
-scores = [1, 2, 3, 4]
-scoreWeight = [1, 2, 3, 2]
 
 y = 0
 
 academicCount = 0
 
+avgTable = Readers.CSV(data) # Read and format average data
+subjectAvgs = PanelFitness.Fitness(avgTable)
+
 for x in range(0, papersLen):
     paper = []
     subjects = []
     paperName = 'Paper ' + str(x)
-    numSub = rnd.choices(numSubjects, weights=numSubWeight, k=1)[0]
+    numSub = rnd.choices(numPapSubjects, weights=numPapSubWeight, k=1)[0]
     for z in range(0, numSub):
         academic = rnd.randint(0, int(academicsLen - 1))
         subject = rnd.choice(academics[academic][1])
         subjects.append(subject)
     paper.append(paperName)
     paper.append(subjects)
-    paper.append(rnd.choices(scores, weights=scoreWeight, k=1)[0])
+
+    paperMean = 0
+    paperSd = 0
+    count = 0
+    for subject in subjects:
+        paperMean += subjectAvgs[subject]['mean']
+        paperSd += subjectAvgs[subject]['SD']
+        count += 1
+
+    paperMean = paperMean / count
+    paperSd = paperSd / count
+    paper.append(int(np.random.normal(paperMean, paperSd)))
     papers.append(paper)
     y += 1
 

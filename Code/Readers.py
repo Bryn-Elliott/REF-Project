@@ -8,7 +8,7 @@ def CSV(dataPath):
         reader = csv.DictReader(file)
         
         for row in reader:
-            table.append([row['institution_id'], row['uoa_id'], row['aggregate_ref_score']]) # Remove unnecessary columns
+            table.append([row['institution_id'],row['uoa_name'] , row['aggregate_ref_score']]) # Remove unnecessary columns
         return table
 
 def XSLX(dataPath):

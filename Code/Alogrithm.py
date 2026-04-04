@@ -1,39 +1,17 @@
-import random, pandas as pd, os, subprocess, GreedyAlgo, Tools
-from collections import defaultdict
+import random, GreedyAlgo, Tools, csv
 
-maxPapers = 5
-popSize = 100
-numGen = 100
-mutRate = 0.05
+maxPapers = Tools.maxPapers
+popSize = Tools.popSize
+numGen = Tools.numGen
+mutRate = Tools.mutRate
 
-highWeight = 1.6
-midWeight = 1.2
-lowWeight = 1.0
+highWeight = Tools.highWeight
+midWeight = Tools.midWeight
+lowWeight = Tools.lowWeight
 
-highWeightSubjects = [
-    "Clinical Medicine",
-    "Public Health, Health Services and Primary Care"
-]
+highWeightSubjects = Tools.highWeightSubjects
 
-midWeightSubjects = [
-    "Business and Management Studies",
-    "Psychology, Psychiatry and Neuroscience",
-    "Allied Health Professions, Dentistry, Nursing and Pharmacy",
-    "Law",
-    "Biological Sciences",
-    "Architecture, Built Environment and Planning",
-    "Politics and International Studies",
-    "Agriculture, Food and Veterinary Sciences",
-    "Geography and Environmental Studies",
-    "Economics and Econometrics",
-    "Social Work and Social Policy",
-    "Sociology",
-    "Earth Systems and Environmental Sciences",
-    "Sport and Exercise Sciences, Leisure and Tourism",
-    "Anthropology and Development Studies",
-    "Education",
-    "Computer Science and Informatics",
-]
+midWeightSubjects = Tools.midWeightSubjects
 
 def SortSubjects(subject):
     if subject in highWeightSubjects:
@@ -88,43 +66,10 @@ def Mutate(solution, academics, papers):
                     )
                     for x in range(len(acaWorstPap)):
                         acaWorstPap[x] = [acaWorstPap[x], papers[acaWorstPap[x]]["score"]]
-                    solution[a1].remove(acaWorstPap[0][0])
-                    solution[a1].append(acaBestPap[0][0])
+                    if len(acaWorstPap) > 0:
+                        solution[a1].remove(random.choice(acaWorstPap[0:int(len(acaWorstPap) / 2) + 1])[0])
+                        solution[a1].append(random.choice(acaBestPap[0:int(len(acaBestPap) / 2) + 1])[0])
     return solution
-
-def Crossover(parent1, parent2, academics, papers):
-    child = {a: [] for a in academics}
-    used = set()
-
-    target_total = int(2.5 * len(academics))
-
-    # Combine both parents' assignments
-    combined = []
-
-    for academic in academics:
-        for paper in parent1[academic]:
-            combined.append((academic, paper))
-        for paper in parent2[academic]:
-            combined.append((academic, paper))
-
-    random.shuffle(combined)
-
-    for academic, paper in combined:
-        if len(used) >= target_total:
-            break
-
-        if paper in used:
-            continue
-
-        if len(child[academic]) >= 5:
-            continue
-
-        # Check compatibility
-        if any(sub in academics[academic] for sub in papers[paper]["subjects"]):
-            child[academic].append(paper)
-            used.add(paper)
-
-    return child
 
 def CalculateUnassigned(solution, papers):
     unassignedPapers = []
@@ -143,7 +88,7 @@ def GeneticAlgorithm(data):
 
     academics, papers = Tools.LoadData(data)
 
-    greedySolution = GreedyAlgo.CreateInd(academics, papers)
+    greedySolution = GreedyAlgo.CreateIndWeighted(academics, papers)
 
     greedyFit = Tools.Fitness(greedySolution, academics, papers)
 
@@ -160,33 +105,64 @@ def GeneticAlgorithm(data):
         print("Generating Ind " + str(x) + ": " + str(totalAssignedPapers) + ", " + str(totalAcademics))
     print("Pop Generated")
 
+    population = sorted(
+        population,
+        key=lambda ind: Tools.Fitness(ind, academics, papers)
+    )
+
+    bestFit = -2
+
     for generation in range(numGen):
-        population = sorted(
-            population,
-            key=lambda ind: Tools.Fitness(ind, academics, papers),
-            reverse=True
-        )
 
         nextGeneration = population[:10] 
 
         while len(nextGeneration) < popSize:
-            contenders = random.sample(population, int(len(population)/10))
-            parent1 = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
-            contenders.remove(parent1)
-            parent2 = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
-            child = Crossover(parent1, parent2, academics, papers)
-            child = Mutate(child, academics, papers)
+            contenders = random.sample(nextGeneration, int(len(nextGeneration)))
+            parent = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
+            child = Mutate(parent, academics, papers)
             nextGeneration.append(child)
-
-        population = sorted(population, key=lambda ind: Tools.Fitness(ind, academics, papers), reverse=True)
-        currentBest = population[0]
-        currentFit = Tools.Fitness(currentBest, academics, papers)
 
         bestGenFit = Tools.Fitness(population[0], academics, papers)
 
-        print(f"Generation {generation}: Best Fitness of this Generation = {bestGenFit}, Greedy Fitness = {greedyFit}")
+        print(f"Generation {generation}: Best Fitness so Far = {bestFit}, Greedy Fitness = {greedyFit}")
         totalAssignedPapers = sum(len(x) for x in population[0].values())
         totalAcademics = sum(1 for v in population[0].values())
         print(str(totalAssignedPapers) + ", " + str(totalAcademics))
 
-    return population[0]
+        population = sorted(
+            nextGeneration,
+            key=lambda ind: Tools.Fitness(ind, academics, papers),
+            reverse = True
+        )
+
+        currentBest = population[0]
+
+
+        currentFit = Tools.Fitness(currentBest, academics, papers)
+
+        if currentFit > bestFit:
+            bestFit = currentFit
+            bestInd = currentBest
+
+
+    print("Final Fitness: " + str(bestFit))
+    
+
+        # CSV file name
+    csv_filepath = "Data/Output.csv"
+
+    # Define the field names (headers)
+    fieldnames = ["Academic", "Subject(s)", "Papers"]
+
+    data = []
+    data.append(fieldnames)
+
+    for academic in bestInd:
+        subject = str(academics[academic][0])
+        papers = bestInd[academic]
+        data.append([academic, subject, papers])
+
+    # Writing to CSV
+    with open(csv_filepath, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerows(data)

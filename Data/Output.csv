@@ -1,0 +1,161 @@
+Academic,Subject(s),Papers
+Academic 0,['Geography and Environmental Studies'],"['Paper 703', 'Paper 925', 'Paper 205']"
+Academic 1,"['Architecture, Built Environment and Planning']","['Paper 673', 'Paper 97']"
+Academic 2,['Biological Sciences'],['Paper 833']
+Academic 3,"['Art and Design: History, Practice and Theory']","['Paper 134', 'Paper 298', 'Paper 632', 'Paper 725', 'Paper 316']"
+Academic 4,['Archaeology'],"['Paper 105', 'Paper 236']"
+Academic 5,"['Architecture, Built Environment and Planning']","['Paper 50', 'Paper 598', 'Paper 871', 'Paper 54', 'Paper 183']"
+Academic 6,['Philosophy'],"['Paper 163', 'Paper 604']"
+Academic 7,['Anthropology and Development Studies'],['Paper 120']
+Academic 8,"['Communication, Cultural and Media Studies, Library and Information Management']","['Paper 86', 'Paper 578', 'Paper 935', 'Paper 101', 'Paper 117']"
+Academic 9,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']",['Paper 336']
+Academic 10,['English Language and Literature'],[]
+Academic 11,['Area Studies'],['Paper 206']
+Academic 12,['Chemistry'],['Paper 215']
+Academic 13,['Classics'],[]
+Academic 14,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']","['Paper 103', 'Paper 152', 'Paper 170', 'Paper 193', 'Paper 244']"
+Academic 15,"['Architecture, Built Environment and Planning']",['Paper 610']
+Academic 16,"['Psychology, Psychiatry and Neuroscience']","['Paper 252', 'Paper 373', 'Paper 801', 'Paper 953', 'Paper 460']"
+Academic 17,['Theology and Religious Studies'],"['Paper 96', 'Paper 420', 'Paper 731', 'Paper 844', 'Paper 287']"
+Academic 18,"['Computer Science and Informatics', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']",[]
+Academic 19,"['Communication, Cultural and Media Studies, Library and Information Management', 'Architecture, Built Environment and Planning', 'Geography and Environmental Studies']",[]
+Academic 20,['Earth Systems and Environmental Sciences'],"['Paper 15', 'Paper 693']"
+Academic 21,['Classics'],"['Paper 584', 'Paper 52', 'Paper 113', 'Paper 135']"
+Academic 22,['Engineering'],"['Paper 7', 'Paper 428', 'Paper 573', 'Paper 822']"
+Academic 23,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']","['Paper 426', 'Paper 644', 'Paper 414']"
+Academic 24,['Social Work and Social Policy'],"['Paper 758', 'Paper 922', 'Paper 799']"
+Academic 25,['Economics and Econometrics'],"['Paper 635', 'Paper 82']"
+Academic 26,['Theology and Religious Studies'],"['Paper 464', 'Paper 704', 'Paper 61', 'Paper 178']"
+Academic 27,"['Public Health, Health Services and Primary Care', 'Economics and Econometrics', 'Law']",[]
+Academic 28,['Area Studies'],"['Paper 56', 'Paper 371']"
+Academic 29,['English Language and Literature'],['Paper 622']
+Academic 30,"['Sport and Exercise Sciences, Leisure and Tourism']","['Paper 407', 'Paper 148']"
+Academic 31,['Business and Management Studies'],"['Paper 17', 'Paper 157', 'Paper 515', 'Paper 403', 'Paper 500']"
+Academic 32,"['Architecture, Built Environment and Planning']","['Paper 164', 'Paper 203', 'Paper 914']"
+Academic 33,['Anthropology and Development Studies'],"['Paper 295', 'Paper 66']"
+Academic 34,['Politics and International Studies'],"['Paper 418', 'Paper 655', 'Paper 744']"
+Academic 35,['Archaeology'],['Paper 595']
+Academic 36,"['Classics', 'Communication, Cultural and Media Studies, Library and Information Management']",[]
+Academic 37,['Physics'],"['Paper 80', 'Paper 81', 'Paper 137']"
+Academic 38,['Chemistry'],['Paper 465']
+Academic 39,['Politics and International Studies'],"['Paper 398', 'Paper 14', 'Paper 30']"
+Academic 40,['Anthropology and Development Studies'],"['Paper 883', 'Paper 181', 'Paper 554']"
+Academic 41,['Computer Science and Informatics'],"['Paper 463', 'Paper 557', 'Paper 660', 'Paper 549', 'Paper 317']"
+Academic 42,['Business and Management Studies'],"['Paper 571', 'Paper 601', 'Paper 729', 'Paper 55']"
+Academic 43,"['Communication, Cultural and Media Studies, Library and Information Management']","['Paper 411', 'Paper 805', 'Paper 1']"
+Academic 44,"['Biological Sciences', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']",[]
+Academic 45,['Business and Management Studies'],"['Paper 311', 'Paper 760', 'Paper 869', 'Paper 671']"
+Academic 46,['Modern Languages and Linguistics'],['Paper 551']
+Academic 47,['Theology and Religious Studies'],"['Paper 789', 'Paper 126']"
+Academic 48,['Theology and Religious Studies'],"['Paper 541', 'Paper 782', 'Paper 194', 'Paper 570', 'Paper 367']"
+Academic 49,['Politics and International Studies'],['Paper 558']
+Academic 50,['Engineering'],"['Paper 491', 'Paper 531']"
+Academic 51,['Engineering'],"['Paper 98', 'Paper 162', 'Paper 518', 'Paper 33', 'Paper 74']"
+Academic 52,"['Psychology, Psychiatry and Neuroscience']","['Paper 255', 'Paper 687', 'Paper 327', 'Paper 378', 'Paper 868']"
+Academic 53,"['History', 'Physics', 'Sport and Exercise Sciences, Leisure and Tourism']",[]
+Academic 54,['Social Work and Social Policy'],"['Paper 122', 'Paper 903', 'Paper 89', 'Paper 954']"
+Academic 55,['English Language and Literature'],[]
+Academic 56,"['Communication, Cultural and Media Studies, Library and Information Management']","['Paper 717', 'Paper 319']"
+Academic 57,['Social Work and Social Policy'],"['Paper 12', 'Paper 67', 'Paper 262', 'Paper 310', 'Paper 458']"
+Academic 58,['Theology and Religious Studies'],"['Paper 288', 'Paper 505', 'Paper 881', 'Paper 84', 'Paper 568']"
+Academic 59,['Modern Languages and Linguistics'],"['Paper 479', 'Paper 62', 'Paper 352']"
+Academic 60,['History'],"['Paper 125', 'Paper 732', 'Paper 592']"
+Academic 61,['Clinical Medicine'],"['Paper 102', 'Paper 95']"
+Academic 62,"['Engineering', 'Business and Management Studies', 'Sport and Exercise Sciences, Leisure and Tourism']",[]
+Academic 63,['History'],[]
+Academic 64,['Theology and Religious Studies'],"['Paper 350', 'Paper 649', 'Paper 331']"
+Academic 65,['Engineering'],"['Paper 8', 'Paper 107', 'Paper 648', 'Paper 959', 'Paper 72']"
+Academic 66,"['Sport and Exercise Sciences, Leisure and Tourism']","['Paper 242', 'Paper 254', 'Paper 289', 'Paper 119', 'Paper 457']"
+Academic 67,['Sociology'],"['Paper 952', 'Paper 60', 'Paper 282', 'Paper 506']"
+Academic 68,['English Language and Literature'],"['Paper 13', 'Paper 941', 'Paper 44']"
+Academic 69,['Geography and Environmental Studies'],"['Paper 405', 'Paper 654', 'Paper 714', 'Paper 753', 'Paper 773']"
+Academic 70,"['Art and Design: History, Practice and Theory']","['Paper 642', 'Paper 29']"
+Academic 71,['Biological Sciences'],"['Paper 664', 'Paper 784', 'Paper 621']"
+Academic 72,['Politics and International Studies'],"['Paper 798', 'Paper 132']"
+Academic 73,"['Agriculture, Food and Veterinary Sciences', 'Business and Management Studies', 'Chemistry', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']",[]
+Academic 74,['Classics'],[]
+Academic 75,"['Communication, Cultural and Media Studies, Library and Information Management']","['Paper 280', 'Paper 404', 'Paper 453', 'Paper 631', 'Paper 529']"
+Academic 76,['Politics and International Studies'],"['Paper 76', 'Paper 413', 'Paper 945', 'Paper 615']"
+Academic 77,"['Anthropology and Development Studies', 'Business and Management Studies', 'Area Studies']",[]
+Academic 78,['Computer Science and Informatics'],['Paper 674']
+Academic 79,['Modern Languages and Linguistics'],['Paper 292']
+Academic 80,"['Agriculture, Food and Veterinary Sciences']","['Paper 497', 'Paper 100', 'Paper 138', 'Paper 375']"
+Academic 81,"['Mathematical Sciences', 'Geography and Environmental Studies', 'Earth Systems and Environmental Sciences']",[]
+Academic 82,['Geography and Environmental Studies'],"['Paper 64', 'Paper 207', 'Paper 461', 'Paper 575', 'Paper 569']"
+Academic 83,"['Agriculture, Food and Veterinary Sciences']","['Paper 246', 'Paper 47', 'Paper 273', 'Paper 187']"
+Academic 84,"['Architecture, Built Environment and Planning']",['Paper 652']
+Academic 85,['History'],"['Paper 616', 'Paper 6', 'Paper 45', 'Paper 347']"
+Academic 86,['Archaeology'],['Paper 940']
+Academic 87,['Theology and Religious Studies'],"['Paper 24', 'Paper 390']"
+Academic 88,['Sociology'],"['Paper 128', 'Paper 535', 'Paper 567']"
+Academic 89,"['Psychology, Psychiatry and Neuroscience']","['Paper 774', 'Paper 572', 'Paper 360', 'Paper 830']"
+Academic 90,"['Psychology, Psychiatry and Neuroscience']","['Paper 306', 'Paper 307', 'Paper 887', 'Paper 237', 'Paper 34']"
+Academic 91,"['Sport and Exercise Sciences, Leisure and Tourism']","['Paper 716', 'Paper 37', 'Paper 602', 'Paper 198']"
+Academic 92,['Classics'],[]
+Academic 93,['Social Work and Social Policy'],['Paper 277']
+Academic 94,['Law'],"['Paper 290', 'Paper 781']"
+Academic 95,"['Sport and Exercise Sciences, Leisure and Tourism']","['Paper 32', 'Paper 410', 'Paper 585', 'Paper 617']"
+Academic 96,['Computer Science and Informatics'],"['Paper 92', 'Paper 99', 'Paper 313', 'Paper 834']"
+Academic 97,['Law'],"['Paper 898', 'Paper 156', 'Paper 523']"
+Academic 98,"['Psychology, Psychiatry and Neuroscience']","['Paper 929', 'Paper 160', 'Paper 168', 'Paper 176', 'Paper 469']"
+Academic 99,['Education'],"['Paper 228', 'Paper 870']"
+Academic 100,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']","['Paper 129', 'Paper 488', 'Paper 388', 'Paper 202']"
+Academic 101,['Modern Languages and Linguistics'],[]
+Academic 102,"['Psychology, Psychiatry and Neuroscience']","['Paper 233', 'Paper 387', 'Paper 431', 'Paper 761', 'Paper 321']"
+Academic 103,['Classics'],[]
+Academic 104,['Biological Sciences'],"['Paper 706', 'Paper 480', 'Paper 880']"
+Academic 105,['Education'],"['Paper 180', 'Paper 359', 'Paper 639', 'Paper 158']"
+Academic 106,['Area Studies'],"['Paper 474', 'Paper 184', 'Paper 214']"
+Academic 107,['Politics and International Studies'],[]
+Academic 108,['English Language and Literature'],"['Paper 218', 'Paper 142']"
+Academic 109,"['Art and Design: History, Practice and Theory']","['Paper 5', 'Paper 752', 'Paper 951', 'Paper 38']"
+Academic 110,"['Art and Design: History, Practice and Theory']","['Paper 349', 'Paper 561', 'Paper 665', 'Paper 890', 'Paper 527']"
+Academic 111,['Mathematical Sciences'],"['Paper 200', 'Paper 707', 'Paper 325']"
+Academic 112,['Area Studies'],"['Paper 133', 'Paper 586']"
+Academic 113,['Chemistry'],"['Paper 820', 'Paper 476']"
+Academic 114,['Biological Sciences'],"['Paper 684', 'Paper 272', 'Paper 27', 'Paper 874']"
+Academic 115,['Politics and International Studies'],"['Paper 145', 'Paper 421']"
+Academic 116,['Area Studies'],[]
+Academic 117,['History'],"['Paper 275', 'Paper 688', 'Paper 915', 'Paper 937']"
+Academic 118,['Social Work and Social Policy'],"['Paper 291', 'Paper 539', 'Paper 776', 'Paper 454']"
+Academic 119,['Anthropology and Development Studies'],[]
+Academic 120,['Classics'],"['Paper 35', 'Paper 489', 'Paper 472']"
+Academic 121,['Area Studies'],"['Paper 794', 'Paper 79', 'Paper 613']"
+Academic 122,"['Art and Design: History, Practice and Theory']","['Paper 23', 'Paper 269', 'Paper 626', 'Paper 772', 'Paper 864']"
+Academic 123,"['Earth Systems and Environmental Sciences', 'Public Health, Health Services and Primary Care']",[]
+Academic 124,['English Language and Literature'],['Paper 607']
+Academic 125,"['Sociology', 'Social Work and Social Policy', 'Education']",[]
+Academic 126,"['Communication, Cultural and Media Studies, Library and Information Management']","['Paper 427', 'Paper 904', 'Paper 136', 'Paper 451']"
+Academic 127,['Business and Management Studies'],"['Paper 879', 'Paper 41']"
+Academic 128,['Biological Sciences'],['Paper 333']
+Academic 129,"['Agriculture, Food and Veterinary Sciences']",['Paper 283']
+Academic 130,['Computer Science and Informatics'],['Paper 630']
+Academic 131,['Business and Management Studies'],"['Paper 143', 'Paper 323', 'Paper 63']"
+Academic 132,['Clinical Medicine'],['Paper 439']
+Academic 133,['Theology and Religious Studies'],"['Paper 713', 'Paper 342', 'Paper 647']"
+Academic 134,['Physics'],[]
+Academic 135,['Area Studies'],[]
+Academic 136,['Philosophy'],"['Paper 151', 'Paper 663', 'Paper 179']"
+Academic 137,['Modern Languages and Linguistics'],"['Paper 111', 'Paper 300', 'Paper 211']"
+Academic 138,['Theology and Religious Studies'],"['Paper 88', 'Paper 682']"
+Academic 139,"['Communication, Cultural and Media Studies, Library and Information Management']","['Paper 46', 'Paper 192', 'Paper 238', 'Paper 456', 'Paper 640']"
+Academic 140,"['Communication, Cultural and Media Studies, Library and Information Management', 'Public Health, Health Services and Primary Care', 'Communication, Cultural and Media Studies, Library and Information Management']",[]
+Academic 141,['Archaeology'],"['Paper 768', 'Paper 31', 'Paper 65', 'Paper 85', 'Paper 667']"
+Academic 142,['Area Studies'],['Paper 235']
+Academic 143,"['Psychology, Psychiatry and Neuroscience']","['Paper 114', 'Paper 803', 'Paper 695', 'Paper 270', 'Paper 234']"
+Academic 144,['Computer Science and Informatics'],"['Paper 437', 'Paper 21']"
+Academic 145,"['Sport and Exercise Sciences, Leisure and Tourism']","['Paper 377', 'Paper 587', 'Paper 750']"
+Academic 146,['Modern Languages and Linguistics'],['Paper 697']
+Academic 147,['Earth Systems and Environmental Sciences'],"['Paper 534', 'Paper 738', 'Paper 93', 'Paper 154', 'Paper 493']"
+Academic 148,['Economics and Econometrics'],"['Paper 724', 'Paper 471']"
+Academic 149,['Mathematical Sciences'],"['Paper 548', 'Paper 919']"
+Academic 150,['Law'],"['Paper 666', 'Paper 715', 'Paper 852']"
+Academic 151,"['Agriculture, Food and Veterinary Sciences']","['Paper 907', 'Paper 115']"
+Academic 152,"['Sport and Exercise Sciences, Leisure and Tourism', 'Social Work and Social Policy']",[]
+Academic 153,['Philosophy'],['Paper 882']
+Academic 154,['Theology and Religious Studies'],"['Paper 159', 'Paper 381', 'Paper 495', 'Paper 669']"
+Academic 155,"['Communication, Cultural and Media Studies, Library and Information Management']",[]
+Academic 156,['Economics and Econometrics'],['Paper 838']
+Academic 157,"['Agriculture, Food and Veterinary Sciences']","['Paper 36', 'Paper 467', 'Paper 576']"
+Academic 158,['Social Work and Social Policy'],"['Paper 256', 'Paper 656', 'Paper 40', 'Paper 177', 'Paper 492']"
+Academic 159,['Area Studies'],"['Paper 22', 'Paper 397', 'Paper 449', 'Paper 651', 'Paper 956']"

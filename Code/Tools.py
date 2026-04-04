@@ -1,8 +1,56 @@
 import pandas as pd
 
+data = ['Data/REF 2021 Results - Avg by Panel & Institution.csv', 'Data/REF 2021 Results - All.xlsx', 'Data/Academics.csv', 'Data/Papers.csv'] # Input data paths
+
+academicsLen = 1590
+AcaPapRatio = 6
+
+subjects = [
+"Clinical Medicine",
+"Public Health, Health Services and Primary Care",
+"Business and Management Studies",
+"Psychology, Psychiatry and Neuroscience",
+"Allied Health Professions, Dentistry, Nursing and Pharmacy",
+"Law",
+"Biological Sciences",
+"Architecture, Built Environment and Planning",
+"Politics and International Studies",
+"Agriculture, Food and Veterinary Sciences",
+"Geography and Environmental Studies",
+"Economics and Econometrics",
+"Social Work and Social Policy",
+"Sociology",
+"Earth Systems and Environmental Sciences",
+"Sport and Exercise Sciences, Leisure and Tourism",
+"Anthropology and Development Studies",
+"Education",
+"Chemistry",
+"Art and Design: History, Practice and Theory",
+"Area Studies",
+"Physics",
+"Music, Drama, Dance, Performing Arts, Film and Screen Studies",
+"Modern Languages and Linguistics",
+"Mathematical Sciences",
+"English Language and Literature",
+"Computer Science and Informatics",
+"History",
+"Engineering",
+"Classics",
+"Archaeology",
+"Philosophy",
+"Theology and Religious Studies",
+"Communication, Cultural and Media Studies, Library and Information Management"
+]
+
+numAcaSubjects = [1, 2, 3, 4]
+numAcaSubWeight = [90, 5, 3, 2]
+
+numPapSubjects = [1, 2]
+numPapSubWeight = [90, 10]
+
 maxPapers = 5
-popSize = 100
-numGen = 500
+popSize = 10
+numGen = 50
 mutRate = 0.5
 
 highWeight = 1.6

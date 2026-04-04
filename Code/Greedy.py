@@ -4,7 +4,7 @@ data = ['Data/REF 2021 Results - Avg by Panel & Institution.csv', 'Data/REF 2021
 
 def Main():
     academics, papers = Tools.LoadData(data)
-    solution = GreedyAlgo.CreateInd(academics, papers)
+    solution = GreedyAlgo.CreateIndWeighted(academics, papers)
     print(Tools.Fitness(solution, academics, papers))
     
 Main()

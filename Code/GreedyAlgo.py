@@ -30,7 +30,6 @@ midWeightSubjects = [
 ]
 
 def CreateIndWeighted(academics, papers):
-    scoredPapers = []
     weightedPapers = papers
     for paper in papers:
         weights = []
@@ -76,13 +75,14 @@ def CreateInd(academics, papers):
             for subject in papers[paper]['subjects']:
                 if subject in academics[academic]:
                     if len(solution[academic]) < 5:
-                        compatible.append(academic)
+                        compatible.append([academic, subject])
                         break
 
         if compatible:
   
             chosen = random.choice(compatible)
-            solution[chosen].append(paper)
+            solution[chosen[0]].append(paper)
+            academics[academic] = [chosen[1]]
 
         totalAssignedPapers = sum(len(x) for x in solution.values())
         totalAcademics = sum(1 for v in solution.values())
