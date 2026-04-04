@@ -125,7 +125,6 @@ def GeneticAlgorithm(data):
             child = Mutate(parent, academics, papers)
             nextGeneration.append(child)
 
-        bestGenFit = Tools.Fitness(population[0], academics, papers)
 
         print(f"Generation {generation}: Best Fitness so Far = {bestFit}, Greedy Fitness = {greedyFit}")
         totalAssignedPapers = sum(len(x) for x in population[0].values())
@@ -139,7 +138,6 @@ def GeneticAlgorithm(data):
         )
 
         currentBest = population[0]
-
 
         currentFit = Tools.Fitness(currentBest, academics, papers)
 
