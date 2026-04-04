@@ -22,7 +22,7 @@ def SortSubjects(subject):
         return lowWeight
 
 def Mutate(solution, academics, papers):
-    mutateCount = random.randrange(1, int((len(academics.keys()) * mutRate * 2) - 1))
+    mutateCount = random.randrange(1, int((len(academics.keys()) * mutRate) - 1))
 
     for _ in range(1, mutateCount):
         unassignedPapers = CalculateUnassigned(solution, papers)
