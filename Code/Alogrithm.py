@@ -112,12 +112,15 @@ def GeneticAlgorithm(data):
 
     bestFit = -2
 
+    bestPop = population[:10] 
+
+    nextGeneration = bestPop
+
     for generation in range(numGen):
 
-        nextGeneration = population[:10] 
 
         while len(nextGeneration) < popSize:
-            contenders = random.sample(nextGeneration, int(len(nextGeneration)))
+            contenders = random.sample(bestPop, int(len(bestPop/4)))
             parent = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
             child = Mutate(parent, academics, papers)
             nextGeneration.append(child)
