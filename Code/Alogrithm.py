@@ -13,14 +13,6 @@ highWeightSubjects = Tools.highWeightSubjects
 
 midWeightSubjects = Tools.midWeightSubjects
 
-def SortSubjects(subject):
-    if subject in highWeightSubjects:
-        return highWeight
-    if subject in midWeightSubjects:
-        return midWeight
-    else:
-        return lowWeight
-
 def Mutate(solution, academics, papers):
     mutateCount = random.randrange(1, int((len(academics.keys()) * mutRate) - 1))
 
@@ -46,19 +38,19 @@ def Mutate(solution, academics, papers):
                     if len(paperBestSub) > 0:
                         paperBestSub = sorted(
                             paperBestSub,
-                            key=lambda ind: SortSubjects(ind),
+                            key=lambda ind: Tools.SubjectWeight(ind),
                             reverse=True
                         )
-                        acaBestPap.append(paper)
+                        acaBestPap.append([paper, paperBestSub])
 
                 if len(acaBestPap) > 0:
                     acaBestPap = sorted(
                         acaBestPap,
-                        key=lambda ind: papers[ind]["score"],
+                        key=lambda ind: papers[ind[0]]["score"] * Tools.SubjectWeight(ind[1]),
                         reverse=True
                     )
                     for x in range(len(acaBestPap)):
-                        acaBestPap[x] = [acaBestPap[x], papers[acaBestPap[x]]["score"]]
+                        acaBestPap[x] = [acaBestPap[x][0], papers[acaBestPap[x][0]]["score"]]
                     acaWorstPap = sorted(
                         solution[a1],
                         key=lambda ind: papers[ind]["score"],
