@@ -14,7 +14,7 @@ highWeightSubjects = Tools.highWeightSubjects
 midWeightSubjects = Tools.midWeightSubjects
 
 def Mutate(solution, academics, papers):
-    mutateCount = random.randrange(1, int((len(academics.keys()) * mutRate) - 1))
+    mutateCount = random.randrange(0, int((len(academics.keys()) * mutRate)))
 
     for _ in range(1, mutateCount):
         unassignedPapers = CalculateUnassigned(solution, papers)
@@ -76,7 +76,11 @@ def CalculateUnassigned(solution, papers):
     
     return unassignedPapers
 
-def GeneticAlgorithm(data):
+def GeneticAlgorithm(data, inputVals):
+
+    popSize = inputVals[0]
+    numGen = inputVals[1]
+    mutRate = inputVals[2]
 
     academics, papers = Tools.LoadData(data)
 
@@ -108,20 +112,17 @@ def GeneticAlgorithm(data):
 
     nextGeneration = bestPop
 
+    fitOverTime = []
+
     for generation in range(numGen):
 
 
         while len(nextGeneration) < popSize:
-            contenders = random.sample(bestPop, int(len(bestPop/4)))
+            contenders = random.sample(bestPop, int(len(bestPop)/4))
             parent = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
             child = Mutate(parent, academics, papers)
             nextGeneration.append(child)
 
-
-        print(f"Generation {generation}: Best Fitness so Far = {bestFit}, Greedy Fitness = {greedyFit}")
-        totalAssignedPapers = sum(len(x) for x in population[0].values())
-        totalAcademics = sum(1 for v in population[0].values())
-        print(str(totalAssignedPapers) + ", " + str(totalAcademics))
 
         population = sorted(
             nextGeneration,
@@ -133,9 +134,16 @@ def GeneticAlgorithm(data):
 
         currentFit = Tools.Fitness(currentBest, academics, papers)
 
+        fitOverTime.append([generation, currentFit])
+
         if currentFit > bestFit:
             bestFit = currentFit
             bestInd = currentBest
+
+        print(f"Generation {generation}: Best Fitness so Far = {bestFit}, Greedy Fitness = {greedyFit}")
+        totalAssignedPapers = sum(len(x) for x in population[0].values())
+        totalAcademics = sum(1 for v in population[0].values())
+        print(str(totalAssignedPapers) + ", " + str(totalAcademics))
 
 
     print("Final Fitness: " + str(bestFit))
@@ -159,3 +167,5 @@ def GeneticAlgorithm(data):
     with open(csv_filepath, mode='w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(data)
+
+    return [fitOverTime, greedyFit]

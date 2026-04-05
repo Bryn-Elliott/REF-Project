@@ -1,7 +1,6 @@
 import Readers, PanelFitness, Tools, Alogrithm as GA
 
-def Main():
+def Run(inputVals):
     data = Tools.data
-    GA.GeneticAlgorithm(data)
-
-Main()
+    output = GA.GeneticAlgorithm(data, inputVals)
+    return output
