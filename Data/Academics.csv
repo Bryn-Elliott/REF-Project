@@ -1,1591 +1,1591 @@
 Name,Subjects
 Academic 0,['Modern Languages and Linguistics']
-Academic 1,"['Computer Science and Informatics', 'Theology and Religious Studies']"
-Academic 2,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 3,['Earth Systems and Environmental Sciences']
-Academic 4,['Biological Sciences']
-Academic 5,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 6,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 7,['Sociology']
-Academic 8,['Clinical Medicine']
-Academic 9,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 10,['Politics and International Studies']
-Academic 11,['Law']
-Academic 12,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 13,"['Classics', 'English Language and Literature']"
-Academic 14,['Chemistry']
-Academic 15,['Philosophy']
-Academic 16,['Sociology']
-Academic 17,['Biological Sciences']
-Academic 18,['Theology and Religious Studies']
-Academic 19,['Education']
-Academic 20,"['Education', 'Earth Systems and Environmental Sciences']"
-Academic 21,['History']
-Academic 22,"['Agriculture, Food and Veterinary Sciences']"
-Academic 23,['Economics and Econometrics']
-Academic 24,['Archaeology']
-Academic 25,['Geography and Environmental Studies']
-Academic 26,['Economics and Econometrics']
-Academic 27,['Politics and International Studies']
-Academic 28,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 29,['Biological Sciences']
-Academic 30,['Physics']
-Academic 31,['Chemistry']
-Academic 32,['Geography and Environmental Studies']
-Academic 33,['Modern Languages and Linguistics']
-Academic 34,['Politics and International Studies']
-Academic 35,"['History', 'Engineering', 'English Language and Literature']"
-Academic 36,['Classics']
-Academic 37,"['Agriculture, Food and Veterinary Sciences']"
-Academic 38,['Business and Management Studies']
-Academic 39,"['Sport and Exercise Sciences, Leisure and Tourism', 'Chemistry', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 40,['Archaeology']
-Academic 41,['Classics']
-Academic 42,"['History', 'Sociology', 'Philosophy', 'History']"
-Academic 43,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 44,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 45,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 46,"['Psychology, Psychiatry and Neuroscience']"
-Academic 47,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 48,['Politics and International Studies']
-Academic 49,['Politics and International Studies']
-Academic 50,['Theology and Religious Studies']
-Academic 51,['Education']
-Academic 52,['Philosophy']
-Academic 53,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 54,"['Public Health, Health Services and Primary Care', 'Modern Languages and Linguistics', 'History', 'Computer Science and Informatics']"
-Academic 55,['Sociology']
-Academic 56,['Earth Systems and Environmental Sciences']
-Academic 57,['Biological Sciences']
-Academic 58,['Education']
-Academic 59,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1,['Engineering']
+Academic 2,['Earth Systems and Environmental Sciences']
+Academic 3,['English Language and Literature']
+Academic 4,['Law']
+Academic 5,['Politics and International Studies']
+Academic 6,['Education']
+Academic 7,['Anthropology and Development Studies']
+Academic 8,['Economics and Econometrics']
+Academic 9,['Anthropology and Development Studies']
+Academic 10,"['Psychology, Psychiatry and Neuroscience']"
+Academic 11,['Politics and International Studies']
+Academic 12,['Area Studies']
+Academic 13,['Education']
+Academic 14,['Area Studies']
+Academic 15,['Biological Sciences']
+Academic 16,['Biological Sciences']
+Academic 17,['Politics and International Studies']
+Academic 18,['Sociology']
+Academic 19,['Politics and International Studies']
+Academic 20,['Area Studies']
+Academic 21,"['Biological Sciences', 'History', 'Politics and International Studies', 'Biological Sciences']"
+Academic 22,['History']
+Academic 23,['History']
+Academic 24,"['Agriculture, Food and Veterinary Sciences']"
+Academic 25,"['Agriculture, Food and Veterinary Sciences']"
+Academic 26,['Philosophy']
+Academic 27,['Archaeology']
+Academic 28,['Economics and Econometrics']
+Academic 29,['Archaeology']
+Academic 30,['Anthropology and Development Studies']
+Academic 31,['Geography and Environmental Studies']
+Academic 32,"['Biological Sciences', 'Social Work and Social Policy']"
+Academic 33,['Law']
+Academic 34,"['Chemistry', 'Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 35,['Classics']
+Academic 36,['Social Work and Social Policy']
+Academic 37,"['Public Health, Health Services and Primary Care']"
+Academic 38,"['Biological Sciences', 'Architecture, Built Environment and Planning']"
+Academic 39,"['Classics', 'History', 'Biological Sciences']"
+Academic 40,['Business and Management Studies']
+Academic 41,"['Public Health, Health Services and Primary Care', 'Education']"
+Academic 42,['Law']
+Academic 43,['Clinical Medicine']
+Academic 44,['Geography and Environmental Studies']
+Academic 45,['History']
+Academic 46,"['Art and Design: History, Practice and Theory']"
+Academic 47,['Area Studies']
+Academic 48,"['Psychology, Psychiatry and Neuroscience']"
+Academic 49,['Area Studies']
+Academic 50,['Law']
+Academic 51,"['Architecture, Built Environment and Planning']"
+Academic 52,"['Public Health, Health Services and Primary Care', 'Clinical Medicine']"
+Academic 53,['Social Work and Social Policy']
+Academic 54,['Economics and Econometrics']
+Academic 55,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 56,"['Modern Languages and Linguistics', 'Theology and Religious Studies', 'Biological Sciences']"
+Academic 57,['Social Work and Social Policy']
+Academic 58,['Sociology']
+Academic 59,"['Art and Design: History, Practice and Theory']"
 Academic 60,['Education']
-Academic 61,['Politics and International Studies']
-Academic 62,['Sociology']
-Academic 63,['Clinical Medicine']
-Academic 64,"['Psychology, Psychiatry and Neuroscience']"
-Academic 65,['Biological Sciences']
-Academic 66,['Archaeology']
-Academic 67,['Mathematical Sciences']
-Academic 68,['Geography and Environmental Studies']
-Academic 69,['Geography and Environmental Studies']
-Academic 70,['Area Studies']
-Academic 71,['Anthropology and Development Studies']
-Academic 72,['Classics']
-Academic 73,['Earth Systems and Environmental Sciences']
-Academic 74,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Public Health, Health Services and Primary Care', 'English Language and Literature']"
+Academic 61,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 62,['Economics and Econometrics']
+Academic 63,['History']
+Academic 64,['Business and Management Studies']
+Academic 65,['Philosophy']
+Academic 66,['Earth Systems and Environmental Sciences']
+Academic 67,['Engineering']
+Academic 68,['Anthropology and Development Studies']
+Academic 69,['Anthropology and Development Studies']
+Academic 70,"['Public Health, Health Services and Primary Care']"
+Academic 71,"['Public Health, Health Services and Primary Care']"
+Academic 72,['Mathematical Sciences']
+Academic 73,['Archaeology']
+Academic 74,['Chemistry']
 Academic 75,['Law']
-Academic 76,['Chemistry']
-Academic 77,['Anthropology and Development Studies']
-Academic 78,['Sociology']
-Academic 79,['Social Work and Social Policy']
-Academic 80,['Computer Science and Informatics']
-Academic 81,['Education']
-Academic 82,['Earth Systems and Environmental Sciences']
-Academic 83,['Area Studies']
-Academic 84,"['Geography and Environmental Studies', 'Earth Systems and Environmental Sciences']"
-Academic 85,"['Art and Design: History, Practice and Theory']"
-Academic 86,['Anthropology and Development Studies']
+Academic 76,['Law']
+Academic 77,['Sociology']
+Academic 78,"['Chemistry', 'Philosophy']"
+Academic 79,['Modern Languages and Linguistics']
+Academic 80,['Education']
+Academic 81,['Theology and Religious Studies']
+Academic 82,['Education']
+Academic 83,"['Architecture, Built Environment and Planning']"
+Academic 84,['English Language and Literature']
+Academic 85,"['Architecture, Built Environment and Planning', 'Physics']"
+Academic 86,['Mathematical Sciences']
 Academic 87,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 88,['Social Work and Social Policy']
-Academic 89,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 90,"['History', 'Physics', 'Law']"
+Academic 88,"['Mathematical Sciences', 'Architecture, Built Environment and Planning']"
+Academic 89,['Computer Science and Informatics']
+Academic 90,"['Architecture, Built Environment and Planning']"
 Academic 91,['Politics and International Studies']
 Academic 92,['Economics and Econometrics']
-Academic 93,"['Psychology, Psychiatry and Neuroscience', 'Chemistry', 'Modern Languages and Linguistics']"
-Academic 94,['Archaeology']
-Academic 95,['Sociology']
-Academic 96,['Anthropology and Development Studies']
-Academic 97,"['Agriculture, Food and Veterinary Sciences', 'Psychology, Psychiatry and Neuroscience', 'Computer Science and Informatics']"
-Academic 98,['Archaeology']
-Academic 99,['Law']
-Academic 100,"['Art and Design: History, Practice and Theory']"
-Academic 101,['Earth Systems and Environmental Sciences']
-Academic 102,['Politics and International Studies']
-Academic 103,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 104,['Anthropology and Development Studies']
-Academic 105,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 106,['Classics']
-Academic 107,"['Sport and Exercise Sciences, Leisure and Tourism', 'Chemistry', 'Politics and International Studies']"
-Academic 108,['Computer Science and Informatics']
-Academic 109,['Modern Languages and Linguistics']
+Academic 93,"['Public Health, Health Services and Primary Care']"
+Academic 94,['Education']
+Academic 95,"['Agriculture, Food and Veterinary Sciences']"
+Academic 96,"['Art and Design: History, Practice and Theory']"
+Academic 97,['History']
+Academic 98,['Mathematical Sciences']
+Academic 99,['Computer Science and Informatics']
+Academic 100,"['Clinical Medicine', 'Art and Design: History, Practice and Theory']"
+Academic 101,['History']
+Academic 102,['Social Work and Social Policy']
+Academic 103,['Modern Languages and Linguistics']
+Academic 104,"['Art and Design: History, Practice and Theory']"
+Academic 105,"['Chemistry', 'Clinical Medicine']"
+Academic 106,['Physics']
+Academic 107,['Clinical Medicine']
+Academic 108,['Sociology']
+Academic 109,"['Archaeology', 'Business and Management Studies']"
 Academic 110,"['Communication, Cultural and Media Studies, Library and Information Management']"
 Academic 111,['Clinical Medicine']
-Academic 112,['Politics and International Studies']
-Academic 113,"['English Language and Literature', 'Sociology']"
-Academic 114,['Economics and Econometrics']
-Academic 115,['Area Studies']
-Academic 116,['Business and Management Studies']
-Academic 117,"['Art and Design: History, Practice and Theory', 'Anthropology and Development Studies', 'Chemistry', 'Geography and Environmental Studies']"
-Academic 118,"['Public Health, Health Services and Primary Care']"
-Academic 119,['Politics and International Studies']
-Academic 120,['Archaeology']
-Academic 121,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 122,['Sociology']
-Academic 123,['Theology and Religious Studies']
-Academic 124,['Theology and Religious Studies']
-Academic 125,"['Architecture, Built Environment and Planning']"
-Academic 126,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 127,['Mathematical Sciences']
-Academic 128,['Archaeology']
+Academic 112,['Education']
+Academic 113,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 114,"['Public Health, Health Services and Primary Care']"
+Academic 115,['Sociology']
+Academic 116,['Archaeology']
+Academic 117,['Theology and Religious Studies']
+Academic 118,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 119,['Economics and Econometrics']
+Academic 120,['History']
+Academic 121,['Physics']
+Academic 122,['Economics and Econometrics']
+Academic 123,['Anthropology and Development Studies']
+Academic 124,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 125,['Chemistry']
+Academic 126,"['Art and Design: History, Practice and Theory']"
+Academic 127,['Biological Sciences']
+Academic 128,"['Archaeology', 'Business and Management Studies']"
 Academic 129,['English Language and Literature']
-Academic 130,['Classics']
-Academic 131,['Education']
-Academic 132,['Law']
-Academic 133,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 134,['Mathematical Sciences']
-Academic 135,['Sociology']
-Academic 136,['Theology and Religious Studies']
-Academic 137,['Engineering']
-Academic 138,"['Architecture, Built Environment and Planning']"
-Academic 139,['Chemistry']
-Academic 140,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 141,['Engineering']
-Academic 142,['Classics']
-Academic 143,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 144,['Archaeology']
-Academic 145,"['Public Health, Health Services and Primary Care']"
-Academic 146,['Earth Systems and Environmental Sciences']
-Academic 147,"['Law', 'Clinical Medicine']"
-Academic 148,['Politics and International Studies']
-Academic 149,"['Sociology', 'Modern Languages and Linguistics']"
-Academic 150,['Engineering']
-Academic 151,['Geography and Environmental Studies']
-Academic 152,['Area Studies']
-Academic 153,['English Language and Literature']
-Academic 154,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 155,['Clinical Medicine']
-Academic 156,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 157,['Education']
-Academic 158,"['Modern Languages and Linguistics', 'Computer Science and Informatics']"
-Academic 159,"['Chemistry', 'Chemistry', 'Computer Science and Informatics']"
-Academic 160,['Clinical Medicine']
-Academic 161,['Chemistry']
-Academic 162,['Anthropology and Development Studies']
-Academic 163,"['Agriculture, Food and Veterinary Sciences']"
-Academic 164,['Politics and International Studies']
-Academic 165,['English Language and Literature']
-Academic 166,"['Politics and International Studies', 'Education', 'Psychology, Psychiatry and Neuroscience']"
-Academic 167,"['Public Health, Health Services and Primary Care']"
-Academic 168,['Anthropology and Development Studies']
-Academic 169,['Chemistry']
-Academic 170,"['Agriculture, Food and Veterinary Sciences']"
-Academic 171,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Archaeology']"
-Academic 172,['Business and Management Studies']
-Academic 173,['Politics and International Studies']
-Academic 174,['Archaeology']
-Academic 175,['English Language and Literature']
-Academic 176,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 177,"['Agriculture, Food and Veterinary Sciences']"
-Academic 178,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 179,['Mathematical Sciences']
-Academic 180,['Politics and International Studies']
-Academic 181,['Engineering']
-Academic 182,['Geography and Environmental Studies']
-Academic 183,['Biological Sciences']
-Academic 184,"['Psychology, Psychiatry and Neuroscience']"
-Academic 185,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 186,['Theology and Religious Studies']
-Academic 187,['Earth Systems and Environmental Sciences']
-Academic 188,['Chemistry']
-Academic 189,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 190,['Sociology']
-Academic 191,['Social Work and Social Policy']
-Academic 192,['Engineering']
-Academic 193,['Anthropology and Development Studies']
-Academic 194,"['Agriculture, Food and Veterinary Sciences']"
-Academic 195,['Chemistry']
-Academic 196,"['Architecture, Built Environment and Planning']"
-Academic 197,['Modern Languages and Linguistics']
-Academic 198,"['Public Health, Health Services and Primary Care', 'Computer Science and Informatics']"
-Academic 199,"['Architecture, Built Environment and Planning']"
-Academic 200,['Computer Science and Informatics']
-Academic 201,['Geography and Environmental Studies']
-Academic 202,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 203,['Area Studies']
-Academic 204,['Social Work and Social Policy']
+Academic 130,['Archaeology']
+Academic 131,"['Computer Science and Informatics', 'Geography and Environmental Studies', 'Art and Design: History, Practice and Theory']"
+Academic 132,"['Architecture, Built Environment and Planning']"
+Academic 133,['Social Work and Social Policy']
+Academic 134,['Anthropology and Development Studies']
+Academic 135,['Clinical Medicine']
+Academic 136,"['Politics and International Studies', 'Archaeology']"
+Academic 137,['Modern Languages and Linguistics']
+Academic 138,['Archaeology']
+Academic 139,['Mathematical Sciences']
+Academic 140,['Classics']
+Academic 141,['Sociology']
+Academic 142,"['Geography and Environmental Studies', 'Social Work and Social Policy']"
+Academic 143,"['Architecture, Built Environment and Planning']"
+Academic 144,['Social Work and Social Policy']
+Academic 145,['Social Work and Social Policy']
+Academic 146,"['Public Health, Health Services and Primary Care']"
+Academic 147,['History']
+Academic 148,"['Art and Design: History, Practice and Theory']"
+Academic 149,['Classics']
+Academic 150,['Theology and Religious Studies']
+Academic 151,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 152,['Business and Management Studies']
+Academic 153,['Mathematical Sciences']
+Academic 154,"['Sport and Exercise Sciences, Leisure and Tourism', 'Biological Sciences', 'Economics and Econometrics']"
+Academic 155,['Mathematical Sciences']
+Academic 156,"['Classics', 'Politics and International Studies']"
+Academic 157,['Engineering']
+Academic 158,['Modern Languages and Linguistics']
+Academic 159,"['Agriculture, Food and Veterinary Sciences', 'Business and Management Studies']"
+Academic 160,['History']
+Academic 161,['Classics']
+Academic 162,['Theology and Religious Studies']
+Academic 163,['Business and Management Studies']
+Academic 164,"['Architecture, Built Environment and Planning']"
+Academic 165,"['Psychology, Psychiatry and Neuroscience']"
+Academic 166,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 167,"['Architecture, Built Environment and Planning']"
+Academic 168,['Sociology']
+Academic 169,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 170,['Education']
+Academic 171,['History']
+Academic 172,['Theology and Religious Studies']
+Academic 173,['Chemistry']
+Academic 174,"['Psychology, Psychiatry and Neuroscience']"
+Academic 175,"['Law', 'Geography and Environmental Studies']"
+Academic 176,['Sociology']
+Academic 177,['Education']
+Academic 178,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 179,['Chemistry']
+Academic 180,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 181,['Modern Languages and Linguistics']
+Academic 182,"['Agriculture, Food and Veterinary Sciences']"
+Academic 183,['Anthropology and Development Studies']
+Academic 184,['Theology and Religious Studies']
+Academic 185,['Computer Science and Informatics']
+Academic 186,['Business and Management Studies']
+Academic 187,['Modern Languages and Linguistics']
+Academic 188,['Earth Systems and Environmental Sciences']
+Academic 189,['English Language and Literature']
+Academic 190,"['Architecture, Built Environment and Planning']"
+Academic 191,['Modern Languages and Linguistics']
+Academic 192,['Area Studies']
+Academic 193,['Geography and Environmental Studies']
+Academic 194,"['Architecture, Built Environment and Planning']"
+Academic 195,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 196,"['Agriculture, Food and Veterinary Sciences']"
+Academic 197,"['Politics and International Studies', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'History']"
+Academic 198,['Classics']
+Academic 199,['Modern Languages and Linguistics']
+Academic 200,['Law']
+Academic 201,['Philosophy']
+Academic 202,['Classics']
+Academic 203,"['Psychology, Psychiatry and Neuroscience']"
+Academic 204,['History']
 Academic 205,['Modern Languages and Linguistics']
-Academic 206,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 207,['Business and Management Studies']
-Academic 208,['Philosophy']
-Academic 209,['Politics and International Studies']
-Academic 210,['History']
-Academic 211,['Classics']
-Academic 212,"['Art and Design: History, Practice and Theory']"
-Academic 213,['Modern Languages and Linguistics']
-Academic 214,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 215,"['Law', 'Architecture, Built Environment and Planning', 'Engineering', 'Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 216,['Archaeology']
-Academic 217,['Modern Languages and Linguistics']
-Academic 218,['Theology and Religious Studies']
-Academic 219,"['Engineering', 'Chemistry', 'Theology and Religious Studies', 'Architecture, Built Environment and Planning']"
-Academic 220,['Clinical Medicine']
-Academic 221,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 222,['Biological Sciences']
-Academic 223,"['Public Health, Health Services and Primary Care', 'Politics and International Studies']"
-Academic 224,['Engineering']
-Academic 225,"['Psychology, Psychiatry and Neuroscience']"
-Academic 226,['Engineering']
-Academic 227,['Earth Systems and Environmental Sciences']
-Academic 228,['Economics and Econometrics']
-Academic 229,['Politics and International Studies']
-Academic 230,['Business and Management Studies']
-Academic 231,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 232,"['Architecture, Built Environment and Planning']"
-Academic 233,['Education']
-Academic 234,['Biological Sciences']
-Academic 235,"['Earth Systems and Environmental Sciences', 'Geography and Environmental Studies']"
-Academic 236,['Anthropology and Development Studies']
-Academic 237,['Classics']
-Academic 238,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 239,['Area Studies']
-Academic 240,['History']
-Academic 241,['Clinical Medicine']
-Academic 242,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 243,"['Anthropology and Development Studies', 'Public Health, Health Services and Primary Care', 'Physics']"
-Academic 244,"['Biological Sciences', 'Clinical Medicine', 'Mathematical Sciences', 'Mathematical Sciences']"
-Academic 245,['English Language and Literature']
-Academic 246,['Geography and Environmental Studies']
-Academic 247,['Modern Languages and Linguistics']
-Academic 248,"['Psychology, Psychiatry and Neuroscience']"
-Academic 249,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Area Studies']"
-Academic 250,['Social Work and Social Policy']
-Academic 251,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 252,"['Art and Design: History, Practice and Theory']"
-Academic 253,['Computer Science and Informatics']
-Academic 254,['Chemistry']
-Academic 255,['Computer Science and Informatics']
+Academic 206,['Area Studies']
+Academic 207,['Social Work and Social Policy']
+Academic 208,['Education']
+Academic 209,"['Classics', 'Theology and Religious Studies', 'Business and Management Studies', 'Anthropology and Development Studies']"
+Academic 210,['Philosophy']
+Academic 211,['Archaeology']
+Academic 212,['Computer Science and Informatics']
+Academic 213,"['Architecture, Built Environment and Planning']"
+Academic 214,['English Language and Literature']
+Academic 215,"['Area Studies', 'Anthropology and Development Studies']"
+Academic 216,['Economics and Econometrics']
+Academic 217,"['Architecture, Built Environment and Planning']"
+Academic 218,['Law']
+Academic 219,['Anthropology and Development Studies']
+Academic 220,['History']
+Academic 221,['Philosophy']
+Academic 222,['Mathematical Sciences']
+Academic 223,['Geography and Environmental Studies']
+Academic 224,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 225,"['Architecture, Built Environment and Planning']"
+Academic 226,['English Language and Literature']
+Academic 227,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 228,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 229,['Computer Science and Informatics']
+Academic 230,['Physics']
+Academic 231,['Law']
+Academic 232,['Anthropology and Development Studies']
+Academic 233,"['Chemistry', 'Architecture, Built Environment and Planning', 'Modern Languages and Linguistics', 'Art and Design: History, Practice and Theory']"
+Academic 234,"['Psychology, Psychiatry and Neuroscience']"
+Academic 235,['Social Work and Social Policy']
+Academic 236,['Clinical Medicine']
+Academic 237,['Mathematical Sciences']
+Academic 238,['Archaeology']
+Academic 239,['Sociology']
+Academic 240,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 241,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 242,['Law']
+Academic 243,['History']
+Academic 244,['Area Studies']
+Academic 245,['Chemistry']
+Academic 246,"['Earth Systems and Environmental Sciences', 'Business and Management Studies', 'Archaeology', 'Economics and Econometrics']"
+Academic 247,['Business and Management Studies']
+Academic 248,"['Agriculture, Food and Veterinary Sciences']"
+Academic 249,['Mathematical Sciences']
+Academic 250,"['Anthropology and Development Studies', 'Geography and Environmental Studies']"
+Academic 251,['Anthropology and Development Studies']
+Academic 252,['English Language and Literature']
+Academic 253,"['Art and Design: History, Practice and Theory']"
+Academic 254,"['Theology and Religious Studies', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 255,"['Public Health, Health Services and Primary Care']"
 Academic 256,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 257,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 258,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 259,"['Public Health, Health Services and Primary Care']"
-Academic 260,['English Language and Literature']
-Academic 261,"['Psychology, Psychiatry and Neuroscience']"
-Academic 262,['Social Work and Social Policy']
-Academic 263,['English Language and Literature']
-Academic 264,['English Language and Literature']
-Academic 265,['Physics']
-Academic 266,['Law']
-Academic 267,['History']
-Academic 268,"['Public Health, Health Services and Primary Care']"
-Academic 269,"['Public Health, Health Services and Primary Care', 'Biological Sciences']"
-Academic 270,['Theology and Religious Studies']
-Academic 271,['Modern Languages and Linguistics']
-Academic 272,"['Agriculture, Food and Veterinary Sciences']"
-Academic 273,['Chemistry']
-Academic 274,['Physics']
-Academic 275,"['Public Health, Health Services and Primary Care']"
-Academic 276,['English Language and Literature']
-Academic 277,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 278,['Business and Management Studies']
-Academic 279,['Archaeology']
-Academic 280,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 281,"['Physics', 'Economics and Econometrics']"
-Academic 282,"['Mathematical Sciences', 'Art and Design: History, Practice and Theory', 'Business and Management Studies', 'Architecture, Built Environment and Planning']"
-Academic 283,['Engineering']
-Academic 284,"['Computer Science and Informatics', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 285,['Education']
-Academic 286,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 287,"['Agriculture, Food and Veterinary Sciences', 'Engineering', 'Politics and International Studies', 'Architecture, Built Environment and Planning']"
-Academic 288,['Philosophy']
-Academic 289,['Anthropology and Development Studies']
-Academic 290,['Business and Management Studies']
-Academic 291,['Classics']
-Academic 292,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 293,"['Agriculture, Food and Veterinary Sciences']"
-Academic 294,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 295,['Archaeology']
-Academic 296,['Economics and Econometrics']
-Academic 297,['Engineering']
-Academic 298,"['Architecture, Built Environment and Planning']"
-Academic 299,"['Psychology, Psychiatry and Neuroscience']"
-Academic 300,"['Art and Design: History, Practice and Theory']"
-Academic 301,"['Agriculture, Food and Veterinary Sciences', 'Classics', 'Public Health, Health Services and Primary Care', 'Education']"
-Academic 302,['History']
-Academic 303,['Mathematical Sciences']
+Academic 257,['Geography and Environmental Studies']
+Academic 258,"['Art and Design: History, Practice and Theory']"
+Academic 259,['Modern Languages and Linguistics']
+Academic 260,['Clinical Medicine']
+Academic 261,['Economics and Econometrics']
+Academic 262,['Theology and Religious Studies']
+Academic 263,['Clinical Medicine']
+Academic 264,"['Art and Design: History, Practice and Theory']"
+Academic 265,['Mathematical Sciences']
+Academic 266,"['Art and Design: History, Practice and Theory']"
+Academic 267,['Geography and Environmental Studies']
+Academic 268,['Anthropology and Development Studies']
+Academic 269,['Law']
+Academic 270,"['Physics', 'Archaeology', 'Biological Sciences']"
+Academic 271,['Economics and Econometrics']
+Academic 272,['Computer Science and Informatics']
+Academic 273,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 274,"['Art and Design: History, Practice and Theory']"
+Academic 275,['Education']
+Academic 276,"['Psychology, Psychiatry and Neuroscience']"
+Academic 277,['Earth Systems and Environmental Sciences']
+Academic 278,"['Theology and Religious Studies', 'Economics and Econometrics']"
+Academic 279,['Physics']
+Academic 280,['Politics and International Studies']
+Academic 281,['Theology and Religious Studies']
+Academic 282,"['Psychology, Psychiatry and Neuroscience']"
+Academic 283,['Clinical Medicine']
+Academic 284,['Politics and International Studies']
+Academic 285,"['Public Health, Health Services and Primary Care']"
+Academic 286,['Clinical Medicine']
+Academic 287,['Classics']
+Academic 288,['Anthropology and Development Studies']
+Academic 289,"['Agriculture, Food and Veterinary Sciences']"
+Academic 290,['Chemistry']
+Academic 291,['Law']
+Academic 292,['Law']
+Academic 293,['History']
+Academic 294,"['Sociology', 'Theology and Religious Studies', 'Archaeology', 'Mathematical Sciences']"
+Academic 295,['Biological Sciences']
+Academic 296,['Physics']
+Academic 297,['Archaeology']
+Academic 298,['Clinical Medicine']
+Academic 299,['Education']
+Academic 300,['Social Work and Social Policy']
+Academic 301,['Chemistry']
+Academic 302,['Anthropology and Development Studies']
+Academic 303,"['Psychology, Psychiatry and Neuroscience', 'Engineering', 'Law']"
 Academic 304,['Classics']
-Academic 305,['Anthropology and Development Studies']
-Academic 306,['Mathematical Sciences']
-Academic 307,['Computer Science and Informatics']
-Academic 308,['Earth Systems and Environmental Sciences']
-Academic 309,['Engineering']
-Academic 310,"['Art and Design: History, Practice and Theory']"
-Academic 311,"['Agriculture, Food and Veterinary Sciences']"
-Academic 312,['History']
-Academic 313,['Economics and Econometrics']
-Academic 314,['Chemistry']
-Academic 315,['Anthropology and Development Studies']
-Academic 316,['Mathematical Sciences']
-Academic 317,"['Anthropology and Development Studies', 'Business and Management Studies']"
-Academic 318,['Modern Languages and Linguistics']
-Academic 319,['Economics and Econometrics']
-Academic 320,['Classics']
-Academic 321,['Politics and International Studies']
-Academic 322,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Social Work and Social Policy', 'Agriculture, Food and Veterinary Sciences', 'Archaeology']"
-Academic 323,"['Architecture, Built Environment and Planning']"
-Academic 324,"['History', 'Art and Design: History, Practice and Theory', 'Architecture, Built Environment and Planning']"
-Academic 325,['Business and Management Studies']
-Academic 326,"['Art and Design: History, Practice and Theory']"
-Academic 327,"['Art and Design: History, Practice and Theory']"
-Academic 328,['Economics and Econometrics']
-Academic 329,['Earth Systems and Environmental Sciences']
-Academic 330,['Economics and Econometrics']
-Academic 331,['English Language and Literature']
-Academic 332,['Chemistry']
-Academic 333,['Chemistry']
-Academic 334,['Geography and Environmental Studies']
-Academic 335,['Physics']
-Academic 336,"['Biological Sciences', 'Sociology']"
-Academic 337,['Area Studies']
-Academic 338,['Archaeology']
-Academic 339,['Anthropology and Development Studies']
-Academic 340,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 341,['Business and Management Studies']
-Academic 342,"['Agriculture, Food and Veterinary Sciences']"
-Academic 343,['Chemistry']
-Academic 344,"['Business and Management Studies', 'Economics and Econometrics', 'Art and Design: History, Practice and Theory']"
-Academic 345,['Law']
-Academic 346,"['Agriculture, Food and Veterinary Sciences']"
-Academic 347,"['Art and Design: History, Practice and Theory']"
-Academic 348,"['Public Health, Health Services and Primary Care', 'Law', 'Classics']"
-Academic 349,"['Agriculture, Food and Veterinary Sciences']"
-Academic 350,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 351,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 352,['Geography and Environmental Studies']
-Academic 353,['Archaeology']
-Academic 354,"['Architecture, Built Environment and Planning']"
-Academic 355,['Economics and Econometrics']
-Academic 356,"['Architecture, Built Environment and Planning']"
-Academic 357,"['Psychology, Psychiatry and Neuroscience']"
-Academic 358,"['Art and Design: History, Practice and Theory']"
-Academic 359,['Politics and International Studies']
-Academic 360,['Politics and International Studies']
-Academic 361,['Area Studies']
-Academic 362,['Engineering']
-Academic 363,['Computer Science and Informatics']
-Academic 364,['Physics']
-Academic 365,['Mathematical Sciences']
-Academic 366,"['Architecture, Built Environment and Planning']"
-Academic 367,['Education']
-Academic 368,"['Agriculture, Food and Veterinary Sciences']"
-Academic 369,"['Agriculture, Food and Veterinary Sciences']"
-Academic 370,['Earth Systems and Environmental Sciences']
-Academic 371,['Education']
-Academic 372,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 373,['Sociology']
-Academic 374,"['Clinical Medicine', 'English Language and Literature']"
-Academic 375,['Sociology']
-Academic 376,['Theology and Religious Studies']
-Academic 377,['Education']
-Academic 378,"['Art and Design: History, Practice and Theory']"
+Academic 305,['Area Studies']
+Academic 306,['Business and Management Studies']
+Academic 307,"['Psychology, Psychiatry and Neuroscience']"
+Academic 308,['Law']
+Academic 309,['Theology and Religious Studies']
+Academic 310,['Economics and Econometrics']
+Academic 311,['English Language and Literature']
+Academic 312,['Classics']
+Academic 313,['Classics']
+Academic 314,"['Public Health, Health Services and Primary Care']"
+Academic 315,"['Agriculture, Food and Veterinary Sciences']"
+Academic 316,['Anthropology and Development Studies']
+Academic 317,['English Language and Literature']
+Academic 318,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 319,['Politics and International Studies']
+Academic 320,['Politics and International Studies']
+Academic 321,['Mathematical Sciences']
+Academic 322,['Modern Languages and Linguistics']
+Academic 323,['Clinical Medicine']
+Academic 324,['Philosophy']
+Academic 325,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 326,['Area Studies']
+Academic 327,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 328,"['History', 'History', 'Sociology']"
+Academic 329,"['Agriculture, Food and Veterinary Sciences']"
+Academic 330,['English Language and Literature']
+Academic 331,['Physics']
+Academic 332,['Business and Management Studies']
+Academic 333,['Social Work and Social Policy']
+Academic 334,['Biological Sciences']
+Academic 335,['Area Studies']
+Academic 336,['Politics and International Studies']
+Academic 337,"['Art and Design: History, Practice and Theory']"
+Academic 338,['Earth Systems and Environmental Sciences']
+Academic 339,"['Architecture, Built Environment and Planning']"
+Academic 340,['Politics and International Studies']
+Academic 341,['Modern Languages and Linguistics']
+Academic 342,['Social Work and Social Policy']
+Academic 343,['Politics and International Studies']
+Academic 344,"['Psychology, Psychiatry and Neuroscience']"
+Academic 345,['Area Studies']
+Academic 346,"['Architecture, Built Environment and Planning']"
+Academic 347,['Business and Management Studies']
+Academic 348,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 349,"['Psychology, Psychiatry and Neuroscience']"
+Academic 350,['Politics and International Studies']
+Academic 351,['Geography and Environmental Studies']
+Academic 352,['Sociology']
+Academic 353,['Engineering']
+Academic 354,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 355,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 356,['Biological Sciences']
+Academic 357,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 358,['Theology and Religious Studies']
+Academic 359,['History']
+Academic 360,"['Art and Design: History, Practice and Theory']"
+Academic 361,['Social Work and Social Policy']
+Academic 362,"['Economics and Econometrics', 'Philosophy', 'Sociology', 'Art and Design: History, Practice and Theory']"
+Academic 363,"['Psychology, Psychiatry and Neuroscience']"
+Academic 364,['Social Work and Social Policy']
+Academic 365,['Geography and Environmental Studies']
+Academic 366,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 367,"['Art and Design: History, Practice and Theory']"
+Academic 368,['English Language and Literature']
+Academic 369,['Chemistry']
+Academic 370,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 371,"['Earth Systems and Environmental Sciences', 'Education', 'Classics']"
+Academic 372,['Computer Science and Informatics']
+Academic 373,['Social Work and Social Policy']
+Academic 374,['Biological Sciences']
+Academic 375,"['Architecture, Built Environment and Planning']"
+Academic 376,['Education']
+Academic 377,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 378,['Social Work and Social Policy']
 Academic 379,['Earth Systems and Environmental Sciences']
-Academic 380,['Engineering']
-Academic 381,"['Theology and Religious Studies', 'Archaeology']"
-Academic 382,['Archaeology']
-Academic 383,['Biological Sciences']
-Academic 384,"['Art and Design: History, Practice and Theory']"
-Academic 385,"['Psychology, Psychiatry and Neuroscience']"
-Academic 386,['Social Work and Social Policy']
-Academic 387,"['Agriculture, Food and Veterinary Sciences', 'Anthropology and Development Studies', 'Geography and Environmental Studies']"
-Academic 388,['Economics and Econometrics']
-Academic 389,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 390,['Engineering']
-Academic 391,['Earth Systems and Environmental Sciences']
-Academic 392,['Physics']
-Academic 393,['Area Studies']
-Academic 394,['Earth Systems and Environmental Sciences']
-Academic 395,['Area Studies']
-Academic 396,"['Biological Sciences', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 397,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Theology and Religious Studies']"
-Academic 398,['English Language and Literature']
-Academic 399,['Physics']
-Academic 400,['Modern Languages and Linguistics']
-Academic 401,['Geography and Environmental Studies']
-Academic 402,['Anthropology and Development Studies']
-Academic 403,['Chemistry']
-Academic 404,"['Clinical Medicine', 'Art and Design: History, Practice and Theory']"
-Academic 405,['Anthropology and Development Studies']
-Academic 406,['Biological Sciences']
-Academic 407,['Biological Sciences']
-Academic 408,"['Psychology, Psychiatry and Neuroscience']"
-Academic 409,['Education']
-Academic 410,['Biological Sciences']
-Academic 411,['English Language and Literature']
-Academic 412,['Modern Languages and Linguistics']
-Academic 413,['Modern Languages and Linguistics']
-Academic 414,['Sociology']
-Academic 415,['Modern Languages and Linguistics']
-Academic 416,"['Public Health, Health Services and Primary Care']"
-Academic 417,['Clinical Medicine']
-Academic 418,"['Art and Design: History, Practice and Theory']"
-Academic 419,['Economics and Econometrics']
-Academic 420,['Clinical Medicine']
-Academic 421,['Sociology']
-Academic 422,['English Language and Literature']
-Academic 423,['Clinical Medicine']
-Academic 424,"['Art and Design: History, Practice and Theory']"
-Academic 425,['Politics and International Studies']
-Academic 426,['Law']
-Academic 427,['Physics']
-Academic 428,['Clinical Medicine']
-Academic 429,['Clinical Medicine']
-Academic 430,['Computer Science and Informatics']
-Academic 431,"['Psychology, Psychiatry and Neuroscience']"
-Academic 432,['Area Studies']
-Academic 433,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 434,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 435,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 436,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 437,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 438,['Mathematical Sciences']
-Academic 439,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 440,['Biological Sciences']
-Academic 441,['Anthropology and Development Studies']
-Academic 442,['Philosophy']
-Academic 443,['Area Studies']
-Academic 444,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 445,['Modern Languages and Linguistics']
-Academic 446,['Archaeology']
-Academic 447,['Economics and Econometrics']
-Academic 448,['Social Work and Social Policy']
-Academic 449,['Earth Systems and Environmental Sciences']
-Academic 450,['Modern Languages and Linguistics']
-Academic 451,"['Art and Design: History, Practice and Theory']"
-Academic 452,"['Architecture, Built Environment and Planning']"
-Academic 453,['Politics and International Studies']
-Academic 454,"['Psychology, Psychiatry and Neuroscience']"
-Academic 455,['Physics']
-Academic 456,['Archaeology']
-Academic 457,"['Architecture, Built Environment and Planning']"
-Academic 458,"['Public Health, Health Services and Primary Care']"
-Academic 459,"['Geography and Environmental Studies', 'Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 460,"['Physics', 'Classics']"
-Academic 461,['Chemistry']
-Academic 462,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 463,['Geography and Environmental Studies']
-Academic 464,['Anthropology and Development Studies']
-Academic 465,['Area Studies']
-Academic 466,['Law']
-Academic 467,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 468,['English Language and Literature']
-Academic 469,"['Chemistry', 'Anthropology and Development Studies']"
-Academic 470,"['Agriculture, Food and Veterinary Sciences', 'Chemistry']"
-Academic 471,['Engineering']
-Academic 472,['Archaeology']
-Academic 473,['Earth Systems and Environmental Sciences']
-Academic 474,['Social Work and Social Policy']
-Academic 475,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 476,"['Agriculture, Food and Veterinary Sciences']"
-Academic 477,['Earth Systems and Environmental Sciences']
-Academic 478,['Archaeology']
-Academic 479,['Mathematical Sciences']
-Academic 480,['Area Studies']
-Academic 481,['Philosophy']
-Academic 482,['Chemistry']
-Academic 483,['Earth Systems and Environmental Sciences']
-Academic 484,['Economics and Econometrics']
-Academic 485,['Geography and Environmental Studies']
-Academic 486,"['Architecture, Built Environment and Planning']"
-Academic 487,['Theology and Religious Studies']
-Academic 488,"['Public Health, Health Services and Primary Care']"
-Academic 489,['Politics and International Studies']
-Academic 490,"['Public Health, Health Services and Primary Care']"
-Academic 491,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 492,"['Education', 'Politics and International Studies']"
-Academic 493,['Engineering']
-Academic 494,['Economics and Econometrics']
-Academic 495,['Biological Sciences']
-Academic 496,['English Language and Literature']
-Academic 497,"['Architecture, Built Environment and Planning', 'Economics and Econometrics']"
-Academic 498,['Computer Science and Informatics']
-Academic 499,['Classics']
-Academic 500,['Chemistry']
-Academic 501,"['Architecture, Built Environment and Planning']"
-Academic 502,['Engineering']
-Academic 503,['Biological Sciences']
-Academic 504,['Economics and Econometrics']
-Academic 505,['Chemistry']
-Academic 506,['Classics']
-Academic 507,"['Philosophy', 'Art and Design: History, Practice and Theory', 'Modern Languages and Linguistics', 'Mathematical Sciences']"
-Academic 508,['Chemistry']
-Academic 509,['Chemistry']
-Academic 510,['Sociology']
-Academic 511,['Chemistry']
-Academic 512,['Computer Science and Informatics']
-Academic 513,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 514,['Politics and International Studies']
-Academic 515,"['Agriculture, Food and Veterinary Sciences']"
-Academic 516,['Clinical Medicine']
-Academic 517,"['Sociology', 'Education']"
-Academic 518,['Politics and International Studies']
+Academic 380,"['Architecture, Built Environment and Planning']"
+Academic 381,['Earth Systems and Environmental Sciences']
+Academic 382,['Biological Sciences']
+Academic 383,['Chemistry']
+Academic 384,['Computer Science and Informatics']
+Academic 385,['Theology and Religious Studies']
+Academic 386,['History']
+Academic 387,['Chemistry']
+Academic 388,['Business and Management Studies']
+Academic 389,['Engineering']
+Academic 390,['Earth Systems and Environmental Sciences']
+Academic 391,['Classics']
+Academic 392,['Politics and International Studies']
+Academic 393,['English Language and Literature']
+Academic 394,['Archaeology']
+Academic 395,['Philosophy']
+Academic 396,['Social Work and Social Policy']
+Academic 397,['History']
+Academic 398,"['Physics', 'Earth Systems and Environmental Sciences', 'Agriculture, Food and Veterinary Sciences']"
+Academic 399,['Social Work and Social Policy']
+Academic 400,['Education']
+Academic 401,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 402,"['Agriculture, Food and Veterinary Sciences']"
+Academic 403,['Classics']
+Academic 404,['Physics']
+Academic 405,['Physics']
+Academic 406,['Geography and Environmental Studies']
+Academic 407,"['Public Health, Health Services and Primary Care']"
+Academic 408,['Business and Management Studies']
+Academic 409,"['Agriculture, Food and Veterinary Sciences']"
+Academic 410,['Computer Science and Informatics']
+Academic 411,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 412,['Philosophy']
+Academic 413,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 414,"['Classics', 'Archaeology', 'Social Work and Social Policy']"
+Academic 415,['Computer Science and Informatics']
+Academic 416,['Engineering']
+Academic 417,['Politics and International Studies']
+Academic 418,['Modern Languages and Linguistics']
+Academic 419,['Clinical Medicine']
+Academic 420,"['Philosophy', 'Archaeology']"
+Academic 421,['History']
+Academic 422,['Computer Science and Informatics']
+Academic 423,['Social Work and Social Policy']
+Academic 424,"['Psychology, Psychiatry and Neuroscience']"
+Academic 425,"['Classics', 'Sociology']"
+Academic 426,['Geography and Environmental Studies']
+Academic 427,['Archaeology']
+Academic 428,['Computer Science and Informatics']
+Academic 429,"['Art and Design: History, Practice and Theory']"
+Academic 430,"['Modern Languages and Linguistics', 'Chemistry']"
+Academic 431,['Theology and Religious Studies']
+Academic 432,['Mathematical Sciences']
+Academic 433,"['Clinical Medicine', 'Business and Management Studies', 'Public Health, Health Services and Primary Care']"
+Academic 434,['Politics and International Studies']
+Academic 435,['Business and Management Studies']
+Academic 436,['Politics and International Studies']
+Academic 437,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 438,"['Sociology', 'Social Work and Social Policy', 'Anthropology and Development Studies']"
+Academic 439,['Archaeology']
+Academic 440,['Business and Management Studies']
+Academic 441,['Computer Science and Informatics']
+Academic 442,['Law']
+Academic 443,['English Language and Literature']
+Academic 444,['Education']
+Academic 445,"['Agriculture, Food and Veterinary Sciences']"
+Academic 446,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 447,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 448,['Clinical Medicine']
+Academic 449,['Computer Science and Informatics']
+Academic 450,['Theology and Religious Studies']
+Academic 451,['Earth Systems and Environmental Sciences']
+Academic 452,['Philosophy']
+Academic 453,"['Public Health, Health Services and Primary Care']"
+Academic 454,"['Architecture, Built Environment and Planning', 'Philosophy']"
+Academic 455,['Mathematical Sciences']
+Academic 456,"['Public Health, Health Services and Primary Care']"
+Academic 457,['Biological Sciences']
+Academic 458,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 459,"['Philosophy', 'Area Studies', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 460,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 461,"['Architecture, Built Environment and Planning']"
+Academic 462,['Theology and Religious Studies']
+Academic 463,['Area Studies']
+Academic 464,"['Agriculture, Food and Veterinary Sciences']"
+Academic 465,['Classics']
+Academic 466,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 467,"['Psychology, Psychiatry and Neuroscience']"
+Academic 468,['Education']
+Academic 469,['Anthropology and Development Studies']
+Academic 470,"['Agriculture, Food and Veterinary Sciences']"
+Academic 471,['Sociology']
+Academic 472,"['Art and Design: History, Practice and Theory']"
+Academic 473,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 474,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 475,['Sociology']
+Academic 476,['Geography and Environmental Studies']
+Academic 477,"['Engineering', 'Social Work and Social Policy']"
+Academic 478,"['Art and Design: History, Practice and Theory']"
+Academic 479,['Archaeology']
+Academic 480,['Philosophy']
+Academic 481,"['Agriculture, Food and Veterinary Sciences']"
+Academic 482,"['Art and Design: History, Practice and Theory']"
+Academic 483,['Chemistry']
+Academic 484,['Physics']
+Academic 485,"['Agriculture, Food and Veterinary Sciences']"
+Academic 486,['Classics']
+Academic 487,['Philosophy']
+Academic 488,['Computer Science and Informatics']
+Academic 489,['Modern Languages and Linguistics']
+Academic 490,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 491,['Classics']
+Academic 492,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 493,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 494,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 495,['Computer Science and Informatics']
+Academic 496,['Computer Science and Informatics']
+Academic 497,"['Architecture, Built Environment and Planning']"
+Academic 498,['Clinical Medicine']
+Academic 499,"['Earth Systems and Environmental Sciences', 'Earth Systems and Environmental Sciences']"
+Academic 500,['History']
+Academic 501,['Physics']
+Academic 502,"['Art and Design: History, Practice and Theory']"
+Academic 503,"['Computer Science and Informatics', 'Sociology', 'Classics']"
+Academic 504,['Chemistry']
+Academic 505,['Philosophy']
+Academic 506,['Sociology']
+Academic 507,['Education']
+Academic 508,['English Language and Literature']
+Academic 509,['Law']
+Academic 510,['Anthropology and Development Studies']
+Academic 511,['Law']
+Academic 512,['Engineering']
+Academic 513,"['Agriculture, Food and Veterinary Sciences']"
+Academic 514,['Anthropology and Development Studies']
+Academic 515,['Philosophy']
+Academic 516,['Anthropology and Development Studies']
+Academic 517,['Anthropology and Development Studies']
+Academic 518,['Economics and Econometrics']
 Academic 519,['Physics']
-Academic 520,['Economics and Econometrics']
-Academic 521,['Theology and Religious Studies']
-Academic 522,['Sociology']
-Academic 523,['Chemistry']
-Academic 524,['Politics and International Studies']
-Academic 525,['Biological Sciences']
-Academic 526,['Biological Sciences']
-Academic 527,['Archaeology']
-Academic 528,"['Classics', 'Classics']"
-Academic 529,['Geography and Environmental Studies']
-Academic 530,['Modern Languages and Linguistics']
-Academic 531,"['Economics and Econometrics', 'Classics']"
-Academic 532,['Politics and International Studies']
-Academic 533,['Physics']
-Academic 534,['Mathematical Sciences']
-Academic 535,['Social Work and Social Policy']
-Academic 536,['Clinical Medicine']
-Academic 537,"['Agriculture, Food and Veterinary Sciences']"
-Academic 538,['Classics']
-Academic 539,['Philosophy']
-Academic 540,['Business and Management Studies']
-Academic 541,"['Philosophy', 'Classics']"
-Academic 542,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 543,['Physics']
-Academic 544,['Biological Sciences']
-Academic 545,['Earth Systems and Environmental Sciences']
-Academic 546,['Physics']
+Academic 520,['Computer Science and Informatics']
+Academic 521,['Earth Systems and Environmental Sciences']
+Academic 522,['Mathematical Sciences']
+Academic 523,"['Modern Languages and Linguistics', 'Engineering']"
+Academic 524,['Social Work and Social Policy']
+Academic 525,['Modern Languages and Linguistics']
+Academic 526,['Philosophy']
+Academic 527,['Engineering']
+Academic 528,['Mathematical Sciences']
+Academic 529,['Area Studies']
+Academic 530,"['Public Health, Health Services and Primary Care', 'Mathematical Sciences', 'Philosophy']"
+Academic 531,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 532,['Chemistry']
+Academic 533,['Business and Management Studies']
+Academic 534,['Physics']
+Academic 535,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 536,['Business and Management Studies']
+Academic 537,['Classics']
+Academic 538,['English Language and Literature']
+Academic 539,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 540,['Earth Systems and Environmental Sciences']
+Academic 541,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 542,"['Public Health, Health Services and Primary Care']"
+Academic 543,"['Architecture, Built Environment and Planning']"
+Academic 544,['Geography and Environmental Studies']
+Academic 545,['Law']
+Academic 546,['Biological Sciences']
 Academic 547,['Law']
 Academic 548,['Geography and Environmental Studies']
-Academic 549,"['Communication, Cultural and Media Studies, Library and Information Management', 'Business and Management Studies']"
-Academic 550,['Law']
-Academic 551,['Earth Systems and Environmental Sciences']
-Academic 552,['Earth Systems and Environmental Sciences']
-Academic 553,['Sociology']
-Academic 554,['Law']
-Academic 555,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Chemistry', 'Law']"
-Academic 556,['Mathematical Sciences']
-Academic 557,"['Architecture, Built Environment and Planning']"
-Academic 558,['Chemistry']
-Academic 559,['Archaeology']
-Academic 560,['Earth Systems and Environmental Sciences']
-Academic 561,['Anthropology and Development Studies']
-Academic 562,['Sociology']
-Academic 563,['Area Studies']
-Academic 564,['Earth Systems and Environmental Sciences']
-Academic 565,['Area Studies']
-Academic 566,['Social Work and Social Policy']
-Academic 567,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 568,['Education']
-Academic 569,['Earth Systems and Environmental Sciences']
-Academic 570,"['Public Health, Health Services and Primary Care']"
-Academic 571,['Sociology']
-Academic 572,['Modern Languages and Linguistics']
-Academic 573,['English Language and Literature']
-Academic 574,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 575,"['Computer Science and Informatics', 'Sociology', 'Physics', 'Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 576,['Biological Sciences']
-Academic 577,['Modern Languages and Linguistics']
-Academic 578,['Earth Systems and Environmental Sciences']
-Academic 579,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 580,['Biological Sciences']
-Academic 581,['Physics']
-Academic 582,['Classics']
-Academic 583,"['Art and Design: History, Practice and Theory', 'Law']"
-Academic 584,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 585,['Theology and Religious Studies']
-Academic 586,['Biological Sciences']
-Academic 587,['Area Studies']
-Academic 588,"['Psychology, Psychiatry and Neuroscience']"
-Academic 589,['Chemistry']
-Academic 590,['Engineering']
-Academic 591,"['Agriculture, Food and Veterinary Sciences']"
-Academic 592,['History']
-Academic 593,['Economics and Econometrics']
-Academic 594,['Theology and Religious Studies']
-Academic 595,['Physics']
-Academic 596,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 597,['Clinical Medicine']
-Academic 598,['Classics']
-Academic 599,"['Art and Design: History, Practice and Theory', 'Geography and Environmental Studies']"
-Academic 600,['Business and Management Studies']
-Academic 601,['Politics and International Studies']
-Academic 602,['Education']
-Academic 603,['Social Work and Social Policy']
-Academic 604,['Mathematical Sciences']
-Academic 605,['Physics']
-Academic 606,['Chemistry']
-Academic 607,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 608,['Engineering']
-Academic 609,['Mathematical Sciences']
-Academic 610,['Earth Systems and Environmental Sciences']
-Academic 611,['Archaeology']
-Academic 612,['Clinical Medicine']
-Academic 613,['Philosophy']
-Academic 614,"['Agriculture, Food and Veterinary Sciences']"
-Academic 615,"['Public Health, Health Services and Primary Care']"
-Academic 616,['Biological Sciences']
-Academic 617,['Philosophy']
-Academic 618,['Clinical Medicine']
-Academic 619,['Mathematical Sciences']
-Academic 620,['History']
-Academic 621,"['Sociology', 'Art and Design: History, Practice and Theory', 'Area Studies', 'Art and Design: History, Practice and Theory']"
-Academic 622,['Education']
-Academic 623,['Law']
-Academic 624,['Modern Languages and Linguistics']
-Academic 625,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 626,['Area Studies']
-Academic 627,"['Modern Languages and Linguistics', 'Education']"
-Academic 628,['Earth Systems and Environmental Sciences']
-Academic 629,['Theology and Religious Studies']
-Academic 630,['Chemistry']
-Academic 631,"['Architecture, Built Environment and Planning']"
-Academic 632,['Politics and International Studies']
-Academic 633,['Education']
-Academic 634,['Economics and Econometrics']
-Academic 635,"['Modern Languages and Linguistics', 'Economics and Econometrics']"
-Academic 636,['Economics and Econometrics']
-Academic 637,['Area Studies']
-Academic 638,['Clinical Medicine']
-Academic 639,['Archaeology']
-Academic 640,['Clinical Medicine']
-Academic 641,['English Language and Literature']
-Academic 642,['Anthropology and Development Studies']
-Academic 643,"['Modern Languages and Linguistics', 'Anthropology and Development Studies', 'Theology and Religious Studies', 'Classics']"
-Academic 644,['Area Studies']
+Academic 549,['Classics']
+Academic 550,['Mathematical Sciences']
+Academic 551,['History']
+Academic 552,['Politics and International Studies']
+Academic 553,['Business and Management Studies']
+Academic 554,"['Earth Systems and Environmental Sciences', 'Anthropology and Development Studies', 'Biological Sciences', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 555,"['Public Health, Health Services and Primary Care']"
+Academic 556,"['Architecture, Built Environment and Planning']"
+Academic 557,"['Psychology, Psychiatry and Neuroscience']"
+Academic 558,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 559,['Earth Systems and Environmental Sciences']
+Academic 560,['Philosophy']
+Academic 561,['Classics']
+Academic 562,['Mathematical Sciences']
+Academic 563,['Clinical Medicine']
+Academic 564,"['Physics', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 565,"['Agriculture, Food and Veterinary Sciences']"
+Academic 566,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 567,['Law']
+Academic 568,['Physics']
+Academic 569,['Engineering']
+Academic 570,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 571,['Law']
+Academic 572,"['Public Health, Health Services and Primary Care']"
+Academic 573,"['Architecture, Built Environment and Planning']"
+Academic 574,['Area Studies']
+Academic 575,['English Language and Literature']
+Academic 576,['Computer Science and Informatics']
+Academic 577,['Business and Management Studies']
+Academic 578,['Theology and Religious Studies']
+Academic 579,['Theology and Religious Studies']
+Academic 580,"['Biological Sciences', 'Engineering', 'Law']"
+Academic 581,"['Art and Design: History, Practice and Theory']"
+Academic 582,['Engineering']
+Academic 583,"['Biological Sciences', 'Chemistry', 'Earth Systems and Environmental Sciences']"
+Academic 584,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 585,"['Law', 'Politics and International Studies']"
+Academic 586,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 587,['Modern Languages and Linguistics']
+Academic 588,"['Architecture, Built Environment and Planning']"
+Academic 589,['Social Work and Social Policy']
+Academic 590,"['Art and Design: History, Practice and Theory']"
+Academic 591,"['Architecture, Built Environment and Planning']"
+Academic 592,['Economics and Econometrics']
+Academic 593,['Earth Systems and Environmental Sciences']
+Academic 594,"['Agriculture, Food and Veterinary Sciences']"
+Academic 595,['Earth Systems and Environmental Sciences']
+Academic 596,['Anthropology and Development Studies']
+Academic 597,['Mathematical Sciences']
+Academic 598,['Archaeology']
+Academic 599,"['Agriculture, Food and Veterinary Sciences']"
+Academic 600,['Anthropology and Development Studies']
+Academic 601,['Classics']
+Academic 602,"['Public Health, Health Services and Primary Care']"
+Academic 603,['Education']
+Academic 604,['Law']
+Academic 605,['Chemistry']
+Academic 606,['Theology and Religious Studies']
+Academic 607,"['Architecture, Built Environment and Planning']"
+Academic 608,"['Art and Design: History, Practice and Theory']"
+Academic 609,['Computer Science and Informatics']
+Academic 610,"['Psychology, Psychiatry and Neuroscience']"
+Academic 611,['Classics']
+Academic 612,"['Art and Design: History, Practice and Theory']"
+Academic 613,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 614,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 615,['Social Work and Social Policy']
+Academic 616,"['Archaeology', 'Clinical Medicine', 'Engineering']"
+Academic 617,"['Philosophy', 'Economics and Econometrics', 'Politics and International Studies', 'Engineering']"
+Academic 618,['English Language and Literature']
+Academic 619,['Theology and Religious Studies']
+Academic 620,['Mathematical Sciences']
+Academic 621,['Modern Languages and Linguistics']
+Academic 622,['Anthropology and Development Studies']
+Academic 623,['Theology and Religious Studies']
+Academic 624,['Engineering']
+Academic 625,['Politics and International Studies']
+Academic 626,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Social Work and Social Policy']"
+Academic 627,['Modern Languages and Linguistics']
+Academic 628,['Economics and Econometrics']
+Academic 629,['Physics']
+Academic 630,['Sociology']
+Academic 631,['Biological Sciences']
+Academic 632,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 633,['Sociology']
+Academic 634,['Business and Management Studies']
+Academic 635,['English Language and Literature']
+Academic 636,['Sociology']
+Academic 637,"['Psychology, Psychiatry and Neuroscience']"
+Academic 638,['Economics and Econometrics']
+Academic 639,['Chemistry']
+Academic 640,"['Public Health, Health Services and Primary Care']"
+Academic 641,['Area Studies']
+Academic 642,"['Architecture, Built Environment and Planning']"
+Academic 643,['Classics']
+Academic 644,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
 Academic 645,['Politics and International Studies']
-Academic 646,"['Agriculture, Food and Veterinary Sciences']"
-Academic 647,['Education']
-Academic 648,['Area Studies']
-Academic 649,"['Communication, Cultural and Media Studies, Library and Information Management', 'Physics']"
-Academic 650,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 651,['Law']
-Academic 652,['Anthropology and Development Studies']
-Academic 653,['Theology and Religious Studies']
-Academic 654,['Theology and Religious Studies']
-Academic 655,"['Communication, Cultural and Media Studies, Library and Information Management', 'Sociology']"
-Academic 656,['Law']
-Academic 657,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 658,['Education']
-Academic 659,['Modern Languages and Linguistics']
-Academic 660,"['Agriculture, Food and Veterinary Sciences']"
-Academic 661,['Engineering']
-Academic 662,['Theology and Religious Studies']
-Academic 663,"['Mathematical Sciences', 'Social Work and Social Policy', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 664,"['Architecture, Built Environment and Planning']"
-Academic 665,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 666,['Geography and Environmental Studies']
-Academic 667,['Chemistry']
-Academic 668,['Sociology']
-Academic 669,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 670,"['Art and Design: History, Practice and Theory']"
-Academic 671,['Sociology']
-Academic 672,['Physics']
-Academic 673,['Business and Management Studies']
-Academic 674,"['Architecture, Built Environment and Planning']"
-Academic 675,['Law']
-Academic 676,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 677,"['Communication, Cultural and Media Studies, Library and Information Management', 'Sociology', 'Education']"
+Academic 646,['Archaeology']
+Academic 647,['Sociology']
+Academic 648,['History']
+Academic 649,['Physics']
+Academic 650,['Philosophy']
+Academic 651,['Economics and Econometrics']
+Academic 652,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 653,['Chemistry']
+Academic 654,"['Business and Management Studies', 'Theology and Religious Studies', 'Social Work and Social Policy']"
+Academic 655,['Physics']
+Academic 656,['Theology and Religious Studies']
+Academic 657,"['Economics and Econometrics', 'Physics', 'Agriculture, Food and Veterinary Sciences']"
+Academic 658,['Area Studies']
+Academic 659,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 660,"['Modern Languages and Linguistics', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 661,['Business and Management Studies']
+Academic 662,"['Psychology, Psychiatry and Neuroscience']"
+Academic 663,['Area Studies']
+Academic 664,['Philosophy']
+Academic 665,['Mathematical Sciences']
+Academic 666,"['Architecture, Built Environment and Planning']"
+Academic 667,['Education']
+Academic 668,['Social Work and Social Policy']
+Academic 669,['Geography and Environmental Studies']
+Academic 670,['Computer Science and Informatics']
+Academic 671,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 672,"['Sociology', 'Politics and International Studies', 'Mathematical Sciences', 'Earth Systems and Environmental Sciences']"
+Academic 673,['Economics and Econometrics']
+Academic 674,['Economics and Econometrics']
+Academic 675,['Engineering']
+Academic 676,['Politics and International Studies']
+Academic 677,['Earth Systems and Environmental Sciences']
 Academic 678,['History']
-Academic 679,"['Agriculture, Food and Veterinary Sciences']"
-Academic 680,['Clinical Medicine']
-Academic 681,['Politics and International Studies']
-Academic 682,['Sociology']
-Academic 683,"['Agriculture, Food and Veterinary Sciences']"
-Academic 684,['Area Studies']
-Academic 685,['Engineering']
-Academic 686,['Law']
-Academic 687,"['Psychology, Psychiatry and Neuroscience']"
-Academic 688,['Law']
-Academic 689,"['Modern Languages and Linguistics', 'Chemistry']"
-Academic 690,['Physics']
-Academic 691,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 692,['Geography and Environmental Studies']
-Academic 693,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 694,['Philosophy']
-Academic 695,['Biological Sciences']
-Academic 696,['Education']
-Academic 697,"['Law', 'English Language and Literature']"
-Academic 698,['Sociology']
-Academic 699,['Physics']
-Academic 700,['Geography and Environmental Studies']
-Academic 701,"['Public Health, Health Services and Primary Care']"
-Academic 702,['Social Work and Social Policy']
-Academic 703,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Public Health, Health Services and Primary Care']"
-Academic 704,"['Psychology, Psychiatry and Neuroscience']"
-Academic 705,['History']
-Academic 706,['Anthropology and Development Studies']
-Academic 707,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 708,['History']
-Academic 709,['Modern Languages and Linguistics']
-Academic 710,['English Language and Literature']
-Academic 711,['Physics']
+Academic 679,['History']
+Academic 680,['Chemistry']
+Academic 681,"['Agriculture, Food and Veterinary Sciences']"
+Academic 682,['History']
+Academic 683,['Classics']
+Academic 684,['Philosophy']
+Academic 685,['Anthropology and Development Studies']
+Academic 686,['Classics']
+Academic 687,['Anthropology and Development Studies']
+Academic 688,['Classics']
+Academic 689,"['Clinical Medicine', 'Politics and International Studies']"
+Academic 690,['Clinical Medicine']
+Academic 691,['Politics and International Studies']
+Academic 692,['Earth Systems and Environmental Sciences']
+Academic 693,"['Public Health, Health Services and Primary Care']"
+Academic 694,"['Biological Sciences', 'Communication, Cultural and Media Studies, Library and Information Management', 'Computer Science and Informatics']"
+Academic 695,"['Architecture, Built Environment and Planning']"
+Academic 696,"['Architecture, Built Environment and Planning']"
+Academic 697,['Business and Management Studies']
+Academic 698,['Physics']
+Academic 699,['Law']
+Academic 700,['Physics']
+Academic 701,['Law']
+Academic 702,"['Public Health, Health Services and Primary Care']"
+Academic 703,['Theology and Religious Studies']
+Academic 704,"['Agriculture, Food and Veterinary Sciences']"
+Academic 705,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 706,"['Public Health, Health Services and Primary Care']"
+Academic 707,['Area Studies']
+Academic 708,['Education']
+Academic 709,['Earth Systems and Environmental Sciences']
+Academic 710,['Clinical Medicine']
+Academic 711,"['Sport and Exercise Sciences, Leisure and Tourism', 'Clinical Medicine']"
 Academic 712,['Business and Management Studies']
-Academic 713,['Chemistry']
-Academic 714,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 715,['Chemistry']
-Academic 716,['Physics']
-Academic 717,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 718,['Engineering']
-Academic 719,"['Law', 'Law']"
-Academic 720,['Physics']
-Academic 721,['Economics and Econometrics']
-Academic 722,"['Agriculture, Food and Veterinary Sciences']"
-Academic 723,['Archaeology']
-Academic 724,['Clinical Medicine']
-Academic 725,['Anthropology and Development Studies']
-Academic 726,['Classics']
-Academic 727,['Geography and Environmental Studies']
-Academic 728,['Mathematical Sciences']
-Academic 729,['Business and Management Studies']
-Academic 730,['Classics']
-Academic 731,"['Mathematical Sciences', 'Law']"
-Academic 732,['History']
-Academic 733,['Earth Systems and Environmental Sciences']
-Academic 734,['Anthropology and Development Studies']
-Academic 735,['Business and Management Studies']
-Academic 736,['Sociology']
-Academic 737,"['Art and Design: History, Practice and Theory']"
-Academic 738,['Engineering']
-Academic 739,['Physics']
-Academic 740,"['Art and Design: History, Practice and Theory']"
-Academic 741,['Politics and International Studies']
-Academic 742,['Area Studies']
-Academic 743,['Sociology']
-Academic 744,"['Mathematical Sciences', 'Earth Systems and Environmental Sciences', 'Politics and International Studies', 'Archaeology']"
-Academic 745,['Modern Languages and Linguistics']
-Academic 746,['Mathematical Sciences']
-Academic 747,"['Agriculture, Food and Veterinary Sciences']"
-Academic 748,['Chemistry']
+Academic 713,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 714,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 715,['Social Work and Social Policy']
+Academic 716,['Education']
+Academic 717,['Social Work and Social Policy']
+Academic 718,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 719,"['Public Health, Health Services and Primary Care']"
+Academic 720,"['Sociology', 'Biological Sciences']"
+Academic 721,"['Psychology, Psychiatry and Neuroscience']"
+Academic 722,['Politics and International Studies']
+Academic 723,['Business and Management Studies']
+Academic 724,['Physics']
+Academic 725,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 726,"['Public Health, Health Services and Primary Care']"
+Academic 727,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 728,"['Art and Design: History, Practice and Theory']"
+Academic 729,"['Art and Design: History, Practice and Theory']"
+Academic 730,['Politics and International Studies']
+Academic 731,['Biological Sciences']
+Academic 732,['Earth Systems and Environmental Sciences']
+Academic 733,['Theology and Religious Studies']
+Academic 734,['Geography and Environmental Studies']
+Academic 735,['Chemistry']
+Academic 736,['Anthropology and Development Studies']
+Academic 737,['Classics']
+Academic 738,['Area Studies']
+Academic 739,['English Language and Literature']
+Academic 740,['Physics']
+Academic 741,"['Sociology', 'Computer Science and Informatics']"
+Academic 742,['Clinical Medicine']
+Academic 743,['History']
+Academic 744,['Archaeology']
+Academic 745,"['Psychology, Psychiatry and Neuroscience']"
+Academic 746,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 747,['Computer Science and Informatics']
+Academic 748,['Theology and Religious Studies']
 Academic 749,"['Public Health, Health Services and Primary Care']"
-Academic 750,"['Computer Science and Informatics', 'Philosophy']"
-Academic 751,['Philosophy']
-Academic 752,['Politics and International Studies']
-Academic 753,['Sociology']
-Academic 754,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 755,['Modern Languages and Linguistics']
-Academic 756,['Modern Languages and Linguistics']
-Academic 757,['English Language and Literature']
-Academic 758,['Social Work and Social Policy']
-Academic 759,['Business and Management Studies']
-Academic 760,"['Archaeology', 'Social Work and Social Policy']"
-Academic 761,['Education']
-Academic 762,['Chemistry']
-Academic 763,"['Anthropology and Development Studies', 'Business and Management Studies']"
-Academic 764,['Politics and International Studies']
-Academic 765,['Classics']
-Academic 766,['Education']
-Academic 767,['Area Studies']
-Academic 768,['Engineering']
+Academic 750,['Business and Management Studies']
+Academic 751,['Anthropology and Development Studies']
+Academic 752,"['Psychology, Psychiatry and Neuroscience']"
+Academic 753,"['Architecture, Built Environment and Planning']"
+Academic 754,['History']
+Academic 755,"['Economics and Econometrics', 'Engineering', 'Education', 'Earth Systems and Environmental Sciences']"
+Academic 756,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 757,['Business and Management Studies']
+Academic 758,['Anthropology and Development Studies']
+Academic 759,['Law']
+Academic 760,['Modern Languages and Linguistics']
+Academic 761,['Area Studies']
+Academic 762,['Engineering']
+Academic 763,"['Business and Management Studies', 'Biological Sciences']"
+Academic 764,['Economics and Econometrics']
+Academic 765,['English Language and Literature']
+Academic 766,['Clinical Medicine']
+Academic 767,"['Public Health, Health Services and Primary Care']"
+Academic 768,['Geography and Environmental Studies']
 Academic 769,['Politics and International Studies']
-Academic 770,['Social Work and Social Policy']
-Academic 771,['Biological Sciences']
-Academic 772,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Physics']"
+Academic 770,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 771,['Engineering']
+Academic 772,['Philosophy']
 Academic 773,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 774,['Modern Languages and Linguistics']
-Academic 775,"['Law', 'Psychology, Psychiatry and Neuroscience', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 776,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 777,['Social Work and Social Policy']
-Academic 778,"['Art and Design: History, Practice and Theory']"
-Academic 779,['Engineering']
-Academic 780,"['Art and Design: History, Practice and Theory']"
-Academic 781,['Business and Management Studies']
-Academic 782,['Classics']
-Academic 783,['Archaeology']
-Academic 784,['Classics']
-Academic 785,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 786,['Archaeology']
-Academic 787,['Physics']
-Academic 788,['Education']
-Academic 789,['Philosophy']
-Academic 790,['Classics']
-Academic 791,['Engineering']
-Academic 792,"['Psychology, Psychiatry and Neuroscience']"
-Academic 793,['Area Studies']
-Academic 794,['Business and Management Studies']
-Academic 795,['English Language and Literature']
-Academic 796,['Mathematical Sciences']
-Academic 797,['History']
-Academic 798,['Politics and International Studies']
-Academic 799,['Classics']
-Academic 800,['Clinical Medicine']
-Academic 801,"['Art and Design: History, Practice and Theory', 'Politics and International Studies', 'English Language and Literature', 'Education']"
-Academic 802,['Earth Systems and Environmental Sciences']
-Academic 803,['History']
-Academic 804,"['Art and Design: History, Practice and Theory']"
-Academic 805,['Engineering']
-Academic 806,['Computer Science and Informatics']
-Academic 807,['Mathematical Sciences']
-Academic 808,['Economics and Econometrics']
-Academic 809,['Geography and Environmental Studies']
-Academic 810,['Business and Management Studies']
-Academic 811,"['Agriculture, Food and Veterinary Sciences']"
-Academic 812,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 813,"['Archaeology', 'Education', 'Economics and Econometrics']"
-Academic 814,"['Law', 'Chemistry']"
+Academic 774,['Chemistry']
+Academic 775,['Engineering']
+Academic 776,['Computer Science and Informatics']
+Academic 777,['Education']
+Academic 778,['Education']
+Academic 779,"['Psychology, Psychiatry and Neuroscience']"
+Academic 780,"['Agriculture, Food and Veterinary Sciences']"
+Academic 781,['Computer Science and Informatics']
+Academic 782,['Theology and Religious Studies']
+Academic 783,['Engineering']
+Academic 784,['Mathematical Sciences']
+Academic 785,['Sociology']
+Academic 786,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 787,['Theology and Religious Studies']
+Academic 788,"['Architecture, Built Environment and Planning']"
+Academic 789,['Earth Systems and Environmental Sciences']
+Academic 790,['Anthropology and Development Studies']
+Academic 791,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 792,"['Earth Systems and Environmental Sciences', 'Biological Sciences']"
+Academic 793,['Business and Management Studies']
+Academic 794,['Modern Languages and Linguistics']
+Academic 795,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 796,['Chemistry']
+Academic 797,"['Agriculture, Food and Veterinary Sciences']"
+Academic 798,"['Architecture, Built Environment and Planning']"
+Academic 799,"['Public Health, Health Services and Primary Care']"
+Academic 800,['Anthropology and Development Studies']
+Academic 801,['Politics and International Studies']
+Academic 802,['Biological Sciences']
+Academic 803,['Area Studies']
+Academic 804,['Economics and Econometrics']
+Academic 805,"['Earth Systems and Environmental Sciences', 'Art and Design: History, Practice and Theory']"
+Academic 806,"['Public Health, Health Services and Primary Care']"
+Academic 807,['Theology and Religious Studies']
+Academic 808,['Anthropology and Development Studies']
+Academic 809,['Theology and Religious Studies']
+Academic 810,"['Architecture, Built Environment and Planning']"
+Academic 811,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 812,['Law']
+Academic 813,"['Psychology, Psychiatry and Neuroscience']"
+Academic 814,['Law']
 Academic 815,['Politics and International Studies']
-Academic 816,"['Communication, Cultural and Media Studies, Library and Information Management', 'Anthropology and Development Studies']"
-Academic 817,['Sociology']
-Academic 818,['Theology and Religious Studies']
-Academic 819,['Physics']
-Academic 820,['Chemistry']
-Academic 821,['Chemistry']
-Academic 822,['Politics and International Studies']
-Academic 823,['History']
-Academic 824,['Business and Management Studies']
-Academic 825,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 826,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 827,['Education']
-Academic 828,"['Architecture, Built Environment and Planning', 'Philosophy']"
-Academic 829,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 830,['Philosophy']
-Academic 831,"['Psychology, Psychiatry and Neuroscience']"
-Academic 832,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 833,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 834,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 835,"['Art and Design: History, Practice and Theory']"
-Academic 836,['Engineering']
-Academic 837,['Business and Management Studies']
-Academic 838,['Anthropology and Development Studies']
-Academic 839,['Social Work and Social Policy']
-Academic 840,['Theology and Religious Studies']
-Academic 841,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 842,['Social Work and Social Policy']
-Academic 843,['Economics and Econometrics']
-Academic 844,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 845,['Politics and International Studies']
-Academic 846,['Sociology']
-Academic 847,['English Language and Literature']
-Academic 848,['English Language and Literature']
-Academic 849,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Physics', 'History', 'Architecture, Built Environment and Planning']"
-Academic 850,['Anthropology and Development Studies']
-Academic 851,['Education']
-Academic 852,['Geography and Environmental Studies']
-Academic 853,['English Language and Literature']
-Academic 854,['Clinical Medicine']
-Academic 855,['Business and Management Studies']
-Academic 856,['Archaeology']
-Academic 857,"['Psychology, Psychiatry and Neuroscience']"
-Academic 858,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 859,['History']
-Academic 860,['History']
-Academic 861,['Biological Sciences']
-Academic 862,['Computer Science and Informatics']
-Academic 863,['Education']
-Academic 864,['Classics']
-Academic 865,['Anthropology and Development Studies']
-Academic 866,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 867,"['Art and Design: History, Practice and Theory']"
-Academic 868,['Geography and Environmental Studies']
-Academic 869,['Biological Sciences']
-Academic 870,"['Engineering', 'Geography and Environmental Studies']"
-Academic 871,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 872,"['Law', 'Area Studies', 'Archaeology', 'Archaeology']"
-Academic 873,['Computer Science and Informatics']
-Academic 874,['Mathematical Sciences']
+Academic 816,['Modern Languages and Linguistics']
+Academic 817,"['Psychology, Psychiatry and Neuroscience']"
+Academic 818,['Physics']
+Academic 819,['Politics and International Studies']
+Academic 820,"['Education', 'Modern Languages and Linguistics', 'Social Work and Social Policy']"
+Academic 821,['Geography and Environmental Studies']
+Academic 822,['Biological Sciences']
+Academic 823,['Chemistry']
+Academic 824,"['Communication, Cultural and Media Studies, Library and Information Management', 'Geography and Environmental Studies', 'Modern Languages and Linguistics', 'Business and Management Studies']"
+Academic 825,"['Sport and Exercise Sciences, Leisure and Tourism', 'Chemistry']"
+Academic 826,['Mathematical Sciences']
+Academic 827,['Chemistry']
+Academic 828,['Chemistry']
+Academic 829,"['Agriculture, Food and Veterinary Sciences']"
+Academic 830,"['Art and Design: History, Practice and Theory', 'Economics and Econometrics']"
+Academic 831,['Biological Sciences']
+Academic 832,['Earth Systems and Environmental Sciences']
+Academic 833,['Clinical Medicine']
+Academic 834,['Sociology']
+Academic 835,['Archaeology']
+Academic 836,['Mathematical Sciences']
+Academic 837,['Classics']
+Academic 838,['Physics']
+Academic 839,['Classics']
+Academic 840,['Politics and International Studies']
+Academic 841,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 842,['Anthropology and Development Studies']
+Academic 843,"['Public Health, Health Services and Primary Care', 'Architecture, Built Environment and Planning', 'Biological Sciences']"
+Academic 844,['Archaeology']
+Academic 845,['Biological Sciences']
+Academic 846,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 847,"['Biological Sciences', 'Chemistry', 'Modern Languages and Linguistics', 'Agriculture, Food and Veterinary Sciences']"
+Academic 848,"['Physics', 'English Language and Literature', 'Clinical Medicine']"
+Academic 849,['Classics']
+Academic 850,['Computer Science and Informatics']
+Academic 851,"['Sociology', 'Psychology, Psychiatry and Neuroscience', 'Politics and International Studies', 'Economics and Econometrics']"
+Academic 852,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 853,['Business and Management Studies']
+Academic 854,['Archaeology']
+Academic 855,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 856,['Politics and International Studies']
+Academic 857,['Archaeology']
+Academic 858,['Archaeology']
+Academic 859,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 860,['Sociology']
+Academic 861,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Social Work and Social Policy', 'Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 862,['Education']
+Academic 863,['Clinical Medicine']
+Academic 864,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 865,['Theology and Religious Studies']
+Academic 866,['Business and Management Studies']
+Academic 867,['Earth Systems and Environmental Sciences']
+Academic 868,['Sociology']
+Academic 869,['Physics']
+Academic 870,['Law']
+Academic 871,['Sociology']
+Academic 872,['English Language and Literature']
+Academic 873,"['Architecture, Built Environment and Planning']"
+Academic 874,"['Agriculture, Food and Veterinary Sciences']"
 Academic 875,['Law']
-Academic 876,['Classics']
-Academic 877,"['Psychology, Psychiatry and Neuroscience']"
-Academic 878,['Philosophy']
-Academic 879,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 880,['Computer Science and Informatics']
-Academic 881,['Biological Sciences']
-Academic 882,['Computer Science and Informatics']
-Academic 883,"['Biological Sciences', 'Geography and Environmental Studies', 'Politics and International Studies', 'Politics and International Studies']"
-Academic 884,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 885,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 886,['Classics']
-Academic 887,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 888,['Biological Sciences']
-Academic 889,['Computer Science and Informatics']
-Academic 890,['Philosophy']
-Academic 891,['Archaeology']
-Academic 892,['Engineering']
-Academic 893,"['Law', 'Engineering', 'Art and Design: History, Practice and Theory', 'Area Studies']"
-Academic 894,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 895,"['Engineering', 'Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 896,['Economics and Econometrics']
+Academic 876,"['Politics and International Studies', 'Physics', 'Chemistry']"
+Academic 877,['Modern Languages and Linguistics']
+Academic 878,['Biological Sciences']
+Academic 879,"['English Language and Literature', 'Education']"
+Academic 880,['Anthropology and Development Studies']
+Academic 881,['Education']
+Academic 882,"['Agriculture, Food and Veterinary Sciences']"
+Academic 883,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 884,"['History', 'Area Studies']"
+Academic 885,['History']
+Academic 886,"['Anthropology and Development Studies', 'Anthropology and Development Studies']"
+Academic 887,['Business and Management Studies']
+Academic 888,['Area Studies']
+Academic 889,['Law']
+Academic 890,"['Theology and Religious Studies', 'Modern Languages and Linguistics']"
+Academic 891,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 892,['Education']
+Academic 893,['Clinical Medicine']
+Academic 894,"['Psychology, Psychiatry and Neuroscience']"
+Academic 895,['Economics and Econometrics']
+Academic 896,['Social Work and Social Policy']
 Academic 897,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 898,['Physics']
-Academic 899,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 900,"['Agriculture, Food and Veterinary Sciences']"
-Academic 901,['Modern Languages and Linguistics']
-Academic 902,['Clinical Medicine']
-Academic 903,['Clinical Medicine']
-Academic 904,['Education']
-Academic 905,['Classics']
+Academic 898,['Theology and Religious Studies']
+Academic 899,['Physics']
+Academic 900,"['Architecture, Built Environment and Planning']"
+Academic 901,['History']
+Academic 902,['Education']
+Academic 903,['Archaeology']
+Academic 904,['Archaeology']
+Academic 905,['Education']
 Academic 906,['Archaeology']
-Academic 907,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 908,['Law']
-Academic 909,['Philosophy']
-Academic 910,['Chemistry']
-Academic 911,['English Language and Literature']
-Academic 912,['Earth Systems and Environmental Sciences']
-Academic 913,['Sociology']
-Academic 914,['Education']
-Academic 915,"['Public Health, Health Services and Primary Care']"
-Academic 916,['Anthropology and Development Studies']
-Academic 917,"['Public Health, Health Services and Primary Care']"
-Academic 918,['Engineering']
-Academic 919,['Social Work and Social Policy']
-Academic 920,['Theology and Religious Studies']
-Academic 921,['English Language and Literature']
-Academic 922,"['History', 'History', 'Geography and Environmental Studies', 'History']"
-Academic 923,['Economics and Econometrics']
-Academic 924,['Anthropology and Development Studies']
-Academic 925,['Education']
-Academic 926,['Business and Management Studies']
-Academic 927,['Mathematical Sciences']
-Academic 928,['Education']
-Academic 929,['Business and Management Studies']
-Academic 930,['Physics']
-Academic 931,['Geography and Environmental Studies']
-Academic 932,"['Public Health, Health Services and Primary Care']"
-Academic 933,['English Language and Literature']
-Academic 934,"['Computer Science and Informatics', 'Geography and Environmental Studies']"
-Academic 935,['Modern Languages and Linguistics']
-Academic 936,"['Agriculture, Food and Veterinary Sciences']"
-Academic 937,['Sociology']
-Academic 938,"['Law', 'Sport and Exercise Sciences, Leisure and Tourism', 'Geography and Environmental Studies']"
-Academic 939,['Earth Systems and Environmental Sciences']
-Academic 940,['Earth Systems and Environmental Sciences']
-Academic 941,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 942,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 943,['History']
-Academic 944,['Politics and International Studies']
-Academic 945,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 946,['Politics and International Studies']
-Academic 947,['History']
-Academic 948,"['Geography and Environmental Studies', 'Architecture, Built Environment and Planning']"
-Academic 949,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 950,['Anthropology and Development Studies']
-Academic 951,['Modern Languages and Linguistics']
-Academic 952,"['Chemistry', 'Public Health, Health Services and Primary Care', 'Area Studies']"
-Academic 953,['Politics and International Studies']
-Academic 954,"['Politics and International Studies', 'Modern Languages and Linguistics', 'Engineering']"
-Academic 955,['Engineering']
-Academic 956,['Politics and International Studies']
-Academic 957,['Chemistry']
-Academic 958,['Computer Science and Informatics']
-Academic 959,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 960,['Anthropology and Development Studies']
-Academic 961,"['Public Health, Health Services and Primary Care']"
-Academic 962,['Physics']
-Academic 963,['Classics']
-Academic 964,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 965,"['Public Health, Health Services and Primary Care']"
-Academic 966,['Education']
-Academic 967,['Modern Languages and Linguistics']
-Academic 968,['History']
-Academic 969,['Anthropology and Development Studies']
-Academic 970,['Sociology']
-Academic 971,['Mathematical Sciences']
-Academic 972,['Area Studies']
-Academic 973,"['Politics and International Studies', 'Agriculture, Food and Veterinary Sciences', 'Philosophy', 'Agriculture, Food and Veterinary Sciences']"
-Academic 974,['Chemistry']
-Academic 975,"['Public Health, Health Services and Primary Care']"
-Academic 976,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 977,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 978,['Philosophy']
-Academic 979,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 907,['Archaeology']
+Academic 908,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 909,['Anthropology and Development Studies']
+Academic 910,['Politics and International Studies']
+Academic 911,['Area Studies']
+Academic 912,['Computer Science and Informatics']
+Academic 913,['Engineering']
+Academic 914,['Anthropology and Development Studies']
+Academic 915,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 916,['Economics and Econometrics']
+Academic 917,"['Agriculture, Food and Veterinary Sciences']"
+Academic 918,['Clinical Medicine']
+Academic 919,['Education']
+Academic 920,['Social Work and Social Policy']
+Academic 921,['Area Studies']
+Academic 922,['Archaeology']
+Academic 923,['Biological Sciences']
+Academic 924,['Modern Languages and Linguistics']
+Academic 925,"['Philosophy', 'Earth Systems and Environmental Sciences']"
+Academic 926,['Sociology']
+Academic 927,['Clinical Medicine']
+Academic 928,['Physics']
+Academic 929,['Philosophy']
+Academic 930,['Sociology']
+Academic 931,['Clinical Medicine']
+Academic 932,['Education']
+Academic 933,['Law']
+Academic 934,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 935,['Law']
+Academic 936,"['Philosophy', 'Engineering']"
+Academic 937,['Business and Management Studies']
+Academic 938,"['Business and Management Studies', 'Theology and Religious Studies', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 939,['Politics and International Studies']
+Academic 940,['Biological Sciences']
+Academic 941,"['Art and Design: History, Practice and Theory', 'Computer Science and Informatics', 'Area Studies']"
+Academic 942,['History']
+Academic 943,"['Politics and International Studies', 'Public Health, Health Services and Primary Care']"
+Academic 944,['Area Studies']
+Academic 945,['Archaeology']
+Academic 946,['Archaeology']
+Academic 947,['Politics and International Studies']
+Academic 948,"['History', 'Engineering', 'Computer Science and Informatics', 'Social Work and Social Policy']"
+Academic 949,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 950,['Modern Languages and Linguistics']
+Academic 951,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 952,['Business and Management Studies']
+Academic 953,"['Chemistry', 'Physics']"
+Academic 954,['Sociology']
+Academic 955,"['Psychology, Psychiatry and Neuroscience']"
+Academic 956,"['Physics', 'Communication, Cultural and Media Studies, Library and Information Management', 'Sociology']"
+Academic 957,['Physics']
+Academic 958,['Social Work and Social Policy']
+Academic 959,"['Public Health, Health Services and Primary Care']"
+Academic 960,['Earth Systems and Environmental Sciences']
+Academic 961,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 962,"['Agriculture, Food and Veterinary Sciences']"
+Academic 963,['Archaeology']
+Academic 964,['Biological Sciences']
+Academic 965,['Chemistry']
+Academic 966,['Social Work and Social Policy']
+Academic 967,['Archaeology']
+Academic 968,"['Public Health, Health Services and Primary Care']"
+Academic 969,['Education']
+Academic 970,['Clinical Medicine']
+Academic 971,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 972,['Politics and International Studies']
+Academic 973,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 974,"['History', 'Earth Systems and Environmental Sciences']"
+Academic 975,"['Art and Design: History, Practice and Theory']"
+Academic 976,"['Mathematical Sciences', 'Sociology', 'Social Work and Social Policy', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 977,['Geography and Environmental Studies']
+Academic 978,['Theology and Religious Studies']
+Academic 979,['Earth Systems and Environmental Sciences']
 Academic 980,['Anthropology and Development Studies']
-Academic 981,"['Area Studies', 'Psychology, Psychiatry and Neuroscience', 'Area Studies']"
-Academic 982,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 983,['Politics and International Studies']
-Academic 984,['English Language and Literature']
-Academic 985,['Clinical Medicine']
-Academic 986,['Chemistry']
-Academic 987,['Philosophy']
-Academic 988,['Sociology']
-Academic 989,['Area Studies']
-Academic 990,['Economics and Econometrics']
-Academic 991,['Law']
-Academic 992,['Economics and Econometrics']
-Academic 993,['Sociology']
-Academic 994,['Classics']
-Academic 995,['Business and Management Studies']
-Academic 996,['Computer Science and Informatics']
-Academic 997,"['Art and Design: History, Practice and Theory']"
-Academic 998,['Chemistry']
-Academic 999,"['Public Health, Health Services and Primary Care']"
-Academic 1000,['Chemistry']
-Academic 1001,['Geography and Environmental Studies']
-Academic 1002,['Biological Sciences']
-Academic 1003,"['Mathematical Sciences', 'English Language and Literature', 'Geography and Environmental Studies']"
-Academic 1004,['Area Studies']
-Academic 1005,['Computer Science and Informatics']
-Academic 1006,['Politics and International Studies']
-Academic 1007,['Engineering']
-Academic 1008,"['Physics', 'Mathematical Sciences']"
-Academic 1009,['Anthropology and Development Studies']
-Academic 1010,['History']
-Academic 1011,['Theology and Religious Studies']
-Academic 1012,['Education']
-Academic 1013,['Computer Science and Informatics']
-Academic 1014,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1015,['Economics and Econometrics']
-Academic 1016,['Sociology']
-Academic 1017,"['Public Health, Health Services and Primary Care']"
-Academic 1018,"['Public Health, Health Services and Primary Care']"
-Academic 1019,['Engineering']
-Academic 1020,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1021,['Computer Science and Informatics']
-Academic 1022,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1023,['Law']
-Academic 1024,"['Architecture, Built Environment and Planning']"
-Academic 1025,['Classics']
-Academic 1026,['Theology and Religious Studies']
-Academic 1027,"['Biological Sciences', 'Earth Systems and Environmental Sciences']"
-Academic 1028,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1029,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1030,"['Art and Design: History, Practice and Theory']"
-Academic 1031,['Archaeology']
-Academic 1032,['Sociology']
-Academic 1033,"['Sociology', 'Art and Design: History, Practice and Theory']"
-Academic 1034,['Modern Languages and Linguistics']
-Academic 1035,['Physics']
-Academic 1036,['English Language and Literature']
-Academic 1037,['English Language and Literature']
-Academic 1038,['Earth Systems and Environmental Sciences']
-Academic 1039,['Geography and Environmental Studies']
-Academic 1040,['Physics']
-Academic 1041,['Education']
-Academic 1042,"['Public Health, Health Services and Primary Care']"
-Academic 1043,['Computer Science and Informatics']
-Academic 1044,['Sociology']
-Academic 1045,['Clinical Medicine']
-Academic 1046,"['Architecture, Built Environment and Planning']"
-Academic 1047,['Chemistry']
-Academic 1048,"['Art and Design: History, Practice and Theory']"
-Academic 1049,['Law']
-Academic 1050,['Philosophy']
-Academic 1051,['Business and Management Studies']
-Academic 1052,"['Clinical Medicine', 'Physics', 'Agriculture, Food and Veterinary Sciences']"
-Academic 1053,['Earth Systems and Environmental Sciences']
-Academic 1054,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1055,['Anthropology and Development Studies']
-Academic 1056,['Biological Sciences']
-Academic 1057,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1058,"['Classics', 'Economics and Econometrics', 'Theology and Religious Studies']"
-Academic 1059,['Education']
-Academic 1060,['Physics']
-Academic 1061,['Business and Management Studies']
-Academic 1062,"['Art and Design: History, Practice and Theory', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1063,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1064,['Geography and Environmental Studies']
-Academic 1065,['Philosophy']
-Academic 1066,['Geography and Environmental Studies']
-Academic 1067,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1068,"['Architecture, Built Environment and Planning']"
-Academic 1069,['History']
-Academic 1070,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1071,['Anthropology and Development Studies']
-Academic 1072,['Modern Languages and Linguistics']
-Academic 1073,['Sociology']
-Academic 1074,['Geography and Environmental Studies']
-Academic 1075,['Business and Management Studies']
-Academic 1076,"['Public Health, Health Services and Primary Care']"
-Academic 1077,['English Language and Literature']
-Academic 1078,['Politics and International Studies']
-Academic 1079,['Chemistry']
-Academic 1080,['Archaeology']
+Academic 981,['Chemistry']
+Academic 982,['Archaeology']
+Academic 983,['Economics and Econometrics']
+Academic 984,['Politics and International Studies']
+Academic 985,['Modern Languages and Linguistics']
+Academic 986,['Biological Sciences']
+Academic 987,['Physics']
+Academic 988,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 989,['Archaeology']
+Academic 990,['History']
+Academic 991,['Politics and International Studies']
+Academic 992,['Geography and Environmental Studies']
+Academic 993,"['Public Health, Health Services and Primary Care']"
+Academic 994,['Politics and International Studies']
+Academic 995,['Anthropology and Development Studies']
+Academic 996,['Philosophy']
+Academic 997,['Mathematical Sciences']
+Academic 998,['Theology and Religious Studies']
+Academic 999,['Geography and Environmental Studies']
+Academic 1000,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1001,"['Sport and Exercise Sciences, Leisure and Tourism', 'Education', 'Theology and Religious Studies']"
+Academic 1002,['Earth Systems and Environmental Sciences']
+Academic 1003,['Clinical Medicine']
+Academic 1004,"['Geography and Environmental Studies', 'Modern Languages and Linguistics']"
+Academic 1005,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1006,['Computer Science and Informatics']
+Academic 1007,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Social Work and Social Policy']"
+Academic 1008,['Physics']
+Academic 1009,['Politics and International Studies']
+Academic 1010,['Modern Languages and Linguistics']
+Academic 1011,"['Public Health, Health Services and Primary Care']"
+Academic 1012,['Law']
+Academic 1013,['Earth Systems and Environmental Sciences']
+Academic 1014,['Area Studies']
+Academic 1015,['Earth Systems and Environmental Sciences']
+Academic 1016,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1017,['Classics']
+Academic 1018,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1019,['Geography and Environmental Studies']
+Academic 1020,['Law']
+Academic 1021,['Education']
+Academic 1022,['Social Work and Social Policy']
+Academic 1023,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1024,['Business and Management Studies']
+Academic 1025,['Physics']
+Academic 1026,['English Language and Literature']
+Academic 1027,['Modern Languages and Linguistics']
+Academic 1028,['Archaeology']
+Academic 1029,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1030,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1031,['English Language and Literature']
+Academic 1032,['Mathematical Sciences']
+Academic 1033,['Sociology']
+Academic 1034,['Education']
+Academic 1035,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1036,['Clinical Medicine']
+Academic 1037,['Chemistry']
+Academic 1038,['Mathematical Sciences']
+Academic 1039,['Economics and Econometrics']
+Academic 1040,['Theology and Religious Studies']
+Academic 1041,['Sociology']
+Academic 1042,"['Earth Systems and Environmental Sciences', 'Agriculture, Food and Veterinary Sciences']"
+Academic 1043,['Area Studies']
+Academic 1044,['Business and Management Studies']
+Academic 1045,['History']
+Academic 1046,['Modern Languages and Linguistics']
+Academic 1047,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1048,['Law']
+Academic 1049,['Modern Languages and Linguistics']
+Academic 1050,['Computer Science and Informatics']
+Academic 1051,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1052,['History']
+Academic 1053,"['Art and Design: History, Practice and Theory']"
+Academic 1054,"['Architecture, Built Environment and Planning']"
+Academic 1055,['Classics']
+Academic 1056,['Education']
+Academic 1057,['Education']
+Academic 1058,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1059,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1060,['Archaeology']
+Academic 1061,['Economics and Econometrics']
+Academic 1062,['Philosophy']
+Academic 1063,['Anthropology and Development Studies']
+Academic 1064,['Earth Systems and Environmental Sciences']
+Academic 1065,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1066,['Theology and Religious Studies']
+Academic 1067,['Social Work and Social Policy']
+Academic 1068,['Mathematical Sciences']
+Academic 1069,['Chemistry']
+Academic 1070,['Geography and Environmental Studies']
+Academic 1071,"['History', 'Modern Languages and Linguistics']"
+Academic 1072,['Economics and Econometrics']
+Academic 1073,['Clinical Medicine']
+Academic 1074,['Area Studies']
+Academic 1075,"['Public Health, Health Services and Primary Care']"
+Academic 1076,['Area Studies']
+Academic 1077,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1078,['Area Studies']
+Academic 1079,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1080,['Classics']
 Academic 1081,['Geography and Environmental Studies']
-Academic 1082,"['Sport and Exercise Sciences, Leisure and Tourism', 'Sociology', 'Economics and Econometrics']"
-Academic 1083,['Theology and Religious Studies']
-Academic 1084,['History']
-Academic 1085,"['Architecture, Built Environment and Planning']"
-Academic 1086,"['Architecture, Built Environment and Planning']"
-Academic 1087,"['Architecture, Built Environment and Planning']"
-Academic 1088,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1089,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1090,['Area Studies']
-Academic 1091,"['Modern Languages and Linguistics', 'Area Studies', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1092,['Social Work and Social Policy']
-Academic 1093,['Theology and Religious Studies']
-Academic 1094,['Geography and Environmental Studies']
-Academic 1095,"['Classics', 'Anthropology and Development Studies', 'Social Work and Social Policy']"
-Academic 1096,['Geography and Environmental Studies']
-Academic 1097,"['Agriculture, Food and Veterinary Sciences', 'Law']"
-Academic 1098,"['Anthropology and Development Studies', 'English Language and Literature', 'Area Studies']"
-Academic 1099,['Mathematical Sciences']
-Academic 1100,['English Language and Literature']
-Academic 1101,['Modern Languages and Linguistics']
-Academic 1102,['Engineering']
-Academic 1103,['Modern Languages and Linguistics']
-Academic 1104,['Clinical Medicine']
-Academic 1105,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1106,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1107,['Mathematical Sciences']
-Academic 1108,['Law']
+Academic 1082,['Archaeology']
+Academic 1083,"['Archaeology', 'Physics']"
+Academic 1084,"['Communication, Cultural and Media Studies, Library and Information Management', 'Business and Management Studies']"
+Academic 1085,['History']
+Academic 1086,['Clinical Medicine']
+Academic 1087,['Sociology']
+Academic 1088,['Mathematical Sciences']
+Academic 1089,['Business and Management Studies']
+Academic 1090,['Chemistry']
+Academic 1091,['Mathematical Sciences']
+Academic 1092,"['Architecture, Built Environment and Planning']"
+Academic 1093,['Physics']
+Academic 1094,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1095,['History']
+Academic 1096,"['Art and Design: History, Practice and Theory']"
+Academic 1097,"['English Language and Literature', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1098,['Modern Languages and Linguistics']
+Academic 1099,['English Language and Literature']
+Academic 1100,['Social Work and Social Policy']
+Academic 1101,['Mathematical Sciences']
+Academic 1102,['Biological Sciences']
+Academic 1103,['Sociology']
+Academic 1104,"['Art and Design: History, Practice and Theory']"
+Academic 1105,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1106,['Engineering']
+Academic 1107,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1108,['Modern Languages and Linguistics']
 Academic 1109,['Archaeology']
-Academic 1110,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1111,"['Public Health, Health Services and Primary Care']"
-Academic 1112,['Theology and Religious Studies']
-Academic 1113,"['Biological Sciences', 'Geography and Environmental Studies']"
-Academic 1114,"['Social Work and Social Policy', 'Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Art and Design: History, Practice and Theory']"
-Academic 1115,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1116,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1117,['Computer Science and Informatics']
-Academic 1118,['Politics and International Studies']
-Academic 1119,['Sociology']
-Academic 1120,['History']
-Academic 1121,"['History', 'Area Studies', 'Engineering']"
-Academic 1122,"['Architecture, Built Environment and Planning']"
+Academic 1110,['Archaeology']
+Academic 1111,['Area Studies']
+Academic 1112,['Earth Systems and Environmental Sciences']
+Academic 1113,['Archaeology']
+Academic 1114,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1115,['Computer Science and Informatics']
+Academic 1116,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1117,"['Philosophy', 'History', 'Archaeology', 'Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1118,['Computer Science and Informatics']
+Academic 1119,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1120,['Area Studies']
+Academic 1121,['Business and Management Studies']
+Academic 1122,"['Public Health, Health Services and Primary Care']"
 Academic 1123,['Biological Sciences']
-Academic 1124,['Modern Languages and Linguistics']
-Academic 1125,['Social Work and Social Policy']
-Academic 1126,['Law']
-Academic 1127,['Chemistry']
-Academic 1128,"['Art and Design: History, Practice and Theory', 'Computer Science and Informatics', 'Public Health, Health Services and Primary Care']"
-Academic 1129,['Politics and International Studies']
-Academic 1130,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1131,['Law']
-Academic 1132,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1133,['Clinical Medicine']
-Academic 1134,"['Art and Design: History, Practice and Theory']"
-Academic 1135,['Social Work and Social Policy']
-Academic 1136,"['Chemistry', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1137,['English Language and Literature']
-Academic 1138,['Classics']
-Academic 1139,['Area Studies']
+Academic 1124,['Politics and International Studies']
+Academic 1125,['Theology and Religious Studies']
+Academic 1126,['Physics']
+Academic 1127,['Theology and Religious Studies']
+Academic 1128,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1129,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1130,['Philosophy']
+Academic 1131,['Archaeology']
+Academic 1132,['Sociology']
+Academic 1133,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1134,['Philosophy']
+Academic 1135,['Classics']
+Academic 1136,['Philosophy']
+Academic 1137,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1138,['Chemistry']
+Academic 1139,['Modern Languages and Linguistics']
 Academic 1140,"['Architecture, Built Environment and Planning']"
-Academic 1141,['Philosophy']
-Academic 1142,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'History', 'Economics and Econometrics']"
-Academic 1143,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1144,['Modern Languages and Linguistics']
-Academic 1145,['English Language and Literature']
-Academic 1146,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1147,['History']
-Academic 1148,['Anthropology and Development Studies']
-Academic 1149,['English Language and Literature']
-Academic 1150,"['Modern Languages and Linguistics', 'Earth Systems and Environmental Sciences']"
-Academic 1151,['Education']
-Academic 1152,['Anthropology and Development Studies']
-Academic 1153,"['Art and Design: History, Practice and Theory']"
-Academic 1154,['Social Work and Social Policy']
-Academic 1155,['Archaeology']
-Academic 1156,['History']
-Academic 1157,['Sociology']
-Academic 1158,"['Archaeology', 'Sociology']"
-Academic 1159,['Theology and Religious Studies']
-Academic 1160,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1161,"['Earth Systems and Environmental Sciences', 'Earth Systems and Environmental Sciences']"
-Academic 1162,"['Architecture, Built Environment and Planning', 'Modern Languages and Linguistics', 'Classics', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1163,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1164,['Economics and Econometrics']
-Academic 1165,['Anthropology and Development Studies']
-Academic 1166,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1167,['Physics']
-Academic 1168,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1169,['Sociology']
-Academic 1170,['Archaeology']
-Academic 1171,['English Language and Literature']
-Academic 1172,"['Art and Design: History, Practice and Theory']"
-Academic 1173,['Biological Sciences']
+Academic 1141,"['Earth Systems and Environmental Sciences', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1142,"['Anthropology and Development Studies', 'Classics']"
+Academic 1143,['Theology and Religious Studies']
+Academic 1144,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1145,"['Public Health, Health Services and Primary Care']"
+Academic 1146,['Biological Sciences']
+Academic 1147,"['Politics and International Studies', 'Philosophy']"
+Academic 1148,['Geography and Environmental Studies']
+Academic 1149,['Education']
+Academic 1150,['Geography and Environmental Studies']
+Academic 1151,['Physics']
+Academic 1152,['Computer Science and Informatics']
+Academic 1153,['Modern Languages and Linguistics']
+Academic 1154,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1155,['Computer Science and Informatics']
+Academic 1156,"['Art and Design: History, Practice and Theory']"
+Academic 1157,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1158,['Computer Science and Informatics']
+Academic 1159,['Classics']
+Academic 1160,['Classics']
+Academic 1161,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1162,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1163,['Economics and Econometrics']
+Academic 1164,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1165,"['Architecture, Built Environment and Planning']"
+Academic 1166,"['Architecture, Built Environment and Planning']"
+Academic 1167,['Economics and Econometrics']
+Academic 1168,['Modern Languages and Linguistics']
+Academic 1169,['English Language and Literature']
+Academic 1170,"['Public Health, Health Services and Primary Care']"
+Academic 1171,['History']
+Academic 1172,['Biological Sciences']
+Academic 1173,['Politics and International Studies']
 Academic 1174,['English Language and Literature']
-Academic 1175,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1176,['Engineering']
-Academic 1177,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1178,['Mathematical Sciences']
-Academic 1179,['Earth Systems and Environmental Sciences']
-Academic 1180,['Physics']
-Academic 1181,['Engineering']
-Academic 1182,['Sociology']
-Academic 1183,['History']
-Academic 1184,['Philosophy']
-Academic 1185,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1186,['Computer Science and Informatics']
-Academic 1187,['Archaeology']
-Academic 1188,['Geography and Environmental Studies']
-Academic 1189,"['Architecture, Built Environment and Planning']"
-Academic 1190,['Education']
+Academic 1175,['Business and Management Studies']
+Academic 1176,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1177,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1178,['Economics and Econometrics']
+Academic 1179,['Social Work and Social Policy']
+Academic 1180,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1181,['Anthropology and Development Studies']
+Academic 1182,['Classics']
+Academic 1183,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1184,['Sociology']
+Academic 1185,['Sociology']
+Academic 1186,['Economics and Econometrics']
+Academic 1187,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1188,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1189,['Anthropology and Development Studies']
+Academic 1190,"['Mathematical Sciences', 'Economics and Econometrics']"
 Academic 1191,"['Art and Design: History, Practice and Theory']"
-Academic 1192,['Business and Management Studies']
-Academic 1193,['Business and Management Studies']
-Academic 1194,['Law']
-Academic 1195,['Business and Management Studies']
-Academic 1196,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1197,['Modern Languages and Linguistics']
-Academic 1198,['Classics']
-Academic 1199,['Modern Languages and Linguistics']
-Academic 1200,['Physics']
-Academic 1201,['Physics']
-Academic 1202,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1203,['Mathematical Sciences']
-Academic 1204,['Chemistry']
-Academic 1205,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1206,['Business and Management Studies']
-Academic 1207,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Archaeology']"
-Academic 1208,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1209,"['Public Health, Health Services and Primary Care', 'Geography and Environmental Studies']"
-Academic 1210,"['Modern Languages and Linguistics', 'Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1211,['Biological Sciences']
-Academic 1212,['Theology and Religious Studies']
-Academic 1213,['Engineering']
-Academic 1214,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1215,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1216,['Economics and Econometrics']
-Academic 1217,['Clinical Medicine']
-Academic 1218,['Law']
-Academic 1219,['Business and Management Studies']
-Academic 1220,['Sociology']
-Academic 1221,['Earth Systems and Environmental Sciences']
-Academic 1222,['Theology and Religious Studies']
-Academic 1223,['Economics and Econometrics']
-Academic 1224,['History']
-Academic 1225,['Engineering']
-Academic 1226,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1227,['Engineering']
-Academic 1228,['Theology and Religious Studies']
-Academic 1229,['Archaeology']
-Academic 1230,['Business and Management Studies']
-Academic 1231,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1232,['Biological Sciences']
-Academic 1233,"['Architecture, Built Environment and Planning']"
-Academic 1234,['Classics']
-Academic 1235,['Education']
-Academic 1236,['Classics']
-Academic 1237,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1238,['Physics']
-Academic 1239,['Philosophy']
-Academic 1240,"['Architecture, Built Environment and Planning', 'Geography and Environmental Studies']"
-Academic 1241,"['Classics', 'Computer Science and Informatics', 'Politics and International Studies', 'Architecture, Built Environment and Planning']"
-Academic 1242,"['Public Health, Health Services and Primary Care']"
-Academic 1243,['Economics and Econometrics']
-Academic 1244,['Economics and Econometrics']
-Academic 1245,['Area Studies']
-Academic 1246,['Geography and Environmental Studies']
-Academic 1247,['Anthropology and Development Studies']
-Academic 1248,['Social Work and Social Policy']
-Academic 1249,['History']
-Academic 1250,['Business and Management Studies']
-Academic 1251,['History']
-Academic 1252,"['History', 'Architecture, Built Environment and Planning']"
-Academic 1253,"['Architecture, Built Environment and Planning']"
-Academic 1254,['Clinical Medicine']
-Academic 1255,['Physics']
-Academic 1256,['Engineering']
-Academic 1257,['Law']
-Academic 1258,['History']
-Academic 1259,['Area Studies']
-Academic 1260,['Social Work and Social Policy']
-Academic 1261,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1262,['Anthropology and Development Studies']
-Academic 1263,"['Art and Design: History, Practice and Theory']"
-Academic 1264,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1265,['Social Work and Social Policy']
-Academic 1266,['Physics']
-Academic 1267,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1268,"['Art and Design: History, Practice and Theory']"
+Academic 1192,['Classics']
+Academic 1193,['Law']
+Academic 1194,['Engineering']
+Academic 1195,['Engineering']
+Academic 1196,['Geography and Environmental Studies']
+Academic 1197,['Archaeology']
+Academic 1198,"['Public Health, Health Services and Primary Care']"
+Academic 1199,['Physics']
+Academic 1200,['Engineering']
+Academic 1201,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1202,['History']
+Academic 1203,['History']
+Academic 1204,['Classics']
+Academic 1205,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1206,['Earth Systems and Environmental Sciences']
+Academic 1207,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1208,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1209,"['Chemistry', 'Biological Sciences', 'English Language and Literature']"
+Academic 1210,"['English Language and Literature', 'Politics and International Studies']"
+Academic 1211,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1212,"['Architecture, Built Environment and Planning']"
+Academic 1213,['Geography and Environmental Studies']
+Academic 1214,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1215,['Modern Languages and Linguistics']
+Academic 1216,['History']
+Academic 1217,['History']
+Academic 1218,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1219,['Archaeology']
+Academic 1220,['Area Studies']
+Academic 1221,['Clinical Medicine']
+Academic 1222,['Archaeology']
+Academic 1223,['Modern Languages and Linguistics']
+Academic 1224,"['Art and Design: History, Practice and Theory']"
+Academic 1225,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1226,['Modern Languages and Linguistics']
+Academic 1227,['Clinical Medicine']
+Academic 1228,['Earth Systems and Environmental Sciences']
+Academic 1229,['Politics and International Studies']
+Academic 1230,['Theology and Religious Studies']
+Academic 1231,['Archaeology']
+Academic 1232,"['Art and Design: History, Practice and Theory']"
+Academic 1233,"['Architecture, Built Environment and Planning', 'Geography and Environmental Studies']"
+Academic 1234,"['Physics', 'Education']"
+Academic 1235,['Theology and Religious Studies']
+Academic 1236,"['Public Health, Health Services and Primary Care']"
+Academic 1237,"['Public Health, Health Services and Primary Care']"
+Academic 1238,['Philosophy']
+Academic 1239,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1240,['Law']
+Academic 1241,['Economics and Econometrics']
+Academic 1242,['English Language and Literature']
+Academic 1243,['Theology and Religious Studies']
+Academic 1244,['Chemistry']
+Academic 1245,"['Sociology', 'Mathematical Sciences']"
+Academic 1246,['Education']
+Academic 1247,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1248,['English Language and Literature']
+Academic 1249,['Physics']
+Academic 1250,['Sociology']
+Academic 1251,"['Agriculture, Food and Veterinary Sciences', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1252,['Education']
+Academic 1253,['History']
+Academic 1254,"['Area Studies', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1255,['Modern Languages and Linguistics']
+Academic 1256,['Physics']
+Academic 1257,['Earth Systems and Environmental Sciences']
+Academic 1258,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1259,['Classics']
+Academic 1260,"['English Language and Literature', 'Agriculture, Food and Veterinary Sciences']"
+Academic 1261,['Area Studies']
+Academic 1262,['Social Work and Social Policy']
+Academic 1263,['English Language and Literature']
+Academic 1264,['Philosophy']
+Academic 1265,"['Art and Design: History, Practice and Theory']"
+Academic 1266,"['Philosophy', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1267,"['Art and Design: History, Practice and Theory']"
+Academic 1268,['Earth Systems and Environmental Sciences']
 Academic 1269,['History']
-Academic 1270,"['Communication, Cultural and Media Studies, Library and Information Management', 'Social Work and Social Policy', 'Social Work and Social Policy']"
-Academic 1271,['Philosophy']
-Academic 1272,['Area Studies']
-Academic 1273,['Philosophy']
-Academic 1274,"['Theology and Religious Studies', 'Psychology, Psychiatry and Neuroscience', 'Psychology, Psychiatry and Neuroscience']"
-Academic 1275,['Modern Languages and Linguistics']
-Academic 1276,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1277,"['Classics', 'Public Health, Health Services and Primary Care', 'Archaeology', 'Law']"
-Academic 1278,['Biological Sciences']
-Academic 1279,['Economics and Econometrics']
-Academic 1280,['English Language and Literature']
-Academic 1281,['Geography and Environmental Studies']
-Academic 1282,['Biological Sciences']
-Academic 1283,['Archaeology']
-Academic 1284,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1285,['Archaeology']
-Academic 1286,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1287,['Area Studies']
-Academic 1288,['English Language and Literature']
-Academic 1289,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1290,['Geography and Environmental Studies']
-Academic 1291,"['Archaeology', 'Clinical Medicine']"
-Academic 1292,['English Language and Literature']
-Academic 1293,['Earth Systems and Environmental Sciences']
-Academic 1294,['Classics']
-Academic 1295,['Mathematical Sciences']
+Academic 1270,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1271,['Engineering']
+Academic 1272,"['Architecture, Built Environment and Planning']"
+Academic 1273,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1274,['Physics']
+Academic 1275,"['Architecture, Built Environment and Planning']"
+Academic 1276,"['Computer Science and Informatics', 'Public Health, Health Services and Primary Care', 'Sport and Exercise Sciences, Leisure and Tourism', 'Engineering']"
+Academic 1277,"['Communication, Cultural and Media Studies, Library and Information Management', 'Classics', 'Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Economics and Econometrics']"
+Academic 1278,['Theology and Religious Studies']
+Academic 1279,['Theology and Religious Studies']
+Academic 1280,['Philosophy']
+Academic 1281,"['Economics and Econometrics', 'Business and Management Studies']"
+Academic 1282,"['Engineering', 'Chemistry', 'Public Health, Health Services and Primary Care']"
+Academic 1283,"['Archaeology', 'Theology and Religious Studies']"
+Academic 1284,['Anthropology and Development Studies']
+Academic 1285,['Mathematical Sciences']
+Academic 1286,['Area Studies']
+Academic 1287,['Biological Sciences']
+Academic 1288,['Computer Science and Informatics']
+Academic 1289,"['Art and Design: History, Practice and Theory']"
+Academic 1290,['Mathematical Sciences']
+Academic 1291,['Politics and International Studies']
+Academic 1292,['Anthropology and Development Studies']
+Academic 1293,['Philosophy']
+Academic 1294,['Education']
+Academic 1295,['Computer Science and Informatics']
 Academic 1296,['Education']
-Academic 1297,['Philosophy']
-Academic 1298,['Classics']
-Academic 1299,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1300,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1301,['Theology and Religious Studies']
-Academic 1302,['Chemistry']
-Academic 1303,['Classics']
-Academic 1304,"['Sport and Exercise Sciences, Leisure and Tourism', 'Business and Management Studies']"
-Academic 1305,['Social Work and Social Policy']
-Academic 1306,"['Architecture, Built Environment and Planning']"
-Academic 1307,['English Language and Literature']
-Academic 1308,['Politics and International Studies']
-Academic 1309,['Physics']
-Academic 1310,['Geography and Environmental Studies']
-Academic 1311,"['Public Health, Health Services and Primary Care']"
+Academic 1297,['Social Work and Social Policy']
+Academic 1298,"['Law', 'Area Studies']"
+Academic 1299,"['History', 'Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1300,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1301,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1302,['Philosophy']
+Academic 1303,['Business and Management Studies']
+Academic 1304,['Anthropology and Development Studies']
+Academic 1305,['Area Studies']
+Academic 1306,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1307,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1308,['Area Studies']
+Academic 1309,['Economics and Econometrics']
+Academic 1310,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1311,['Area Studies']
 Academic 1312,['Chemistry']
-Academic 1313,['Engineering']
-Academic 1314,"['Public Health, Health Services and Primary Care']"
-Academic 1315,"['Computer Science and Informatics', 'Chemistry', 'Psychology, Psychiatry and Neuroscience']"
-Academic 1316,['English Language and Literature']
+Academic 1313,"['Geography and Environmental Studies', 'History', 'Agriculture, Food and Veterinary Sciences']"
+Academic 1314,['Economics and Econometrics']
+Academic 1315,['Education']
+Academic 1316,"['Sport and Exercise Sciences, Leisure and Tourism']"
 Academic 1317,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1318,['Physics']
-Academic 1319,['Physics']
-Academic 1320,['Sociology']
-Academic 1321,['Economics and Econometrics']
-Academic 1322,['Business and Management Studies']
-Academic 1323,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1324,['Education']
-Academic 1325,['Engineering']
-Academic 1326,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1327,['History']
-Academic 1328,['Archaeology']
-Academic 1329,['Engineering']
-Academic 1330,['Philosophy']
-Academic 1331,['Sociology']
-Academic 1332,"['Art and Design: History, Practice and Theory']"
-Academic 1333,"['Art and Design: History, Practice and Theory']"
-Academic 1334,"['Architecture, Built Environment and Planning', 'Politics and International Studies', 'Geography and Environmental Studies']"
-Academic 1335,"['Art and Design: History, Practice and Theory']"
-Academic 1336,['Chemistry']
-Academic 1337,"['English Language and Literature', 'Theology and Religious Studies']"
-Academic 1338,['Geography and Environmental Studies']
-Academic 1339,['Mathematical Sciences']
-Academic 1340,['Physics']
-Academic 1341,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1342,['Education']
-Academic 1343,"['Agriculture, Food and Veterinary Sciences', 'Biological Sciences', 'Engineering']"
-Academic 1344,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1345,"['Art and Design: History, Practice and Theory']"
-Academic 1346,"['Agriculture, Food and Veterinary Sciences', 'Psychology, Psychiatry and Neuroscience', 'Psychology, Psychiatry and Neuroscience']"
-Academic 1347,['History']
-Academic 1348,['Archaeology']
-Academic 1349,['Physics']
-Academic 1350,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1351,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1352,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1353,['Anthropology and Development Studies']
-Academic 1354,['Mathematical Sciences']
-Academic 1355,"['Business and Management Studies', 'Theology and Religious Studies']"
-Academic 1356,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1357,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1358,"['Anthropology and Development Studies', 'Earth Systems and Environmental Sciences']"
-Academic 1359,['Mathematical Sciences']
-Academic 1360,['Mathematical Sciences']
-Academic 1361,['English Language and Literature']
-Academic 1362,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1363,['Anthropology and Development Studies']
-Academic 1364,['Geography and Environmental Studies']
-Academic 1365,"['Philosophy', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1366,['Archaeology']
-Academic 1367,['Philosophy']
-Academic 1368,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1369,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1318,['Economics and Econometrics']
+Academic 1319,['Archaeology']
+Academic 1320,['Mathematical Sciences']
+Academic 1321,"['Public Health, Health Services and Primary Care']"
+Academic 1322,['Biological Sciences']
+Academic 1323,['Politics and International Studies']
+Academic 1324,"['Economics and Econometrics', 'Modern Languages and Linguistics', 'Earth Systems and Environmental Sciences']"
+Academic 1325,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1326,['Anthropology and Development Studies']
+Academic 1327,['Classics']
+Academic 1328,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1329,['Area Studies']
+Academic 1330,['Biological Sciences']
+Academic 1331,['Physics']
+Academic 1332,['Social Work and Social Policy']
+Academic 1333,['Physics']
+Academic 1334,['Biological Sciences']
+Academic 1335,['Law']
+Academic 1336,['Physics']
+Academic 1337,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1338,['Education']
+Academic 1339,['Archaeology']
+Academic 1340,['Computer Science and Informatics']
+Academic 1341,"['Art and Design: History, Practice and Theory']"
+Academic 1342,['Physics']
+Academic 1343,['Earth Systems and Environmental Sciences']
+Academic 1344,"['Business and Management Studies', 'Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1345,['Engineering']
+Academic 1346,['English Language and Literature']
+Academic 1347,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1348,['Social Work and Social Policy']
+Academic 1349,['Biological Sciences']
+Academic 1350,"['Chemistry', 'Biological Sciences', 'Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1351,['History']
+Academic 1352,"['Agriculture, Food and Veterinary Sciences', 'Area Studies']"
+Academic 1353,['Physics']
+Academic 1354,['Engineering']
+Academic 1355,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1356,['Mathematical Sciences']
+Academic 1357,['Area Studies']
+Academic 1358,['Business and Management Studies']
+Academic 1359,['Philosophy']
+Academic 1360,['Earth Systems and Environmental Sciences']
+Academic 1361,['Anthropology and Development Studies']
+Academic 1362,"['Economics and Econometrics', 'Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1363,['Education']
+Academic 1364,['Computer Science and Informatics']
+Academic 1365,['Modern Languages and Linguistics']
+Academic 1366,['Politics and International Studies']
+Academic 1367,['Sociology']
+Academic 1368,['Sociology']
+Academic 1369,"['Public Health, Health Services and Primary Care']"
 Academic 1370,['Computer Science and Informatics']
-Academic 1371,['Geography and Environmental Studies']
-Academic 1372,['Social Work and Social Policy']
-Academic 1373,['Geography and Environmental Studies']
-Academic 1374,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1375,"['Education', 'Art and Design: History, Practice and Theory']"
-Academic 1376,"['Architecture, Built Environment and Planning']"
-Academic 1377,['Sociology']
-Academic 1378,['Law']
-Academic 1379,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1380,['Politics and International Studies']
-Academic 1381,"['Education', 'Social Work and Social Policy']"
-Academic 1382,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1383,['Sociology']
-Academic 1384,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1385,"['Law', 'Sociology', 'Art and Design: History, Practice and Theory']"
-Academic 1386,"['Chemistry', 'Computer Science and Informatics', 'Sociology', 'Mathematical Sciences']"
-Academic 1387,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1388,['Economics and Econometrics']
-Academic 1389,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1390,['Computer Science and Informatics']
-Academic 1391,['Education']
-Academic 1392,['Classics']
-Academic 1393,['Social Work and Social Policy']
-Academic 1394,"['Art and Design: History, Practice and Theory']"
-Academic 1395,['Theology and Religious Studies']
-Academic 1396,['Biological Sciences']
-Academic 1397,['Archaeology']
-Academic 1398,['English Language and Literature']
-Academic 1399,['Social Work and Social Policy']
-Academic 1400,['Business and Management Studies']
-Academic 1401,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1402,"['Art and Design: History, Practice and Theory']"
-Academic 1403,['Biological Sciences']
-Academic 1404,['Classics']
-Academic 1405,"['Law', 'Architecture, Built Environment and Planning']"
-Academic 1406,"['Physics', 'Chemistry', 'Sociology', 'Chemistry']"
-Academic 1407,['Sociology']
-Academic 1408,['Geography and Environmental Studies']
-Academic 1409,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1410,['Theology and Religious Studies']
-Academic 1411,"['Economics and Econometrics', 'Chemistry', 'Classics']"
-Academic 1412,['Chemistry']
-Academic 1413,['Chemistry']
-Academic 1414,"['Area Studies', 'Psychology, Psychiatry and Neuroscience', 'Engineering']"
-Academic 1415,['Physics']
-Academic 1416,"['Sociology', 'Earth Systems and Environmental Sciences', 'Theology and Religious Studies']"
-Academic 1417,['Geography and Environmental Studies']
-Academic 1418,['Social Work and Social Policy']
-Academic 1419,['English Language and Literature']
-Academic 1420,['Education']
-Academic 1421,['Philosophy']
-Academic 1422,"['Public Health, Health Services and Primary Care']"
-Academic 1423,['Classics']
-Academic 1424,"['Art and Design: History, Practice and Theory']"
-Academic 1425,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1426,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'History', 'Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1427,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1428,['Clinical Medicine']
-Academic 1429,['Clinical Medicine']
-Academic 1430,"['Computer Science and Informatics', 'English Language and Literature', 'English Language and Literature']"
-Academic 1431,"['English Language and Literature', 'History']"
-Academic 1432,['Computer Science and Informatics']
-Academic 1433,"['Art and Design: History, Practice and Theory']"
-Academic 1434,['Earth Systems and Environmental Sciences']
-Academic 1435,['Sociology']
-Academic 1436,['Engineering']
-Academic 1437,['Philosophy']
-Academic 1438,['Education']
-Academic 1439,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1440,"['Architecture, Built Environment and Planning']"
-Academic 1441,['Archaeology']
-Academic 1442,['Computer Science and Informatics']
-Academic 1443,['Earth Systems and Environmental Sciences']
-Academic 1444,['Classics']
-Academic 1445,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Clinical Medicine', 'Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1446,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1447,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1448,['Classics']
-Academic 1449,['Education']
-Academic 1450,['Mathematical Sciences']
-Academic 1451,['Theology and Religious Studies']
-Academic 1452,['Philosophy']
-Academic 1453,['Archaeology']
-Academic 1454,['Business and Management Studies']
-Academic 1455,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1456,['Area Studies']
-Academic 1457,['Economics and Econometrics']
-Academic 1458,['History']
-Academic 1459,['Sociology']
-Academic 1460,"['Art and Design: History, Practice and Theory']"
-Academic 1461,['Politics and International Studies']
-Academic 1462,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1463,['Chemistry']
-Academic 1464,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1465,"['Public Health, Health Services and Primary Care']"
-Academic 1466,['Chemistry']
-Academic 1467,['Sociology']
-Academic 1468,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1469,['Sociology']
-Academic 1470,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1471,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1472,"['Anthropology and Development Studies', 'Area Studies']"
-Academic 1473,['Business and Management Studies']
-Academic 1474,['Area Studies']
-Academic 1475,['Anthropology and Development Studies']
-Academic 1476,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1477,"['Public Health, Health Services and Primary Care']"
-Academic 1478,"['Agriculture, Food and Veterinary Sciences', 'Communication, Cultural and Media Studies, Library and Information Management', 'Theology and Religious Studies', 'Business and Management Studies']"
-Academic 1479,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1480,['Archaeology']
-Academic 1481,"['Classics', 'Education']"
-Academic 1482,['Education']
-Academic 1483,['English Language and Literature']
-Academic 1484,['Philosophy']
-Academic 1485,['Mathematical Sciences']
-Academic 1486,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1487,"['Art and Design: History, Practice and Theory']"
-Academic 1488,"['Agriculture, Food and Veterinary Sciences', 'Classics', 'Computer Science and Informatics', 'Physics']"
-Academic 1489,['Law']
-Academic 1490,['Politics and International Studies']
-Academic 1491,"['Architecture, Built Environment and Planning']"
-Academic 1492,['Physics']
-Academic 1493,['Economics and Econometrics']
-Academic 1494,['Physics']
-Academic 1495,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1496,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1497,['Philosophy']
-Academic 1498,['Earth Systems and Environmental Sciences']
-Academic 1499,['Theology and Religious Studies']
-Academic 1500,['Biological Sciences']
-Academic 1501,['Philosophy']
-Academic 1502,['Biological Sciences']
-Academic 1503,['Anthropology and Development Studies']
-Academic 1504,['Mathematical Sciences']
-Academic 1505,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1506,['Theology and Religious Studies']
-Academic 1507,['Business and Management Studies']
-Academic 1508,['Physics']
-Academic 1509,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1510,"['Art and Design: History, Practice and Theory']"
-Academic 1511,['Area Studies']
-Academic 1512,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1513,['Philosophy']
-Academic 1514,['Law']
-Academic 1515,"['Sociology', 'Mathematical Sciences', 'Biological Sciences', 'English Language and Literature']"
-Academic 1516,"['Public Health, Health Services and Primary Care']"
-Academic 1517,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1518,"['Sport and Exercise Sciences, Leisure and Tourism']"
-Academic 1519,['Social Work and Social Policy']
-Academic 1520,['Theology and Religious Studies']
+Academic 1371,['Earth Systems and Environmental Sciences']
+Academic 1372,['Computer Science and Informatics']
+Academic 1373,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1374,['Business and Management Studies']
+Academic 1375,['Education']
+Academic 1376,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1377,"['Theology and Religious Studies', 'Modern Languages and Linguistics', 'Sport and Exercise Sciences, Leisure and Tourism', 'Education']"
+Academic 1378,['Politics and International Studies']
+Academic 1379,['Area Studies']
+Academic 1380,['Biological Sciences']
+Academic 1381,['Sociology']
+Academic 1382,"['Allied Health Professions, Dentistry, Nursing and Pharmacy', 'Law']"
+Academic 1383,['Engineering']
+Academic 1384,['Engineering']
+Academic 1385,['Area Studies']
+Academic 1386,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1387,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1388,['Sociology']
+Academic 1389,['Chemistry']
+Academic 1390,['Politics and International Studies']
+Academic 1391,['Theology and Religious Studies']
+Academic 1392,['Area Studies']
+Academic 1393,['Clinical Medicine']
+Academic 1394,['Biological Sciences']
+Academic 1395,['Business and Management Studies']
+Academic 1396,['Sociology']
+Academic 1397,['Area Studies']
+Academic 1398,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1399,['Biological Sciences']
+Academic 1400,"['Architecture, Built Environment and Planning', 'Modern Languages and Linguistics', 'Law']"
+Academic 1401,['English Language and Literature']
+Academic 1402,['Biological Sciences']
+Academic 1403,['Archaeology']
+Academic 1404,['Clinical Medicine']
+Academic 1405,['Engineering']
+Academic 1406,['Politics and International Studies']
+Academic 1407,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1408,"['Architecture, Built Environment and Planning']"
+Academic 1409,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1410,['Engineering']
+Academic 1411,['Engineering']
+Academic 1412,['Modern Languages and Linguistics']
+Academic 1413,"['Public Health, Health Services and Primary Care']"
+Academic 1414,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1415,['Law']
+Academic 1416,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1417,['Chemistry']
+Academic 1418,['Computer Science and Informatics']
+Academic 1419,"['Art and Design: History, Practice and Theory']"
+Academic 1420,['Theology and Religious Studies']
+Academic 1421,['Classics']
+Academic 1422,"['Architecture, Built Environment and Planning']"
+Academic 1423,['History']
+Academic 1424,['History']
+Academic 1425,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1426,['Social Work and Social Policy']
+Academic 1427,['History']
+Academic 1428,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1429,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1430,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1431,['Sociology']
+Academic 1432,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1433,['Sociology']
+Academic 1434,['Mathematical Sciences']
+Academic 1435,['Chemistry']
+Academic 1436,['Computer Science and Informatics']
+Academic 1437,['Physics']
+Academic 1438,['Anthropology and Development Studies']
+Academic 1439,['Engineering']
+Academic 1440,['English Language and Literature']
+Academic 1441,['Sociology']
+Academic 1442,"['Computer Science and Informatics', 'Sociology', 'Agriculture, Food and Veterinary Sciences']"
+Academic 1443,['English Language and Literature']
+Academic 1444,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1445,"['Chemistry', 'Politics and International Studies']"
+Academic 1446,['Philosophy']
+Academic 1447,['Economics and Econometrics']
+Academic 1448,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'History', 'Philosophy']"
+Academic 1449,['Physics']
+Academic 1450,['Archaeology']
+Academic 1451,"['Business and Management Studies', 'Communication, Cultural and Media Studies, Library and Information Management', 'Psychology, Psychiatry and Neuroscience']"
+Academic 1452,['Modern Languages and Linguistics']
+Academic 1453,"['Politics and International Studies', 'Computer Science and Informatics']"
+Academic 1454,"['Education', 'Chemistry']"
+Academic 1455,['Modern Languages and Linguistics']
+Academic 1456,['Physics']
+Academic 1457,['Classics']
+Academic 1458,['Politics and International Studies']
+Academic 1459,"['Sociology', 'Archaeology']"
+Academic 1460,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1461,['Philosophy']
+Academic 1462,['Physics']
+Academic 1463,['Area Studies']
+Academic 1464,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1465,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1466,['Politics and International Studies']
+Academic 1467,"['Public Health, Health Services and Primary Care']"
+Academic 1468,['Modern Languages and Linguistics']
+Academic 1469,"['Art and Design: History, Practice and Theory']"
+Academic 1470,['Economics and Econometrics']
+Academic 1471,['Modern Languages and Linguistics']
+Academic 1472,"['Architecture, Built Environment and Planning']"
+Academic 1473,"['History', 'Modern Languages and Linguistics']"
+Academic 1474,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1475,['Computer Science and Informatics']
+Academic 1476,"['Art and Design: History, Practice and Theory']"
+Academic 1477,['Mathematical Sciences']
+Academic 1478,['Theology and Religious Studies']
+Academic 1479,['Economics and Econometrics']
+Academic 1480,['English Language and Literature']
+Academic 1481,['Computer Science and Informatics']
+Academic 1482,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1483,['Philosophy']
+Academic 1484,['Education']
+Academic 1485,['Theology and Religious Studies']
+Academic 1486,['Area Studies']
+Academic 1487,"['Psychology, Psychiatry and Neuroscience']"
+Academic 1488,"['Architecture, Built Environment and Planning']"
+Academic 1489,['Clinical Medicine']
+Academic 1490,"['Art and Design: History, Practice and Theory']"
+Academic 1491,['Anthropology and Development Studies']
+Academic 1492,['Anthropology and Development Studies']
+Academic 1493,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1494,['Computer Science and Informatics']
+Academic 1495,['Archaeology']
+Academic 1496,"['Education', 'Theology and Religious Studies']"
+Academic 1497,['Law']
+Academic 1498,['Archaeology']
+Academic 1499,['Earth Systems and Environmental Sciences']
+Academic 1500,"['Architecture, Built Environment and Planning']"
+Academic 1501,['Mathematical Sciences']
+Academic 1502,['Earth Systems and Environmental Sciences']
+Academic 1503,['Clinical Medicine']
+Academic 1504,['Anthropology and Development Studies']
+Academic 1505,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1506,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1507,['Area Studies']
+Academic 1508,"['Architecture, Built Environment and Planning']"
+Academic 1509,"['Area Studies', 'Physics']"
+Academic 1510,['Clinical Medicine']
+Academic 1511,['Biological Sciences']
+Academic 1512,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1513,['Archaeology']
+Academic 1514,['History']
+Academic 1515,['Clinical Medicine']
+Academic 1516,['Computer Science and Informatics']
+Academic 1517,['Politics and International Studies']
+Academic 1518,"['Engineering', 'Sociology']"
+Academic 1519,['Earth Systems and Environmental Sciences']
+Academic 1520,['Law']
 Academic 1521,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1522,['Classics']
-Academic 1523,['Philosophy']
-Academic 1524,['Physics']
-Academic 1525,['Area Studies']
-Academic 1526,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1527,['Physics']
-Academic 1528,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
-Academic 1529,['Geography and Environmental Studies']
-Academic 1530,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1531,['Education']
-Academic 1532,['Social Work and Social Policy']
-Academic 1533,"['History', 'Law', 'Public Health, Health Services and Primary Care']"
-Academic 1534,['Physics']
-Academic 1535,['Social Work and Social Policy']
-Academic 1536,['Theology and Religious Studies']
-Academic 1537,['Chemistry']
-Academic 1538,['Philosophy']
-Academic 1539,['Geography and Environmental Studies']
-Academic 1540,['Area Studies']
-Academic 1541,"['Psychology, Psychiatry and Neuroscience']"
-Academic 1542,['Earth Systems and Environmental Sciences']
-Academic 1543,['Area Studies']
-Academic 1544,['Physics']
-Academic 1545,['History']
-Academic 1546,['English Language and Literature']
+Academic 1522,['Clinical Medicine']
+Academic 1523,['Business and Management Studies']
+Academic 1524,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1525,['Chemistry']
+Academic 1526,['Anthropology and Development Studies']
+Academic 1527,['Mathematical Sciences']
+Academic 1528,"['Physics', 'Public Health, Health Services and Primary Care', 'Engineering']"
+Academic 1529,['Modern Languages and Linguistics']
+Academic 1530,['Computer Science and Informatics']
+Academic 1531,['Classics']
+Academic 1532,['Engineering']
+Academic 1533,"['Agriculture, Food and Veterinary Sciences']"
+Academic 1534,['History']
+Academic 1535,['Physics']
+Academic 1536,['Earth Systems and Environmental Sciences']
+Academic 1537,['Area Studies']
+Academic 1538,['Sociology']
+Academic 1539,['Social Work and Social Policy']
+Academic 1540,['Engineering']
+Academic 1541,['Classics']
+Academic 1542,['Philosophy']
+Academic 1543,['Education']
+Academic 1544,"['Sport and Exercise Sciences, Leisure and Tourism']"
+Academic 1545,['Sociology']
+Academic 1546,"['Psychology, Psychiatry and Neuroscience', 'Art and Design: History, Practice and Theory', 'Mathematical Sciences']"
 Academic 1547,"['Public Health, Health Services and Primary Care']"
-Academic 1548,['Theology and Religious Studies']
-Academic 1549,['Law']
-Academic 1550,"['Mathematical Sciences', 'Theology and Religious Studies', 'Archaeology', 'Archaeology']"
-Academic 1551,"['Chemistry', 'Clinical Medicine', 'Archaeology']"
-Academic 1552,['Clinical Medicine']
-Academic 1553,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1554,['Anthropology and Development Studies']
-Academic 1555,['Business and Management Studies']
-Academic 1556,['Earth Systems and Environmental Sciences']
-Academic 1557,['Politics and International Studies']
-Academic 1558,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1559,['Anthropology and Development Studies']
-Academic 1560,['Business and Management Studies']
-Academic 1561,['Computer Science and Informatics']
-Academic 1562,['Chemistry']
-Academic 1563,['Engineering']
-Academic 1564,['Archaeology']
-Academic 1565,"['Politics and International Studies', 'Computer Science and Informatics', 'Clinical Medicine']"
-Academic 1566,['Anthropology and Development Studies']
-Academic 1567,['Education']
-Academic 1568,['English Language and Literature']
-Academic 1569,['Sociology']
-Academic 1570,['History']
-Academic 1571,['Classics']
-Academic 1572,['Philosophy']
-Academic 1573,['Physics']
-Academic 1574,"['Engineering', 'Archaeology']"
-Academic 1575,['Modern Languages and Linguistics']
-Academic 1576,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1577,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1578,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
-Academic 1579,['Classics']
-Academic 1580,['Philosophy']
-Academic 1581,['Earth Systems and Environmental Sciences']
-Academic 1582,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1583,['Archaeology']
-Academic 1584,['Modern Languages and Linguistics']
-Academic 1585,['Anthropology and Development Studies']
-Academic 1586,"['Agriculture, Food and Veterinary Sciences']"
-Academic 1587,"['Communication, Cultural and Media Studies, Library and Information Management']"
-Academic 1588,['Engineering']
-Academic 1589,['Philosophy']
+Academic 1548,['English Language and Literature']
+Academic 1549,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1550,"['Art and Design: History, Practice and Theory']"
+Academic 1551,"['Communication, Cultural and Media Studies, Library and Information Management']"
+Academic 1552,['Archaeology']
+Academic 1553,['Archaeology']
+Academic 1554,"['Architecture, Built Environment and Planning']"
+Academic 1555,"['Communication, Cultural and Media Studies, Library and Information Management', 'Clinical Medicine', 'Agriculture, Food and Veterinary Sciences']"
+Academic 1556,['Computer Science and Informatics']
+Academic 1557,"['Biological Sciences', 'Public Health, Health Services and Primary Care']"
+Academic 1558,"['Public Health, Health Services and Primary Care']"
+Academic 1559,['Economics and Econometrics']
+Academic 1560,['Philosophy']
+Academic 1561,['Social Work and Social Policy']
+Academic 1562,['Geography and Environmental Studies']
+Academic 1563,['Computer Science and Informatics']
+Academic 1564,['History']
+Academic 1565,['Area Studies']
+Academic 1566,"['Archaeology', 'Earth Systems and Environmental Sciences', 'Archaeology', 'English Language and Literature']"
+Academic 1567,['Biological Sciences']
+Academic 1568,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies', 'Archaeology']"
+Academic 1569,['Area Studies']
+Academic 1570,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1571,['Theology and Religious Studies']
+Academic 1572,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1573,['English Language and Literature']
+Academic 1574,['Modern Languages and Linguistics']
+Academic 1575,['Computer Science and Informatics']
+Academic 1576,['Sociology']
+Academic 1577,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1578,['Physics']
+Academic 1579,['Theology and Religious Studies']
+Academic 1580,['Biological Sciences']
+Academic 1581,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1582,['Engineering']
+Academic 1583,"['Sociology', 'Clinical Medicine']"
+Academic 1584,"['Allied Health Professions, Dentistry, Nursing and Pharmacy']"
+Academic 1585,['Social Work and Social Policy']
+Academic 1586,"['Music, Drama, Dance, Performing Arts, Film and Screen Studies']"
+Academic 1587,"['Public Health, Health Services and Primary Care']"
+Academic 1588,['Education']
+Academic 1589,['Classics']
