@@ -1,37 +1,45 @@
 import time, Main, ListGen, csv, openpyxl
 
 def Test():
-    # testInputVals = [[100, 250, 0.01], [200, 250, 0.01], [100, 500, 0.01], [100, 250, 0.1], [10, 250, 0.01], [100, 25, 0.01], [100, 250, 0.001]]
-    # testNames = ["Control", "High Pop", "High Gen", "High Mut", "Low Pop", "Low Gen", "Low Mut"]
-    # testResults = []
-    # ListGen.Generate([1590, 6])
-    # for x in range(0, len(testInputVals)):
-    #     inputVals = testInputVals[x]
-    #     name = testNames[x]
-    #     startTime = time.time()
-    #     output = Main.Run(inputVals)
-    #     fitOverTime = output[0]
-    #     greedyFit = output[1]
-    #     timeDuration = time.time() - startTime
-    #     testResults.append([name, inputVals, fitOverTime, greedyFit, timeDuration])
+    testInputVals = [[100, 250, 0.01], [200, 250, 0.01], [100, 500, 0.01], [100, 250, 0.1], [10, 250, 0.01], [100, 25, 0.01], [100, 250, 0.001]]
+    testNames = ["Control", "High Pop", "High Gen", "High Mut", "Low Pop", "Low Gen", "Low Mut"]
+    testResults = []
+    ListGen.Generate([1590, 6])
+    for x in range(0, len(testInputVals)):
+        inputVals = testInputVals[x]
+        name = testNames[x]
+        startTime = time.time()
+        output = Main.Run(inputVals)
+        fitOverTime = output[0]
+        greedyFit = output[1]
+        timeDuration = time.time() - startTime
+        testResults.append([name, inputVals, fitOverTime, greedyFit, timeDuration])
 
-    # csvFilepath = "Data/Aglo Parameter Test Results.csv"
+    csvFilepath = "Data/Aglo Parameter Test Results.csv"
 
-    # # Define the field names (headers)
-    # generalData = []
-    # generalData.append(["Name", "Input Values", "Final Fitness", "Greedy Fitness", "Duration of Run"])
+    # Define the field names (headers)
+    generalData = []
+    generalData.append(["Name", "Input Values", "Final Fitness", "Greedy Fitness", "Duration of Run"])
 
     fitnessData = []
 
-    # for test in testResults:
-    #     name, inputVals, fitOverTime, greedyFit, timeDuration = test
-    #     generalData.append([name, inputVals, fitOverTime[-1][1], greedyFit, timeDuration])
-    #     fitnessData.append(fitOverTime)
+    for test in testResults:
+        name, inputVals, fitOverTime, greedyFit, timeDuration = test
+        generalData.append([name, inputVals, fitOverTime[-1][1], greedyFit, timeDuration])
+        fitnessData.append(fitOverTime)
 
-    # # Writing to CSV
-    # with open(csvFilepath, mode='w', newline='') as file:
-    #     writer = csv.writer(file)
-    #     writer.writerows(generalData)
+    # Writing to CSV
+    with open(csvFilepath, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerows(generalData)
+
+    csvFilepaths = ["Data/AP/Control Test Results.csv","Data/AP/High Pop Test Results.csv","Data/AP/High Gen Test Results.csv","Data/AP/High Mut Test Results.csv","Data/AP/Low Pop Test Results.csv","Data/AP/Low PGen Test Results.csv","Data/AP/Low Mut Test Results.csv"]
+
+    for x in range(0, len(csvFilepaths) - 1):
+        with open(csvFilepaths[x], mode='w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(["Generation", "Fitness"])
+            writer.writerows(fitnessData[x])
 
 
     testInputVals = [[1590, 6], [996, 6], [1590, 3], [3180, 6], [1590, 12]]
