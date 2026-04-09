@@ -49,9 +49,9 @@ numPapSubjects = [1, 2]
 numPapSubWeight = [90, 10]
 
 maxPapers = 5
-popSize = 10
-numGen = 50
-mutRate = 0.5
+popSize = 50
+numGen = 250
+mutRate = 0.01
 
 highWeight = 1.6
 midWeight = 1.2

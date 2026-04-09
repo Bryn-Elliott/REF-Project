@@ -84,7 +84,11 @@ def CalculateUnassigned(solution, papers):
     
     return unassignedPapers
 
-def GeneticAlgorithm(data):
+def GeneticAlgorithm(data, inputVals):
+
+    popSize = inputVals[0]
+    numGen = inputVals[1]
+    mutRate = inputVals[2]
 
     academics, papers = Tools.LoadData(data)
 
@@ -112,6 +116,8 @@ def GeneticAlgorithm(data):
 
     bestFit = -2
 
+    fitOverTime = []
+
     for generation in range(numGen):
 
         nextGeneration = population[:10] 
@@ -125,6 +131,7 @@ def GeneticAlgorithm(data):
         bestGenFit = Tools.Fitness(population[0], academics, papers)
 
         print(f"Generation {generation}: Best Fitness so Far = {bestFit}, Greedy Fitness = {greedyFit}")
+        fitOverTime.append([generation, bestFit])
         totalAssignedPapers = sum(len(x) for x in population[0].values())
         totalAcademics = sum(1 for v in population[0].values())
         print(str(totalAssignedPapers) + ", " + str(totalAcademics))
@@ -166,3 +173,7 @@ def GeneticAlgorithm(data):
     with open(csv_filepath, mode='w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(data)
+
+    output = [fitOverTime, greedyFit]
+
+    return output
