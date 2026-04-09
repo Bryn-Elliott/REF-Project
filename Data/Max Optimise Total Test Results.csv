@@ -1,0 +1,2 @@
+Name,Input Values,Final Fitness,Greedy Fitness,Duration of Run,% inc over Greedy,% Inc per second
+Max Optimise,"[20, 250, 0.1]",2.8712,1.9592,617.6841319,46.54961209,0.075361515
