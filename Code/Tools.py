@@ -3,7 +3,7 @@ import pandas as pd
 data = ['Data/REF 2021 Results - Avg by Panel & Institution.csv', 'Data/REF 2021 Results - All.xlsx', 'Data/Academics.csv', 'Data/Papers.csv'] # Input data paths
 
 academicsLen = 1590
-AcaPapRatio = 6
+AcaPapRatio = 3
 
 subjects = [
 "Clinical Medicine",
@@ -82,7 +82,6 @@ midWeightSubjects = [
     "Computer Science and Informatics",
 ]
 
-
 def Fitness(solution, academics, papers):
     total = 0
     count = 0
@@ -128,3 +127,16 @@ def LoadData(data):
         papers[name] = {"subjects": list(subjects), "score": score}
 
     return academics, papers
+
+def CalculateUnassigned(solution, papers):
+    unassignedPapers = []
+
+    for paper in papers:
+        unassignedPapers.append(paper)
+
+    for academic in solution:
+        for paper in solution[academic]:
+            if paper in unassignedPapers:
+                unassignedPapers.remove(paper)
+    
+    return unassignedPapers

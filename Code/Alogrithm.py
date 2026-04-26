@@ -14,10 +14,10 @@ highWeightSubjects = Tools.highWeightSubjects
 midWeightSubjects = Tools.midWeightSubjects
 
 def Mutate(solution, academics, papers):
-    mutateCount = random.randrange(0, int((len(academics.keys()) * mutRate)))
+    mutateCount = random.randrange(1, int((len(academics.keys()) * mutRate)))
 
     for _ in range(1, mutateCount):
-        unassignedPapers = CalculateUnassigned(solution, papers)
+        unassignedPapers = Tools.CalculateUnassigned(solution, papers)
         a1 = random.choice(list(solution.keys()))
         compatPap = []
         if solution[a1]:
@@ -63,19 +63,6 @@ def Mutate(solution, academics, papers):
                         solution[a1].append(random.choice(acaBestPap[0:int(len(acaBestPap) / 2) + 1])[0])
     return solution
 
-def CalculateUnassigned(solution, papers):
-    unassignedPapers = []
-
-    for paper in papers:
-        unassignedPapers.append(paper)
-
-    for academic in solution:
-        for paper in solution[academic]:
-            if paper in unassignedPapers:
-                unassignedPapers.remove(paper)
-    
-    return unassignedPapers
-
 def GeneticAlgorithm(data, inputVals):
 
     popSize = inputVals[0]
@@ -108,17 +95,15 @@ def GeneticAlgorithm(data, inputVals):
 
     bestFit = -2
 
-    bestPop = population[:10] 
-
-    nextGeneration = bestPop
 
     fitOverTime = []
 
     for generation in range(numGen):
-
+        
+        nextGeneration = population[:int(len(population)/10)] 
 
         while len(nextGeneration) < popSize:
-            contenders = random.sample(bestPop, int(len(bestPop)/4))
+            contenders = random.sample(nextGeneration, int(len(nextGeneration)))
             parent = max(contenders, key=lambda x: Tools.Fitness(x, academics, papers))
             child = Mutate(parent, academics, papers)
             nextGeneration.append(child)
@@ -134,16 +119,18 @@ def GeneticAlgorithm(data, inputVals):
 
         currentFit = Tools.Fitness(currentBest, academics, papers)
 
-        fitOverTime.append([generation, currentFit])
-
         if currentFit > bestFit:
             bestFit = currentFit
             bestInd = currentBest
 
+        fitOverTime.append([generation, bestFit])
+            
         print(f"Generation {generation}: Best Fitness so Far = {bestFit}, Greedy Fitness = {greedyFit}")
         totalAssignedPapers = sum(len(x) for x in population[0].values())
         totalAcademics = sum(1 for v in population[0].values())
         print(str(totalAssignedPapers) + ", " + str(totalAcademics))
+
+        population = nextGeneration
 
 
     print("Final Fitness: " + str(bestFit))

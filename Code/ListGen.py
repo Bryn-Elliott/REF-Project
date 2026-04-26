@@ -71,3 +71,5 @@ def Generate(inputVals):
     df.to_csv(csvFilePath, index=False, header=True)
     print(y)
     print('Papers.csv file has been created successfully.')
+
+Generate([500, 4])
